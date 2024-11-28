@@ -415,3 +415,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 22:58:06.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -0.9276424903736924,0.945235477477226,-10.1492893342487
 [28Nov2024 23:01:35.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
 [28Nov2024 23:01:35.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[28Nov2024 23:13:14.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.227.160.110:38879] logged in with entity id 4860 at (38.385065515979804, 64.0, -170.04537904537077)
+[28Nov2024 23:13:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[28Nov2024 23:17:18.488] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[28Nov2024 23:17:18.499] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[28Nov2024 23:17:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Dragon
+[28Nov2024 23:17:45.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Timed out
+[28Nov2024 23:17:45.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[28Nov2024 23:18:15.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.227.160.110:48031] logged in with entity id 6279 at (-12.60338031312948, 86.0, 3.263180012040527)
+[28Nov2024 23:18:15.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
