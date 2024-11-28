@@ -381,3 +381,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Nov2024 05:15:24.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Timed out
 [28Nov2024 05:15:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
 [28Nov2024 05:15:48.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fc2d975[id=<null>,name=Notiwaldo_35,properties={},legacy=false] (/127.243.67.21:53219) lost connection: Disconnected
+[28Nov2024 05:20:00.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.227.160.110:50611] logged in with entity id 1347 at (-29.225200206125603, 104.0, 9.862373771668903)
+[28Nov2024 05:20:00.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[28Nov2024 05:24:12.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -0.33204919197255833,-10.201788143051388,-2.281650007175074
+[28Nov2024 05:27:31.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Timed out
+[28Nov2024 05:27:31.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[28Nov2024 05:27:31.328] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 05:27:52.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.227.160.110:44935] logged in with entity id 3443 at (-291.7566918487795, 68.0, -321.5201718153564)
+[28Nov2024 05:27:52.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[28Nov2024 05:27:56.007] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 1621.24ms!
+[28Nov2024 05:27:57.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Nov2024 05:28:06.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Monster Hunter]
+[28Nov2024 05:28:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [A Strange Grave Dust]
+[28Nov2024 05:28:22.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Timed out
+[28Nov2024 05:28:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
