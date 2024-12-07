@@ -1965,78 +1965,156 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "dungeons_arise:find_infested_temple_map": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-11-28 23:35:14 +0000",
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "find_map": "2024-11-28 23:19:33 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_map": "2024-11-28 23:19:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-11-28 23:19:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-11-28 23:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-28 23:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-28 23:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-28 23:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-28 23:23:18 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2024-11-28 23:23:50 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "location0": "2024-11-28 23:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-28 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-11-28 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-28 23:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-28 23:27:29 +0000",
+      "minecraft:zombie": "2024-11-28 23:35:05 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "minecraft:skeleton": "2024-11-28 23:27:29 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "slept_in_bed": "2024-11-28 23:30:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
-      "log_spam_fixer": "2024-11-28 23:35:12 +0000"
+      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-11-28 23:32:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 23:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-11-28 23:33:28 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
@@ -2044,15 +2122,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "has_diamond": "2024-11-28 23:35:17 +0000"
+      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "has_bone_meal": "2024-11-28 23:24:18 +0000"
+      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-28 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-11-28 23:34:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-11-28 23:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-28 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-28 23:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-28 23:35:17 +0000"
     },
     "done": true
   },
@@ -2074,52 +2206,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-11-28 23:30:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-11-28 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-11-28 23:27:29 +0000",
-      "minecraft:zombie": "2024-11-28 23:35:05 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2024-11-28 23:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
     },
     "done": true
   },
@@ -2135,27 +2224,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-28 23:33:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2024-11-28 23:24:18 +0000"
-    },
-    "done": true
-  },
   "grimoireofgaia:recipes/misc/quill": {
     "criteria": {
       "has_diamond": "2024-11-28 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2024-11-28 23:33:28 +0000"
     },
     "done": true
   },
@@ -2165,51 +2236,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2024-11-28 23:19:38 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2024-11-28 23:19:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2024-11-28 23:34:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-28 23:35:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-11-28 23:34:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-28 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2024-11-28 23:24:18 +0000"
     },
     "done": true
   },
@@ -2225,51 +2260,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_sword": "2024-11-28 23:23:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-11-28 23:19:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_taiga": "2024-11-28 23:23:50 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-11-28 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "has_sugar": "2024-11-28 23:34:07 +0000"
     },
     "done": true
   },
@@ -2279,13 +2272,13 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
+      "has_diamond": "2024-11-28 23:35:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-11-28 23:35:17 +0000"
     },
@@ -2303,69 +2296,45 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "comforts:rope_and_nail": {
     "criteria": {
-      "location0": "2024-11-28 23:23:51 +0000"
+      "has_iron": "2024-12-07 20:10:01 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
+  "soulsweapons:root": {
     "criteria": {
-      "has_sugar": "2024-11-28 23:34:07 +0000"
+      "crafting_table": "2024-12-07 20:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
-      "has_carrot": "2024-11-28 23:33:41 +0000"
+      "has_item": "2024-12-07 20:10:01 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/slice_map": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "has_map": "2024-11-28 23:19:36 +0000"
+      "coded_trigger": "2024-12-07 20:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "betterdungeons:root": {
     "criteria": {
-      "has_paper": "2024-11-28 23:19:38 +0000"
+      "always": "2024-12-07 20:10:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "soulsweapons:recipes/combat/holy_greatsword": {
     "criteria": {
-      "has_iron_sword": "2024-11-28 23:23:18 +0000"
+      "has_item": "2024-12-07 20:10:01 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "cataclysm:root": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-28 23:27:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2024-11-28 23:32:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-11-28 23:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2024-11-28 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-11-28 23:33:41 +0000"
+      "custom_test_name": "2024-12-07 20:10:02 +0000"
     },
     "done": true
   },
