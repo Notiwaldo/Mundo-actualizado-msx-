@@ -538,3 +538,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 04:16:41.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
 [09Dec2024 04:16:42.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5, y=72, z=437} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [09Dec2024 04:16:42.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=5, y=72, z=437}
+[09Dec2024 04:22:10.215] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:22:10.244] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:22:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Harpy
+[09Dec2024 04:22:55.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Dec2024 04:23:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Acquire Hardware]
+[09Dec2024 04:23:37.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Suit Up]
+[09Dec2024 04:25:09.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [A Strange Grave Dust]
+[09Dec2024 04:25:36.553] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 04:25:36.561] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 04:25:37.518] [Thread-55/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 04:25:37.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.16.94.70:42613] logged in with entity id 9070 at (-4.5, 69.0, -8.5)
+[09Dec2024 04:25:37.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[09Dec2024 04:25:37.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Blade MoveSets]
+[09Dec2024 04:25:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Christmas]
+[09Dec2024 04:25:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Ice and Fire]
+[09Dec2024 04:25:38.179] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:25:38.200] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:25:48.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Minotaurus
+[09Dec2024 04:25:58.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was shot by Skeleton
+[09Dec2024 04:25:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Your First Grave]
+[09Dec2024 04:26:00.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [The Most Useful Key]
+[09Dec2024 04:26:00.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Here They Come]
+[09Dec2024 04:26:54.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Ashes 'n Bones]
+[09Dec2024 04:28:32.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [This Must be a Sign!]
+[09Dec2024 04:28:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [This Must be a Sign!]
+[09Dec2024 04:28:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Birds of a Feather]
+[09Dec2024 04:28:54.329] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:28:54.337] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:29:03.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Umvuthi, the Sunbird
+[09Dec2024 04:29:10.651] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[09Dec2024 04:29:10.670] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[09Dec2024 04:29:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 drowned whilst trying to escape Corpse Fish
+[09Dec2024 04:29:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Your First Grave]
+[09Dec2024 04:29:15.347] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[09Dec2024 04:29:19.521] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 04:29:19.526] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 04:29:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Umvuthi, the Sunbird
+[09Dec2024 04:30:13.636] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:30:13.646] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:30:20.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 burned to death
+[09Dec2024 04:30:30.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [The Most Useful Key]
+[09Dec2024 04:30:39.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 lost connection: Disconnected
+[09Dec2024 04:30:39.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 left the game
+[09Dec2024 04:31:03.904] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 04:31:03.912] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 04:31:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Umvuthi, the Sunbird
