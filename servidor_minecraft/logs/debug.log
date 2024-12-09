@@ -9910,3 +9910,68 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [09Dec2024 22:08:44.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11717ms or 234 ticks behind
 [09Dec2024 22:08:53.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! 6.6897891217428835,-0.567299122994072,7.4737880120281375
 [09Dec2024 22:08:53.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -8.47088838391268,0.0,5.446220057488404
+[09Dec2024 22:09:12.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 2.113111722373233,1.0013359791121417,-9.839755117423806
+[09Dec2024 22:09:16.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! 4.206197245826502,1.1661092609382138,9.043815422192552
+[09Dec2024 22:09:16.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -0.07550723726751585,-0.7539862017387549,-10.072176927501232
+[09Dec2024 22:09:24.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! 6.768379616037919,-6.3074800456282105,5.4400292122725205
+[09Dec2024 22:09:25.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[09Dec2024 22:09:50.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! 1.8251390664906921,-2.311215961589852,9.59574348330716
+[09Dec2024 22:09:53.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.46792168729155,-4.0,5.767171743586005
+[09Dec2024 22:09:53.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 54643ms or 1092 ticks behind
+[09Dec2024 22:09:55.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -0.1093375814684805,-0.16610926093821377,10.321541500551575
+[09Dec2024 22:10:06.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.1190493267052375,-1.1621414210270018,7.105045644553229
+[09Dec2024 22:10:09.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -9.827441604993112,2.176759275064242,0.3143255732647958
+[09Dec2024 22:10:13.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -8.652660929992862,0.9986640208878583,5.4299689695585585
+[09Dec2024 22:10:16.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -8.149930515746263,-0.756759288177264,5.888423917404452
+[09Dec2024 22:10:19.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.528190033050834,-1.2578585658599764,6.838711877885089
+[09Dec2024 22:10:22.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -4.443920296269283,-4.185266777453478,8.098677768666676
+[09Dec2024 22:10:39.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -8.586996831650964,-4.766367993957516,-2.0747199954985263
+[09Dec2024 22:10:47.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -1.5661281415501946,-10.445935058147342,1.4643663721617486
+[09Dec2024 22:10:50.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -6.849056035896382,2.2026055629511703,7.283346926969898
+[09Dec2024 22:10:52.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -6.908985673711271,0.046069332360517024,7.396048755068932
+[09Dec2024 22:10:57.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -6.508170069013801,-1.0443066478953398,7.522626186421348
+[09Dec2024 22:11:00.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -6.992999369007634,-0.847385847094813,7.172199765833739
+[09Dec2024 22:11:02.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.618151554183953,-0.4949329646032794,6.681800729162205
+[09Dec2024 22:11:05.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -9.018962396627217,-0.6325036598405589,4.532089648484998
+[09Dec2024 22:11:07.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -8.884317978314172,-0.5080245106050398,5.32240185639921
+[09Dec2024 22:11:08.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 59354ms or 1187 ticks behind
+[09Dec2024 22:11:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -10.211378271253736,1.509036162665133,-0.04443077344512858
+[09Dec2024 22:11:12.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.625752828817156,1.9483181708295163,6.688195286073551
+[09Dec2024 22:11:15.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -6.854959979182468,0.6932627590962923,7.607147350758623
+[09Dec2024 22:11:18.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -9.989074691842802,0.00501935278537502,1.0368892455412606
+[09Dec2024 22:11:20.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -10.01445075710491,-0.14179230620446504,1.8056768763863147
+[09Dec2024 22:11:23.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -10.312272326867348,0.23243558565016542,0.049236566983381636
+[09Dec2024 22:11:30.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! 5.359043979352208,-0.8955877713383913,-8.401953452272664
+[09Dec2024 22:12:04.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! -3.04255589707725,-0.8245767040478995,-9.515491947953365
+[09Dec2024 22:12:07.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! -1.7459161549688815,0.8322033533667508,-10.15441190465026
+[09Dec2024 22:12:09.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! -2.6947081606324446,-0.33319999363422426,-9.891554048490093
+[09Dec2024 22:12:12.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! -1.621945038922604,-2.347953212069413,-9.761560834049192
+[09Dec2024 22:12:15.854] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[09Dec2024 22:12:15.855] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[09Dec2024 22:12:16.227] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[09Dec2024 22:12:16.227] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[09Dec2024 22:12:16.228] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[09Dec2024 22:12:16.228] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[09Dec2024 22:12:16.228] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[09Dec2024 22:12:16.228] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[09Dec2024 22:12:16.228] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[09Dec2024 22:12:16.229] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[09Dec2024 22:12:16.229] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[09Dec2024 22:12:16.229] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[09Dec2024 22:12:16.229] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[09Dec2024 22:12:16.296] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[09Dec2024 22:12:16.297] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@391d28ea
+[09Dec2024 22:12:16.298] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[09Dec2024 22:12:16.348] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[09Dec2024 22:12:16.349] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[09Dec2024 22:12:16.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! -1.088909423440441,-0.49520087700592796,-10.087071508617214
+[09Dec2024 22:12:16.562] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0b6c04d0-a3ab-4398-95ed-836a5022d505
+[09Dec2024 22:12:16.620] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 23d0a210-6108-429f-aac8-b90d6b999ab0
+[09Dec2024 22:12:16.622] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Mundo-actualizado-msx-/servidor_minecraft/./crash-reports/crash-2024-12-09_22.12.16-server.txt
+[09Dec2024 22:12:16.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 22:12:16.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 22:12:16.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Server closed
+[09Dec2024 22:12:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[09Dec2024 22:12:16.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Server closed
+[09Dec2024 22:12:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
+[09Dec2024 22:12:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
