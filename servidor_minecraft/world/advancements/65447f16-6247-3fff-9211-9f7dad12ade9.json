@@ -131,6 +131,7 @@
       "shrubland": "2024-12-09 04:27:39 +0000",
       "scrubland": "2024-12-09 04:25:38 +0000",
       "old_growth_woodland": "2024-12-09 04:46:04 +0000",
+      "dryland": "2024-12-09 21:53:39 +0000",
       "redwood_forest": "2024-12-09 05:26:21 +0000"
     },
     "done": false
@@ -290,6 +291,7 @@
       "minecraft:beach": "2024-12-09 06:31:59 +0000",
       "minecraft:river": "2024-12-09 04:27:41 +0000",
       "minecraft:forest": "2024-12-09 05:54:34 +0000",
+      "minecraft:desert": "2024-12-09 21:54:08 +0000",
       "minecraft:savanna": "2024-12-09 05:50:28 +0000"
     },
     "done": false

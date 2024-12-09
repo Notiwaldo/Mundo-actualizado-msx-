@@ -179,7 +179,8 @@
       "minecraft:creeper": "2024-12-09 07:08:26 +0000",
       "minecraft:wither_skeleton": "2024-12-09 08:46:41 +0000",
       "minecraft:cave_spider": "2024-12-09 05:26:31 +0000",
-      "minecraft:zombie": "2024-12-08 22:29:47 +0000"
+      "minecraft:zombie": "2024-12-08 22:29:47 +0000",
+      "minecraft:zombie_villager": "2024-12-09 21:49:14 +0000"
     },
     "done": false
   },
@@ -4123,6 +4124,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 21:49:23 +0000"
     },
     "done": true
   },

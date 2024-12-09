@@ -9811,3 +9811,52 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [09Dec2024 21:47:09.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8527ms or 170 ticks behind
 [09Dec2024 21:47:31.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7582ms or 151 ticks behind
 [09Dec2024 21:47:53.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6555ms or 131 ticks behind
+[09Dec2024 21:48:22.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13880ms or 277 ticks behind
+[09Dec2024 21:48:39.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[09Dec2024 21:48:57.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[09Dec2024 21:49:16.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4343ms or 86 ticks behind
+[09Dec2024 21:49:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Bone Crusher]
+[09Dec2024 21:49:35.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
+[09Dec2024 21:49:52.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[09Dec2024 21:50:10.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[09Dec2024 21:50:28.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[09Dec2024 21:50:32.169] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 21:50:32.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 21:50:32.172] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[09Dec2024 21:50:48.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5230ms or 104 ticks behind
+[09Dec2024 21:51:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has completed the challenge [What a Nugget, Once Again!]
+[09Dec2024 21:51:13.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10373ms or 207 ticks behind
+[09Dec2024 21:51:36.660] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 21:51:36.708] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 21:51:37.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8227ms or 164 ticks behind
+[09Dec2024 21:51:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Zombie
+[09Dec2024 21:51:42.770] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:197, y:108, z:-2536, dim:minecraft:overworld]
+[09Dec2024 21:51:44.212] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Dec2024 21:52:05.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13386ms or 267 ticks behind
+[09Dec2024 21:52:36.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16031ms or 320 ticks behind
+[09Dec2024 21:53:00.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9409ms or 188 ticks behind
+[09Dec2024 21:53:31.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 5.6603728164830045,-0.04353562014750878,8.532470019040034
+[09Dec2024 21:53:35.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19909ms or 398 ticks behind
+[09Dec2024 21:53:43.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 3.3950928310122492,0.04353562014750878,9.564958037612541
+[09Dec2024 21:53:57.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 2.4436080895607635,-2.6668000063657757,9.446519969028714
+[09Dec2024 21:54:01.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 6.102192866225096,-1.6668000063657757,7.972420458074339
+[09Dec2024 21:54:05.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 1.7652626746654185,2.176759275064242,9.782037183908415
+[09Dec2024 21:54:20.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29595ms or 591 ticks behind
+[09Dec2024 21:54:54.753] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos BlockPos{x=411, y=69, z=-2661}
+[09Dec2024 21:54:55.951] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Dec2024 21:55:13.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -9.808649029730445,1.4129092804170114,-3.0641546501801713
+[09Dec2024 21:55:14.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=411, y=69, z=-2661} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[09Dec2024 21:55:14.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=411, y=69, z=-2661}
+[09Dec2024 21:55:24.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49501ms or 990 ticks behind
+[09Dec2024 21:56:00.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 21:56:01.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 21:56:03.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 4.497351834160071,0.45245147807597164,9.133998937369938
+[09Dec2024 21:56:14.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35175ms or 703 ticks behind
+[09Dec2024 21:56:20.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 7.633208714082148,1.7967356006687112,6.433229794346744
+[09Dec2024 21:56:46.267] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Dec2024 21:57:06.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36355ms or 727 ticks behind
+[09Dec2024 21:57:47.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -8.626138661734373,0.7752370094690093,-5.224733754534441
+[09Dec2024 21:57:48.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26929ms or 538 ticks behind
+[09Dec2024 21:57:59.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 moved too quickly! 9.953365266550804,0.0,1.6534753188537934
+[09Dec2024 21:57:59.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -5.176322496975054,1.083077817806469,-8.536799086886049
+[09Dec2024 21:58:12.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 3.4328637014445036,-0.37673561378173304,-9.855249504053063
