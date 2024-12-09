@@ -71,12 +71,6 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/root": {
-    "criteria": {
-      "join": "2024-12-08 22:24:59 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-08 22:24:59 +0000"
@@ -1447,12 +1441,6 @@
     },
     "done": true
   },
-  "grimoireofgaia:recipes/misc/experience_iron": {
-    "criteria": {
-      "has_iron_box": "2024-12-09 04:15:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2024-12-09 04:23:37 +0000"
@@ -1928,12 +1916,6 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/harpy": {
-    "criteria": {
-      "kill": "2024-12-09 04:24:47 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2024-12-09 04:24:50 +0000"
@@ -1985,12 +1967,6 @@
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2024-12-09 04:28:36 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/werecat": {
-    "criteria": {
-      "kill": "2024-12-09 04:29:51 +0000"
     },
     "done": true
   },
@@ -2051,12 +2027,6 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2024-12-09 05:04:59 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/bone_knight": {
-    "criteria": {
-      "kill": "2024-12-09 05:06:07 +0000"
     },
     "done": true
   },
@@ -2437,6 +2407,7 @@
       "cooked_porkchop": "2024-12-09 05:18:30 +0000",
       "cooked_mutton": "2024-12-09 05:57:46 +0000",
       "cooked_beef": "2024-12-09 05:52:14 +0000",
+      "pumpkin_pie": "2024-12-09 19:46:53 +0000",
       "bread": "2024-12-09 05:31:16 +0000",
       "golden_apple": "2024-12-09 05:32:33 +0000",
       "rotten_flesh": "2024-12-09 06:22:19 +0000",
@@ -2586,12 +2557,6 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-09 05:29:38 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/flesh_lich": {
-    "criteria": {
-      "kill": "2024-12-09 05:31:32 +0000"
     },
     "done": true
   },
@@ -3117,78 +3082,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 08:50:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-09 06:35:29 +0000"
@@ -3207,15 +3100,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
+      "has_wheat": "2024-12-09 06:43:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_gold_block": "2024-12-09 08:45:24 +0000"
+      "has_wheat": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-09 06:43:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-09 06:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-09 06:47:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2024-12-09 06:47:26 +0000"
     },
     "done": true
   },
@@ -3225,15 +3166,231 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "ancient_elements:fluffy": {
     "criteria": {
-      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
+      "fluffy": "2024-12-09 06:57:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
+      "barako": "2024-12-09 07:00:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-09 07:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-09 07:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 07:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 07:12:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 07:13:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-09 07:14:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-09 07:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-09 07:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-09 07:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-09 07:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-09 07:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-09 07:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
@@ -3261,57 +3418,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 07:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-09 08:45:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_flower": "2024-12-09 06:47:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2024-12-09 08:25:15 +0000"
     },
     "done": true
   },
@@ -3321,201 +3430,15 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/orc": {
-    "criteria": {
-      "kill": "2024-12-09 08:26:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_table": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_lightning_dragon": "2024-12-09 08:15:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:fluffy": {
-    "criteria": {
-      "fluffy": "2024-12-09 06:57:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-09 07:40:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/display_case": {
-    "criteria": {
-      "has_item_frame": "2024-12-09 07:01:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 07:40:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2024-12-09 06:47:23 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/featherlight": {
-    "criteria": {
-      "has_item": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_stool": {
-    "criteria": {
-      "has_wool": "2024-12-09 08:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2024-12-09 08:07:01 +0000"
     },
     "done": true
   },
@@ -3537,153 +3460,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dragon_staff": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-09 07:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-09 08:45:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 08:15:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 08:15:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 08:15:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-09 07:40:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 07:40:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2024-12-09 08:49:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-09 08:45:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_sofa": {
-    "criteria": {
-      "has_wool": "2024-12-09 08:43:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2024-12-09 08:15:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
@@ -3699,165 +3478,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-09 07:01:48 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2024-12-09 07:14:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2024-12-09 07:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-09 07:17:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-12-09 06:43:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-09 07:23:31 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-09 08:13:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2024-12-09 08:43:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-09 07:13:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 07:38:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/chungus_monolith": {
-    "criteria": {
-      "has_item": "2024-12-09 08:49:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2024-12-09 08:15:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2024-12-09 08:09:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2024-12-09 07:15:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-09 07:40:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2024-12-09 08:09:25 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_logs": "2024-12-09 07:23:31 +0000"
+      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+  "supplementaries:recipes/gold_door": {
     "criteria": {
-      "has_item": "2024-12-09 08:45:04 +0000"
+      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-09 08:43:52 +0000"
+      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
     },
     "done": true
   },
@@ -3867,33 +3508,75 @@
     },
     "done": true
   },
-  "another_furniture:recipes/light_gray_tall_stool": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_wool": "2024-12-09 08:43:42 +0000"
+      "has_furnace": "2024-12-09 07:48:09 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_leather": "2024-12-09 07:38:15 +0000"
+      "has_item": "2024-12-09 08:07:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
+      "has_item": "2024-12-09 08:07:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
+      "has_item": "2024-12-09 08:07:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
-      "has_planks": "2024-12-09 08:44:25 +0000"
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-09 08:07:01 +0000"
     },
     "done": true
   },
@@ -3903,15 +3586,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
-      "has_blaze_rod": "2024-12-09 07:38:15 +0000"
+      "has_item": "2024-12-09 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-09 08:09:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-09 08:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-09 08:10:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-09 08:13:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-09 08:15:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-09 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 08:15:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-09 08:25:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-12-09 08:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2024-12-09 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-09 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-09 08:43:42 +0000"
     },
     "done": true
   },
@@ -3933,39 +3760,87 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
-      "barako": "2024-12-09 07:00:34 +0000"
+      "has_wool": "2024-12-09 08:43:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_hay_block": "2024-12-09 06:47:23 +0000"
+      "has_logs": "2024-12-09 08:43:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "another_furniture:recipes/spruce_table": {
     "criteria": {
-      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
+      "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/gold_door": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
+      "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
+  "another_furniture:recipes/spruce_shelf": {
     "criteria": {
-      "supplementaries:straw": "2024-12-09 06:43:57 +0000"
+      "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_item": "2024-12-09 08:07:01 +0000"
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
@@ -3975,41 +3850,353 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2024-12-09 08:07:00 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-09 08:44:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_blaze_rod": "2024-12-09 07:38:15 +0000"
+      "has_golden_sword": "2024-12-09 08:45:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_log": "2024-12-09 07:12:39 +0000"
+      "has_golden_sword": "2024-12-09 08:45:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
-      "has_gold_ingot": "2024-12-09 07:40:21 +0000"
+      "has_item": "2024-12-09 08:45:04 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/light_gray_lamp": {
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
-      "has_wool": "2024-12-09 08:43:42 +0000"
+      "has_item": "2024-12-09 08:45:04 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-09 08:45:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-09 08:49:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-09 08:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-09 19:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-09 19:46:33 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2024-12-09 19:54:26 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2024-12-09 19:54:26 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2024-12-09 19:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 19:56:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 19:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-09 19:56:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-09 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 19:58:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-09 19:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-09 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-09 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 20:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 20:38:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 21:13:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
