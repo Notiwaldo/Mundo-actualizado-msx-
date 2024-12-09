@@ -499,3 +499,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 03:58:06.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5576ms or 111 ticks behind
 [09Dec2024 03:58:25.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
 [09Dec2024 04:00:25.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 10.011345106876611,1.5813359922251635,-0.5220696257526498
+[09Dec2024 04:01:29.411] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:01:29.513] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:01:38.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Zombie
+[09Dec2024 04:01:41.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[09Dec2024 04:01:41.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[09Dec2024 04:03:32.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:55795] logged in with entity id 2112 at (0.5, 67.0, -5.5)
+[09Dec2024 04:03:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[09Dec2024 04:03:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Blade MoveSets]
+[09Dec2024 04:03:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Christmas]
+[09Dec2024 04:03:32.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Ice and Fire]
+[09Dec2024 04:03:45.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:55603] logged in with entity id 2174 at (10.5, 64.0, 9.5)
+[09Dec2024 04:03:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[09Dec2024 04:04:30.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[09Dec2024 04:04:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Tiny Proud Soul]
+[09Dec2024 04:04:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Slash Blade]
+[09Dec2024 04:05:00.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[09Dec2024 04:05:00.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[09Dec2024 04:05:00.876] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Dec2024 04:05:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Monster Hunter]
+[09Dec2024 04:05:24.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:59985] logged in with entity id 2653 at (16.726615483625736, 60.66680476327096, 48.07192734746644)
+[09Dec2024 04:05:24.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[09Dec2024 04:07:26.686] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:07:26.714] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:07:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Spider
+[09Dec2024 04:07:43.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[09Dec2024 04:07:43.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[09Dec2024 04:08:04.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:57391] logged in with entity id 3348 at (-32.6116259472206, 67.0, 168.16781660995795)
+[09Dec2024 04:08:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[09Dec2024 04:09:35.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Dec2024 04:10:20.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[09Dec2024 04:12:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Birds of a Feather]
+[09Dec2024 04:14:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Crops of the Wild]
+[09Dec2024 04:15:11.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Who You Gonna Call?]
+[09Dec2024 04:15:19.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Crops of the Wild]
+[09Dec2024 04:16:33.752] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands]] from pos BlockPos{x=5, y=72, z=437}
+[09Dec2024 04:16:41.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 8.75044611542748,0.8787031594607981,4.885629896906835
+[09Dec2024 04:16:41.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
+[09Dec2024 04:16:42.169] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5, y=72, z=437} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Dec2024 04:16:42.170] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=5, y=72, z=437}
