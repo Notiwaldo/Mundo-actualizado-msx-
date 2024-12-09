@@ -7261,3 +7261,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 04:48:39.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Stone Age]
 [09Dec2024 04:49:12.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Getting an Upgrade]
 [09Dec2024 04:49:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Getting an Upgrade]
+[09Dec2024 04:50:23.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Exorcism]
+[09Dec2024 04:50:38.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Double Trouble]
+[09Dec2024 04:51:52.974] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:52.976] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:52.977] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:52.980] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:52.981] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:53.000] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 04:51:53.032] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Dec2024 04:51:53.032] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Dec2024 04:51:53.033] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Dec2024 04:51:53.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[09Dec2024 04:51:53.630] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Dec2024 04:51:53.655] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Dec2024 04:51:53.656] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Dec2024 04:51:53.663] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[09Dec2024 04:51:53.806] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09Dec2024 04:51:53.806] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09Dec2024 04:52:13.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5650ms or 113 ticks behind
+[09Dec2024 04:52:18.278] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:52:18.465] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:52:23.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Knowledge of Death]
+[09Dec2024 04:52:23.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [A Strange Grave Dust]
+[09Dec2024 04:52:24.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Dire Hound Leader
+[09Dec2024 04:52:24.430] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:13, y:67, z:-30, dim:minecraft:overworld]
+[09Dec2024 04:52:33.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[09Dec2024 04:52:51.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[09Dec2024 04:53:29.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[09Dec2024 04:53:30.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Life turned out to be a comedy]
+[09Dec2024 04:53:34.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 04:53:34.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 04:53:49.432] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 04:53:49.521] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 04:53:50.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [The Wind Darkening]
+[09Dec2024 04:53:51.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6264ms or 125 ticks behind
+[09Dec2024 04:54:19.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[09Dec2024 04:54:19.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-180, y:61, z:285, dim:minecraft:overworld]
+[09Dec2024 04:54:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [A Fast Comeback]
+[09Dec2024 04:55:39.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[09Dec2024 04:55:50.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Dec2024 04:55:57.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[09Dec2024 04:55:59.073] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Dec2024 04:56:15.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[09Dec2024 04:56:33.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[09Dec2024 04:56:53.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
+[09Dec2024 04:57:13.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
+[09Dec2024 04:57:31.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[09Dec2024 04:57:46.174] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[09Dec2024 04:57:46.205] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[09Dec2024 04:57:49.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[09Dec2024 04:57:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Door Knight
+[09Dec2024 04:57:52.428] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-33, y:28, z:12, dim:minecraft:overworld]
+[09Dec2024 04:58:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Acquire Hardware]
+[09Dec2024 04:59:05.270] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[09Dec2024 04:59:05.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 04:59:05.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 04:59:05.752] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[09Dec2024 04:59:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was blown up by Creeper
+[09Dec2024 04:59:11.570] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-226, y:63, z:520, dim:minecraft:overworld]
+[09Dec2024 04:59:24.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind

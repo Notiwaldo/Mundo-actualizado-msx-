@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
@@ -379,6 +385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 04:56:52 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:31 +0000"
@@ -397,9 +409,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-09 04:54:31 +0000"
     },
     "done": true
   },
@@ -433,6 +463,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-09 04:49:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:31 +0000"
@@ -445,15 +487,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 04:47:57 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-12-09 04:52:14 +0000"
     },
     "done": true
   },
@@ -481,6 +559,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-09 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:38 +0000"
@@ -493,9 +583,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-09 04:51:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_netherite": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
     },
     "done": true
   },
@@ -541,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:all_stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-09 04:46:38 +0000"
@@ -583,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:38 +0000"
@@ -601,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 04:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
@@ -613,6 +739,12 @@
     },
     "done": true
   },
+  "vc_gliders:recipes/misc/copper_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:31 +0000"
@@ -622,6 +754,12 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -640,6 +778,18 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/nether_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
     },
     "done": true
   },
@@ -673,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-09 04:46:08 +0000"
@@ -682,6 +838,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -709,15 +871,39 @@
     },
     "done": true
   },
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-09 04:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -757,6 +943,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-09 04:48:13 +0000"
@@ -769,15 +961,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-09 04:52:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-12-09 04:46:31 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -799,6 +1009,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-09 04:51:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-09 04:46:31 +0000"
@@ -817,6 +1033,12 @@
     },
     "done": true
   },
+  "vc_gliders:recipes/misc/reinforced_paper_gold": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
@@ -832,6 +1054,24 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_wood": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-09 04:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-09 04:51:23 +0000"
     },
     "done": true
   },
@@ -865,9 +1105,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-09 04:49:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_iron": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
     },
     "done": true
   },
@@ -880,6 +1132,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-12-09 04:46:31 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -898,6 +1156,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 04:56:52 +0000"
     },
     "done": true
   },
@@ -922,6 +1186,12 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-09 04:49:12 +0000"
     },
     "done": true
   },
@@ -961,9 +1231,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -973,15 +1255,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-09 04:54:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2024-12-09 04:46:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2024-12-09 04:56:42 +0000"
+    },
+    "done": false
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_netherite": {
+    "criteria": {
+      "has_crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-09 04:48:29 +0000"
     },
     "done": true
   },
@@ -997,9 +1309,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-09 04:52:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-09 04:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-09 04:51:10 +0000"
     },
     "done": true
   },
