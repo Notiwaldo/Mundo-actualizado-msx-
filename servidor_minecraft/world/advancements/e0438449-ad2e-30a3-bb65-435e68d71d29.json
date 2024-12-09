@@ -4289,6 +4289,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-09 22:43:56 +0000"
@@ -4304,6 +4310,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
     },
     "done": true
   },
@@ -4364,6 +4376,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
     },
     "done": true
   },

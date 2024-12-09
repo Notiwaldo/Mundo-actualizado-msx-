@@ -293,6 +293,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-09 22:31:35 +0000",
+      "minecraft:deep_ocean": "2024-12-09 22:46:53 +0000",
       "minecraft:beach": "2024-12-09 06:31:59 +0000",
       "minecraft:dark_forest": "2024-12-09 22:25:21 +0000",
       "minecraft:river": "2024-12-09 04:27:41 +0000",
@@ -2136,6 +2137,7 @@
       "minecraft:creeper": "2024-12-09 05:44:03 +0000",
       "minecraft:husk": "2024-12-09 08:30:15 +0000",
       "minecraft:cave_spider": "2024-12-09 05:26:38 +0000",
+      "minecraft:silverfish": "2024-12-09 22:47:51 +0000",
       "minecraft:zombie": "2024-12-09 07:12:59 +0000"
     },
     "done": false
@@ -3694,6 +3696,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-09 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2024-12-09 22:35:52 +0000"
@@ -3718,9 +3738,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-09 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2024-12-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
     },
     "done": true
   },
@@ -3730,9 +3780,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
     },
     "done": true
   },
@@ -3754,9 +3858,51 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-09 22:44:06 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
     },
     "done": true
   },
@@ -3766,9 +3912,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-09 22:44:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-09 22:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:49:41 +0000"
     },
     "done": true
   },
@@ -3790,9 +3948,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-09 22:44:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:49:41 +0000"
     },
     "done": true
   },
@@ -3814,6 +3996,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-09 22:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 22:44:06 +0000"
@@ -3826,15 +4020,45 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-09 22:44:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
     },
     "done": true
   },
@@ -3847,6 +4071,36 @@
   "minecraft:all_diamond": {
     "criteria": {
       "has_diamond": "2024-12-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
     },
     "done": true
   },
@@ -3880,9 +4134,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-09 22:44:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-09 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 22:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2024-12-09 22:49:41 +0000"
     },
     "done": true
   },
