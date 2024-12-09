@@ -331,6 +331,7 @@
       "minecraft:phantom": "2024-12-09 06:10:49 +0000",
       "minecraft:witch": "2024-12-09 06:49:58 +0000",
       "minecraft:stray": "2024-12-09 21:34:07 +0000",
+      "minecraft:vex": "2024-12-09 21:39:48 +0000",
       "minecraft:zombie": "2024-12-09 05:19:37 +0000",
       "minecraft:drowned": "2024-12-09 21:26:42 +0000"
     },
@@ -3952,6 +3953,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-09 21:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 21:24:29 +0000"
@@ -3988,6 +3995,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-09 21:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-09 21:32:11 +0000"
@@ -4003,6 +4016,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-09 21:32:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-09 21:40:10 +0000"
     },
     "done": true
   },
