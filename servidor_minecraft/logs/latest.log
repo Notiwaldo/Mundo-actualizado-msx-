@@ -1,39 +1,39 @@
-[10Dec2024 10:05:40.198] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[10Dec2024 10:05:40.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Dec2024 10:05:43.406] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Dec2024 10:05:43.471] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Dec2024 10:05:44.144] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[10Dec2024 10:05:44.146] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Dec2024 10:05:44.149] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Dec2024 10:05:44.151] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[10Dec2024 10:05:45.487] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[10Dec2024 10:05:45.488] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[10Dec2024 10:05:45.490] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Mundo-actualizado-msx-/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[10Dec2024 10:05:45.490] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 37 dependencies adding them to mods collection
-[10Dec2024 10:05:46.156] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
-[10Dec2024 10:05:46.193] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
-[10Dec2024 10:05:46.227] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
-[10Dec2024 10:05:46.245] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/Mundo-actualizado-msx-/servidor_minecraft/mods/scripts as it did not exist.
-[10Dec2024 10:05:46.256] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
-[10Dec2024 10:05:53.586] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 6909ms
-[10Dec2024 10:05:53.588] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
-[10Dec2024 10:05:54.967] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Dec2024 10:05:54.991] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
-[10Dec2024 10:05:54.996] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
-[10Dec2024 10:05:55.548] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
-[10Dec2024 10:05:55.550] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
-[10Dec2024 10:05:55.776] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[10Dec2024 10:05:55.780] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[10Dec2024 10:05:55.998] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
-[10Dec2024 10:05:56.000] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[10Dec2024 10:05:56.036] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[10Dec2024 10:05:56.287] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.298] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.305] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.364] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.434] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.564] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 10:05:56.695] [main/INFO] [Puzzles Lib/]: Loading 144 mods:
+[10Dec2024 18:56:41.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[10Dec2024 18:56:41.955] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Dec2024 18:56:44.625] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Dec2024 18:56:44.697] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Dec2024 18:56:45.377] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[10Dec2024 18:56:45.380] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Dec2024 18:56:45.381] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Dec2024 18:56:45.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[10Dec2024 18:56:46.432] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Dec2024 18:56:46.439] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Dec2024 18:56:46.441] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/Mundo-actualizado-msx-/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[10Dec2024 18:56:46.442] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 37 dependencies adding them to mods collection
+[10Dec2024 18:56:47.227] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[10Dec2024 18:56:47.255] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[10Dec2024 18:56:47.282] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[10Dec2024 18:56:47.294] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/Mundo-actualizado-msx-/servidor_minecraft/mods/scripts as it did not exist.
+[10Dec2024 18:56:47.308] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[10Dec2024 18:56:54.167] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 6544ms
+[10Dec2024 18:56:54.169] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[10Dec2024 18:56:55.271] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Dec2024 18:56:55.311] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[10Dec2024 18:56:55.315] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[10Dec2024 18:56:55.847] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[10Dec2024 18:56:55.849] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[10Dec2024 18:56:55.997] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[10Dec2024 18:56:56.004] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[10Dec2024 18:56:56.184] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 84 options available, 0 override(s) found
+[10Dec2024 18:56:56.186] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[10Dec2024 18:56:56.218] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[10Dec2024 18:56:56.441] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.445] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.448] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.493] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.539] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.626] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 18:56:56.732] [main/INFO] [Puzzles Lib/]: Loading 144 mods:
 	- additionaladditions 6.0.1
 	- aiimprovements 0.5.2
 	- alexsmobs 1.22.9
@@ -178,236 +178,239 @@
 	- xaeroworldmap 1.39.0
 	- yungsapi 1.20-Forge-4.0.6
 	- yungsextras 1.20-Forge-4.0.3
-[10Dec2024 10:05:59.801] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[10Dec2024 10:05:59.802] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[10Dec2024 10:06:01.421] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
-[10Dec2024 10:06:02.878] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (26.77 s after launch)
-[10Dec2024 10:06:03.180] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[10Dec2024 10:06:03.181] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[10Dec2024 10:06:08.633] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 5749 milliseconds
-[10Dec2024 10:06:10.291] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzg000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[10Dec2024 10:06:13.474] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[10Dec2024 10:06:14.029] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
-[10Dec2024 10:06:14.616] [modloading-worker-0/INFO] [necronomicon/]: Creating default config file for elocindev.animation_overhaul.config.AnimationsConfig.
-[10Dec2024 10:06:14.630] [modloading-worker-0/INFO] [necronomicon/]: Creating default config file for elocindev.animation_overhaul.config.PlayerConfig.
-[10Dec2024 10:06:14.632] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[10Dec2024 10:06:17.347] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
-[10Dec2024 10:06:18.012] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
-[10Dec2024 10:06:18.549] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10Dec2024 10:06:18.586] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[10Dec2024 10:06:18.601] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
-[10Dec2024 10:06:18.653] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
-[10Dec2024 10:06:18.653] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
-[10Dec2024 10:06:18.653] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
-[10Dec2024 10:06:19.272] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[10Dec2024 10:06:19.427] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[10Dec2024 10:06:19.443] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[10Dec2024 10:06:19.738] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[10Dec2024 10:06:19.765] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[10Dec2024 10:06:21.284] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[10Dec2024 10:06:21.284] [modloading-worker-0/INFO] [necronomicon/]: Creating default config file for elocindev.necronomicon.NecronomiconConfig.
-[10Dec2024 10:06:21.383] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[10Dec2024 10:06:21.387] [modloading-worker-0/INFO] [paintings/]: loading json file and contents for paintings.
-[10Dec2024 10:06:21.387] [modloading-worker-0/INFO] [paintings/]: **Paintings++ no longer copies the base file outside if the mod. **
-[10Dec2024 10:06:21.388] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_blue , 16 x 16
-[10Dec2024 10:06:21.389] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_rainbow , 16 x 16
-[10Dec2024 10:06:21.390] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_red , 16 x 16
-[10Dec2024 10:06:21.393] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_sunset , 16 x 16
-[10Dec2024 10:06:21.393] [modloading-worker-0/INFO] [paintings/]: Loaded json painting arachnophobe , 32 x 16
-[10Dec2024 10:06:21.394] [modloading-worker-0/INFO] [paintings/]: Loaded json painting barn_owl , 32 x 16
-[10Dec2024 10:06:21.394] [modloading-worker-0/INFO] [paintings/]: Loaded json painting big_z , 16 x 16
-[10Dec2024 10:06:21.395] [modloading-worker-0/INFO] [paintings/]: Loaded json painting blue_bird , 32 x 16
-[10Dec2024 10:06:21.396] [modloading-worker-0/INFO] [paintings/]: Loaded json painting bluesclues , 32 x 16
-[10Dec2024 10:06:21.396] [modloading-worker-0/INFO] [paintings/]: Loaded json painting borgia , 16 x 32
-[10Dec2024 10:06:21.397] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cane , 16 x 32
-[10Dec2024 10:06:21.397] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_black , 16 x 16
-[10Dec2024 10:06:21.398] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_gray , 16 x 16
-[10Dec2024 10:06:21.398] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_orange , 16 x 16
-[10Dec2024 10:06:21.399] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat , 32 x 16
-[10Dec2024 10:06:21.400] [modloading-worker-0/INFO] [paintings/]: Loaded json painting colorful_squares , 32 x 16
-[10Dec2024 10:06:21.400] [modloading-worker-0/INFO] [paintings/]: Loaded json painting crest , 32 x 16
-[10Dec2024 10:06:21.401] [modloading-worker-0/INFO] [paintings/]: Loaded json painting danger_zone , 32 x 32
-[10Dec2024 10:06:21.401] [modloading-worker-0/INFO] [paintings/]: Loaded json painting decorative_gun , 32 x 16
-[10Dec2024 10:06:21.402] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_down , 32 x 16
-[10Dec2024 10:06:21.403] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_up , 32 x 16
-[10Dec2024 10:06:21.403] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_left , 32 x 16
-[10Dec2024 10:06:21.411] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_right , 32 x 16
-[10Dec2024 10:06:21.411] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_bat , 16 x 16
-[10Dec2024 10:06:21.412] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_chicken , 16 x 16
-[10Dec2024 10:06:21.412] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_cow , 16 x 16
-[10Dec2024 10:06:21.412] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_creeper , 16 x 16
-[10Dec2024 10:06:21.413] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_dog , 16 x 16
-[10Dec2024 10:06:21.413] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_enderman , 16 x 16
-[10Dec2024 10:06:21.414] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pig , 16 x 16
-[10Dec2024 10:06:21.414] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pigman , 16 x 16
-[10Dec2024 10:06:21.415] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_silverfish , 16 x 16
-[10Dec2024 10:06:21.415] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_skeleton , 16 x 16
-[10Dec2024 10:06:21.416] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_squid , 16 x 16
-[10Dec2024 10:06:21.417] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_zombie , 16 x 16
-[10Dec2024 10:06:21.418] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fishes , 32 x 16
-[10Dec2024 10:06:21.418] [modloading-worker-0/INFO] [paintings/]: Loaded json painting flowers , 32 x 16
-[10Dec2024 10:06:21.421] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fruits , 32 x 16
-[10Dec2024 10:06:21.422] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ghost , 16 x 32
-[10Dec2024 10:06:21.422] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowlamp , 32 x 32
-[10Dec2024 10:06:21.423] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowstone_hourglass , 16 x 32
-[10Dec2024 10:06:21.424] [modloading-worker-0/INFO] [paintings/]: Loaded json painting iluvmc , 32 x 16
-[10Dec2024 10:06:21.424] [modloading-worker-0/INFO] [paintings/]: Loaded json painting link , 32 x 16
-[10Dec2024 10:06:21.425] [modloading-worker-0/INFO] [paintings/]: Loaded json painting mine_prosperity , 32 x 16
-[10Dec2024 10:06:21.426] [modloading-worker-0/INFO] [paintings/]: Loaded json painting no_trespassing_for_mobs , 32 x 16
-[10Dec2024 10:06:21.427] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ocelot , 16 x 16
-[10Dec2024 10:06:21.429] [modloading-worker-0/INFO] [paintings/]: Loaded json painting penguin , 32 x 16
-[10Dec2024 10:06:21.429] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pig_on_a_cliff , 32 x 32
-[10Dec2024 10:06:21.430] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_blue , 32 x 16
-[10Dec2024 10:06:21.430] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_red , 32 x 16
-[10Dec2024 10:06:21.431] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_green , 32 x 16
-[10Dec2024 10:06:21.432] [modloading-worker-0/INFO] [paintings/]: Loaded json painting plains_hut , 32 x 16
-[10Dec2024 10:06:21.433] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait_2 , 16 x 16
-[10Dec2024 10:06:21.433] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait , 32 x 32
-[10Dec2024 10:06:21.434] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prison , 16 x 32
-[10Dec2024 10:06:21.434] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prosperity , 16 x 32
-[10Dec2024 10:06:21.435] [modloading-worker-0/INFO] [paintings/]: Loaded json painting rest , 32 x 16
-[10Dec2024 10:06:21.435] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skeleton , 16 x 32
-[10Dec2024 10:06:21.436] [modloading-worker-0/INFO] [paintings/]: Loaded json painting sky , 32 x 32
-[10Dec2024 10:06:21.437] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skyblock , 32 x 32
-[10Dec2024 10:06:21.437] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snake , 16 x 32
-[10Dec2024 10:06:21.438] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snow_landscape , 32 x 16
-[10Dec2024 10:06:21.439] [modloading-worker-0/INFO] [paintings/]: Loaded json painting subaraki , 32 x 16
-[10Dec2024 10:06:21.440] [modloading-worker-0/INFO] [paintings/]: Loaded json painting synth_city , 16 x 16
-[10Dec2024 10:06:21.440] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_a , 32 x 16
-[10Dec2024 10:06:21.441] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_b , 16 x 32
-[10Dec2024 10:06:21.441] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_purple , 16 x 32
-[10Dec2024 10:06:21.442] [modloading-worker-0/INFO] [paintings/]: Loaded json painting torched , 32 x 16
-[10Dec2024 10:06:21.442] [modloading-worker-0/INFO] [paintings/]: Loaded json painting waterfall , 32 x 16
-[10Dec2024 10:06:21.443] [modloading-worker-0/INFO] [paintings/]: Loaded json painting whale , 32 x 16
-[10Dec2024 10:06:21.444] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wheat_field , 32 x 16
-[10Dec2024 10:06:21.444] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wolf_in_wheat , 32 x 16
-[10Dec2024 10:06:21.448] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[10Dec2024 10:06:21.448] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[10Dec2024 10:06:21.519] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[10Dec2024 10:06:21.551] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
-[10Dec2024 10:06:21.554] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
-[10Dec2024 10:06:21.556] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
-[10Dec2024 10:06:22.178] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[10Dec2024 10:06:25.394] [main/INFO] [Moonlight/]: Initialized block sets in 47ms
-[10Dec2024 10:06:27.632] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[10Dec2024 10:06:27.632] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[10Dec2024 10:06:28.481] [main/INFO] [paintings/]: Registered variant abstract_blue
-[10Dec2024 10:06:28.483] [main/INFO] [paintings/]: Registered variant abstract_rainbow
-[10Dec2024 10:06:28.483] [main/INFO] [paintings/]: Registered variant abstract_red
-[10Dec2024 10:06:28.483] [main/INFO] [paintings/]: Registered variant abstract_sunset
-[10Dec2024 10:06:28.484] [main/INFO] [paintings/]: Registered variant arachnophobe
-[10Dec2024 10:06:28.484] [main/INFO] [paintings/]: Registered variant barn_owl
-[10Dec2024 10:06:28.484] [main/INFO] [paintings/]: Registered variant big_z
-[10Dec2024 10:06:28.485] [main/INFO] [paintings/]: Registered variant blue_bird
-[10Dec2024 10:06:28.485] [main/INFO] [paintings/]: Registered variant bluesclues
-[10Dec2024 10:06:28.485] [main/INFO] [paintings/]: Registered variant borgia
-[10Dec2024 10:06:28.486] [main/INFO] [paintings/]: Registered variant cane
-[10Dec2024 10:06:28.486] [main/INFO] [paintings/]: Registered variant cat_black
-[10Dec2024 10:06:28.486] [main/INFO] [paintings/]: Registered variant cat_gray
-[10Dec2024 10:06:28.487] [main/INFO] [paintings/]: Registered variant cat_orange
-[10Dec2024 10:06:28.487] [main/INFO] [paintings/]: Registered variant cat
-[10Dec2024 10:06:28.488] [main/INFO] [paintings/]: Registered variant colorful_squares
-[10Dec2024 10:06:28.488] [main/INFO] [paintings/]: Registered variant crest
-[10Dec2024 10:06:28.489] [main/INFO] [paintings/]: Registered variant danger_zone
-[10Dec2024 10:06:28.489] [main/INFO] [paintings/]: Registered variant decorative_gun
-[10Dec2024 10:06:28.489] [main/INFO] [paintings/]: Registered variant exit_down
-[10Dec2024 10:06:28.490] [main/INFO] [paintings/]: Registered variant exit_up
-[10Dec2024 10:06:28.490] [main/INFO] [paintings/]: Registered variant exit_left
-[10Dec2024 10:06:28.490] [main/INFO] [paintings/]: Registered variant exit_right
-[10Dec2024 10:06:28.491] [main/INFO] [paintings/]: Registered variant face_bat
-[10Dec2024 10:06:28.491] [main/INFO] [paintings/]: Registered variant face_chicken
-[10Dec2024 10:06:28.491] [main/INFO] [paintings/]: Registered variant face_cow
-[10Dec2024 10:06:28.492] [main/INFO] [paintings/]: Registered variant face_creeper
-[10Dec2024 10:06:28.492] [main/INFO] [paintings/]: Registered variant face_dog
-[10Dec2024 10:06:28.492] [main/INFO] [paintings/]: Registered variant face_enderman
-[10Dec2024 10:06:28.493] [main/INFO] [paintings/]: Registered variant face_pig
-[10Dec2024 10:06:28.493] [main/INFO] [paintings/]: Registered variant face_pigman
-[10Dec2024 10:06:28.494] [main/INFO] [paintings/]: Registered variant face_silverfish
-[10Dec2024 10:06:28.494] [main/INFO] [paintings/]: Registered variant face_skeleton
-[10Dec2024 10:06:28.494] [main/INFO] [paintings/]: Registered variant face_squid
-[10Dec2024 10:06:28.495] [main/INFO] [paintings/]: Registered variant face_zombie
-[10Dec2024 10:06:28.495] [main/INFO] [paintings/]: Registered variant fishes
-[10Dec2024 10:06:28.495] [main/INFO] [paintings/]: Registered variant flowers
-[10Dec2024 10:06:28.496] [main/INFO] [paintings/]: Registered variant fruits
-[10Dec2024 10:06:28.496] [main/INFO] [paintings/]: Registered variant ghost
-[10Dec2024 10:06:28.496] [main/INFO] [paintings/]: Registered variant glowlamp
-[10Dec2024 10:06:28.497] [main/INFO] [paintings/]: Registered variant glowstone_hourglass
-[10Dec2024 10:06:28.497] [main/INFO] [paintings/]: Registered variant iluvmc
-[10Dec2024 10:06:28.497] [main/INFO] [paintings/]: Registered variant link
-[10Dec2024 10:06:28.498] [main/INFO] [paintings/]: Registered variant mine_prosperity
-[10Dec2024 10:06:28.498] [main/INFO] [paintings/]: Registered variant no_trespassing_for_mobs
-[10Dec2024 10:06:28.499] [main/INFO] [paintings/]: Registered variant ocelot
-[10Dec2024 10:06:28.499] [main/INFO] [paintings/]: Registered variant penguin
-[10Dec2024 10:06:28.499] [main/INFO] [paintings/]: Registered variant pig_on_a_cliff
-[10Dec2024 10:06:28.500] [main/INFO] [paintings/]: Registered variant pkmn_blue
-[10Dec2024 10:06:28.500] [main/INFO] [paintings/]: Registered variant pkmn_red
-[10Dec2024 10:06:28.500] [main/INFO] [paintings/]: Registered variant pkmn_green
-[10Dec2024 10:06:28.500] [main/INFO] [paintings/]: Registered variant plains_hut
-[10Dec2024 10:06:28.501] [main/INFO] [paintings/]: Registered variant portrait_2
-[10Dec2024 10:06:28.501] [main/INFO] [paintings/]: Registered variant portrait
-[10Dec2024 10:06:28.501] [main/INFO] [paintings/]: Registered variant prison
-[10Dec2024 10:06:28.502] [main/INFO] [paintings/]: Registered variant prosperity
-[10Dec2024 10:06:28.502] [main/INFO] [paintings/]: Registered variant rest
-[10Dec2024 10:06:28.502] [main/INFO] [paintings/]: Registered variant skeleton
-[10Dec2024 10:06:28.503] [main/INFO] [paintings/]: Registered variant sky
-[10Dec2024 10:06:28.504] [main/INFO] [paintings/]: Registered variant skyblock
-[10Dec2024 10:06:28.504] [main/INFO] [paintings/]: Registered variant snake
-[10Dec2024 10:06:28.504] [main/INFO] [paintings/]: Registered variant snow_landscape
-[10Dec2024 10:06:28.504] [main/INFO] [paintings/]: Registered variant subaraki
-[10Dec2024 10:06:28.505] [main/INFO] [paintings/]: Registered variant synth_city
-[10Dec2024 10:06:28.505] [main/INFO] [paintings/]: Registered variant tapistry_a
-[10Dec2024 10:06:28.505] [main/INFO] [paintings/]: Registered variant tapistry_b
-[10Dec2024 10:06:28.506] [main/INFO] [paintings/]: Registered variant tapistry_purple
-[10Dec2024 10:06:28.506] [main/INFO] [paintings/]: Registered variant torched
-[10Dec2024 10:06:28.506] [main/INFO] [paintings/]: Registered variant waterfall
-[10Dec2024 10:06:28.507] [main/INFO] [paintings/]: Registered variant whale
-[10Dec2024 10:06:28.507] [main/INFO] [paintings/]: Registered variant wheat_field
-[10Dec2024 10:06:28.507] [main/INFO] [paintings/]: Registered variant wolf_in_wheat
-[10Dec2024 10:06:28.863] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[10Dec2024 10:06:28.875] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[10Dec2024 10:06:28.878] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[10Dec2024 10:06:28.881] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[10Dec2024 10:06:29.146] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
-[10Dec2024 10:06:29.147] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
-[10Dec2024 10:06:29.674] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[10Dec2024 10:06:29.867] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[10Dec2024 10:06:30.175] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[10Dec2024 10:06:30.299] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[10Dec2024 10:06:30.312] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
-[10Dec2024 10:06:30.357] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[10Dec2024 10:06:30.372] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
-[10Dec2024 10:06:30.372] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[10Dec2024 10:06:30.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[10Dec2024 10:06:30.509] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
-[10Dec2024 10:06:30.566] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[10Dec2024 10:06:30.569] [Thread-2/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[10Dec2024 10:06:30.589] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 0, 0, 0, 18, 10, 1] ms
-[10Dec2024 10:06:30.591] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[10Dec2024 10:06:30.717] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[10Dec2024 10:06:30.717] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[10Dec2024 10:06:30.718] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[10Dec2024 10:06:30.718] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[10Dec2024 10:06:30.718] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[10Dec2024 10:06:30.718] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[10Dec2024 10:06:30.719] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[10Dec2024 10:06:30.822] [main/INFO] [Moonlight/]: Initialized color sets in 90ms
-[10Dec2024 10:06:30.947] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[10Dec2024 10:06:30.949] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[10Dec2024 10:06:30.973] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[10Dec2024 10:06:30.974] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[10Dec2024 10:06:31.209] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[10Dec2024 10:06:31.307] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[10Dec2024 10:06:31.314] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[10Dec2024 10:06:31.328] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 49 compatible attributes.
-[10Dec2024 10:06:31.352] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 49 values from config.
-[10Dec2024 10:06:31.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
-[10Dec2024 10:06:31.385] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 49 entries.
-[10Dec2024 10:06:31.385] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 49 attributes.
-[10Dec2024 10:06:31.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[10Dec2024 10:06:31.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
-[10Dec2024 10:06:31.430] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[10Dec2024 10:06:31.531] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[10Dec2024 10:06:31.531] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[10Dec2024 18:57:00.056] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[10Dec2024 18:57:00.059] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[10Dec2024 18:57:01.912] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[10Dec2024 18:57:03.097] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (25.39 s after launch)
+[10Dec2024 18:57:03.462] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Dec2024 18:57:03.463] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Dec2024 18:57:09.270] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 6169 milliseconds
+[10Dec2024 18:57:10.720] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzg000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10Dec2024 18:57:13.728] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Dec2024 18:57:14.400] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[10Dec2024 18:57:14.834] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[10Dec2024 18:57:14.842] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[10Dec2024 18:57:14.862] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[10Dec2024 18:57:14.863] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[10Dec2024 18:57:14.869] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[10Dec2024 18:57:17.165] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.9
+[10Dec2024 18:57:17.819] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.84.
+[10Dec2024 18:57:18.263] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Dec2024 18:57:18.295] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[10Dec2024 18:57:18.301] [modloading-worker-0/INFO] [MonoLib/]: Hello Forge world!
+[10Dec2024 18:57:18.306] [modloading-worker-0/INFO] [MonoLib/]: Hello from Common init on Forge! we are currently in a production environment!
+[10Dec2024 18:57:18.306] [modloading-worker-0/INFO] [MonoLib/]: The ID for diamonds is minecraft:diamond
+[10Dec2024 18:57:18.307] [modloading-worker-0/INFO] [MonoLib/]: Hello to monolib
+[10Dec2024 18:57:18.744] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[10Dec2024 18:57:18.873] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Dec2024 18:57:18.889] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Dec2024 18:57:19.321] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[10Dec2024 18:57:19.340] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[10Dec2024 18:57:20.913] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[10Dec2024 18:57:20.917] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[10Dec2024 18:57:20.918] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[10Dec2024 18:57:21.066] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[10Dec2024 18:57:21.071] [modloading-worker-0/INFO] [paintings/]: loading json file and contents for paintings.
+[10Dec2024 18:57:21.073] [modloading-worker-0/INFO] [paintings/]: **Paintings++ no longer copies the base file outside if the mod. **
+[10Dec2024 18:57:21.074] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_blue , 16 x 16
+[10Dec2024 18:57:21.076] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_rainbow , 16 x 16
+[10Dec2024 18:57:21.076] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_red , 16 x 16
+[10Dec2024 18:57:21.077] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_sunset , 16 x 16
+[10Dec2024 18:57:21.077] [modloading-worker-0/INFO] [paintings/]: Loaded json painting arachnophobe , 32 x 16
+[10Dec2024 18:57:21.077] [modloading-worker-0/INFO] [paintings/]: Loaded json painting barn_owl , 32 x 16
+[10Dec2024 18:57:21.078] [modloading-worker-0/INFO] [paintings/]: Loaded json painting big_z , 16 x 16
+[10Dec2024 18:57:21.078] [modloading-worker-0/INFO] [paintings/]: Loaded json painting blue_bird , 32 x 16
+[10Dec2024 18:57:21.083] [modloading-worker-0/INFO] [paintings/]: Loaded json painting bluesclues , 32 x 16
+[10Dec2024 18:57:21.086] [modloading-worker-0/INFO] [paintings/]: Loaded json painting borgia , 16 x 32
+[10Dec2024 18:57:21.086] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cane , 16 x 32
+[10Dec2024 18:57:21.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_black , 16 x 16
+[10Dec2024 18:57:21.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_gray , 16 x 16
+[10Dec2024 18:57:21.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_orange , 16 x 16
+[10Dec2024 18:57:21.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat , 32 x 16
+[10Dec2024 18:57:21.089] [modloading-worker-0/INFO] [paintings/]: Loaded json painting colorful_squares , 32 x 16
+[10Dec2024 18:57:21.089] [modloading-worker-0/INFO] [paintings/]: Loaded json painting crest , 32 x 16
+[10Dec2024 18:57:21.089] [modloading-worker-0/INFO] [paintings/]: Loaded json painting danger_zone , 32 x 32
+[10Dec2024 18:57:21.090] [modloading-worker-0/INFO] [paintings/]: Loaded json painting decorative_gun , 32 x 16
+[10Dec2024 18:57:21.090] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_down , 32 x 16
+[10Dec2024 18:57:21.090] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_up , 32 x 16
+[10Dec2024 18:57:21.091] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_left , 32 x 16
+[10Dec2024 18:57:21.091] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_right , 32 x 16
+[10Dec2024 18:57:21.091] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_bat , 16 x 16
+[10Dec2024 18:57:21.094] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_chicken , 16 x 16
+[10Dec2024 18:57:21.095] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_cow , 16 x 16
+[10Dec2024 18:57:21.095] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_creeper , 16 x 16
+[10Dec2024 18:57:21.096] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_dog , 16 x 16
+[10Dec2024 18:57:21.096] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_enderman , 16 x 16
+[10Dec2024 18:57:21.096] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pig , 16 x 16
+[10Dec2024 18:57:21.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pigman , 16 x 16
+[10Dec2024 18:57:21.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_silverfish , 16 x 16
+[10Dec2024 18:57:21.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_skeleton , 16 x 16
+[10Dec2024 18:57:21.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_squid , 16 x 16
+[10Dec2024 18:57:21.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_zombie , 16 x 16
+[10Dec2024 18:57:21.103] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fishes , 32 x 16
+[10Dec2024 18:57:21.105] [modloading-worker-0/INFO] [paintings/]: Loaded json painting flowers , 32 x 16
+[10Dec2024 18:57:21.106] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fruits , 32 x 16
+[10Dec2024 18:57:21.107] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ghost , 16 x 32
+[10Dec2024 18:57:21.107] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowlamp , 32 x 32
+[10Dec2024 18:57:21.108] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowstone_hourglass , 16 x 32
+[10Dec2024 18:57:21.110] [modloading-worker-0/INFO] [paintings/]: Loaded json painting iluvmc , 32 x 16
+[10Dec2024 18:57:21.110] [modloading-worker-0/INFO] [paintings/]: Loaded json painting link , 32 x 16
+[10Dec2024 18:57:21.112] [modloading-worker-0/INFO] [paintings/]: Loaded json painting mine_prosperity , 32 x 16
+[10Dec2024 18:57:21.113] [modloading-worker-0/INFO] [paintings/]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[10Dec2024 18:57:21.113] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ocelot , 16 x 16
+[10Dec2024 18:57:21.113] [modloading-worker-0/INFO] [paintings/]: Loaded json painting penguin , 32 x 16
+[10Dec2024 18:57:21.114] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pig_on_a_cliff , 32 x 32
+[10Dec2024 18:57:21.114] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_blue , 32 x 16
+[10Dec2024 18:57:21.115] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_red , 32 x 16
+[10Dec2024 18:57:21.115] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_green , 32 x 16
+[10Dec2024 18:57:21.115] [modloading-worker-0/INFO] [paintings/]: Loaded json painting plains_hut , 32 x 16
+[10Dec2024 18:57:21.116] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait_2 , 16 x 16
+[10Dec2024 18:57:21.117] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait , 32 x 32
+[10Dec2024 18:57:21.123] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prison , 16 x 32
+[10Dec2024 18:57:21.124] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prosperity , 16 x 32
+[10Dec2024 18:57:21.127] [modloading-worker-0/INFO] [paintings/]: Loaded json painting rest , 32 x 16
+[10Dec2024 18:57:21.127] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skeleton , 16 x 32
+[10Dec2024 18:57:21.129] [modloading-worker-0/INFO] [paintings/]: Loaded json painting sky , 32 x 32
+[10Dec2024 18:57:21.129] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skyblock , 32 x 32
+[10Dec2024 18:57:21.130] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snake , 16 x 32
+[10Dec2024 18:57:21.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snow_landscape , 32 x 16
+[10Dec2024 18:57:21.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting subaraki , 32 x 16
+[10Dec2024 18:57:21.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting synth_city , 16 x 16
+[10Dec2024 18:57:21.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_a , 32 x 16
+[10Dec2024 18:57:21.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_b , 16 x 32
+[10Dec2024 18:57:21.133] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_purple , 16 x 32
+[10Dec2024 18:57:21.134] [modloading-worker-0/INFO] [paintings/]: Loaded json painting torched , 32 x 16
+[10Dec2024 18:57:21.135] [modloading-worker-0/INFO] [paintings/]: Loaded json painting waterfall , 32 x 16
+[10Dec2024 18:57:21.136] [modloading-worker-0/INFO] [paintings/]: Loaded json painting whale , 32 x 16
+[10Dec2024 18:57:21.136] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wheat_field , 32 x 16
+[10Dec2024 18:57:21.137] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wolf_in_wheat , 32 x 16
+[10Dec2024 18:57:21.139] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[10Dec2024 18:57:21.142] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[10Dec2024 18:57:21.212] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[10Dec2024 18:57:21.351] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[10Dec2024 18:57:21.352] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[10Dec2024 18:57:21.352] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
+[10Dec2024 18:57:21.885] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[10Dec2024 18:57:24.873] [main/INFO] [Moonlight/]: Initialized block sets in 24ms
+[10Dec2024 18:57:26.840] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[10Dec2024 18:57:26.841] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Dec2024 18:57:27.669] [main/INFO] [paintings/]: Registered variant abstract_blue
+[10Dec2024 18:57:27.669] [main/INFO] [paintings/]: Registered variant abstract_rainbow
+[10Dec2024 18:57:27.670] [main/INFO] [paintings/]: Registered variant abstract_red
+[10Dec2024 18:57:27.670] [main/INFO] [paintings/]: Registered variant abstract_sunset
+[10Dec2024 18:57:27.670] [main/INFO] [paintings/]: Registered variant arachnophobe
+[10Dec2024 18:57:27.671] [main/INFO] [paintings/]: Registered variant barn_owl
+[10Dec2024 18:57:27.671] [main/INFO] [paintings/]: Registered variant big_z
+[10Dec2024 18:57:27.671] [main/INFO] [paintings/]: Registered variant blue_bird
+[10Dec2024 18:57:27.672] [main/INFO] [paintings/]: Registered variant bluesclues
+[10Dec2024 18:57:27.672] [main/INFO] [paintings/]: Registered variant borgia
+[10Dec2024 18:57:27.672] [main/INFO] [paintings/]: Registered variant cane
+[10Dec2024 18:57:27.673] [main/INFO] [paintings/]: Registered variant cat_black
+[10Dec2024 18:57:27.673] [main/INFO] [paintings/]: Registered variant cat_gray
+[10Dec2024 18:57:27.673] [main/INFO] [paintings/]: Registered variant cat_orange
+[10Dec2024 18:57:27.674] [main/INFO] [paintings/]: Registered variant cat
+[10Dec2024 18:57:27.674] [main/INFO] [paintings/]: Registered variant colorful_squares
+[10Dec2024 18:57:27.674] [main/INFO] [paintings/]: Registered variant crest
+[10Dec2024 18:57:27.675] [main/INFO] [paintings/]: Registered variant danger_zone
+[10Dec2024 18:57:27.675] [main/INFO] [paintings/]: Registered variant decorative_gun
+[10Dec2024 18:57:27.675] [main/INFO] [paintings/]: Registered variant exit_down
+[10Dec2024 18:57:27.676] [main/INFO] [paintings/]: Registered variant exit_up
+[10Dec2024 18:57:27.677] [main/INFO] [paintings/]: Registered variant exit_left
+[10Dec2024 18:57:27.677] [main/INFO] [paintings/]: Registered variant exit_right
+[10Dec2024 18:57:27.678] [main/INFO] [paintings/]: Registered variant face_bat
+[10Dec2024 18:57:27.678] [main/INFO] [paintings/]: Registered variant face_chicken
+[10Dec2024 18:57:27.678] [main/INFO] [paintings/]: Registered variant face_cow
+[10Dec2024 18:57:27.678] [main/INFO] [paintings/]: Registered variant face_creeper
+[10Dec2024 18:57:27.679] [main/INFO] [paintings/]: Registered variant face_dog
+[10Dec2024 18:57:27.679] [main/INFO] [paintings/]: Registered variant face_enderman
+[10Dec2024 18:57:27.679] [main/INFO] [paintings/]: Registered variant face_pig
+[10Dec2024 18:57:27.680] [main/INFO] [paintings/]: Registered variant face_pigman
+[10Dec2024 18:57:27.681] [main/INFO] [paintings/]: Registered variant face_silverfish
+[10Dec2024 18:57:27.681] [main/INFO] [paintings/]: Registered variant face_skeleton
+[10Dec2024 18:57:27.681] [main/INFO] [paintings/]: Registered variant face_squid
+[10Dec2024 18:57:27.682] [main/INFO] [paintings/]: Registered variant face_zombie
+[10Dec2024 18:57:27.682] [main/INFO] [paintings/]: Registered variant fishes
+[10Dec2024 18:57:27.682] [main/INFO] [paintings/]: Registered variant flowers
+[10Dec2024 18:57:27.683] [main/INFO] [paintings/]: Registered variant fruits
+[10Dec2024 18:57:27.683] [main/INFO] [paintings/]: Registered variant ghost
+[10Dec2024 18:57:27.683] [main/INFO] [paintings/]: Registered variant glowlamp
+[10Dec2024 18:57:27.684] [main/INFO] [paintings/]: Registered variant glowstone_hourglass
+[10Dec2024 18:57:27.684] [main/INFO] [paintings/]: Registered variant iluvmc
+[10Dec2024 18:57:27.684] [main/INFO] [paintings/]: Registered variant link
+[10Dec2024 18:57:27.685] [main/INFO] [paintings/]: Registered variant mine_prosperity
+[10Dec2024 18:57:27.685] [main/INFO] [paintings/]: Registered variant no_trespassing_for_mobs
+[10Dec2024 18:57:27.687] [main/INFO] [paintings/]: Registered variant ocelot
+[10Dec2024 18:57:27.687] [main/INFO] [paintings/]: Registered variant penguin
+[10Dec2024 18:57:27.688] [main/INFO] [paintings/]: Registered variant pig_on_a_cliff
+[10Dec2024 18:57:27.688] [main/INFO] [paintings/]: Registered variant pkmn_blue
+[10Dec2024 18:57:27.688] [main/INFO] [paintings/]: Registered variant pkmn_red
+[10Dec2024 18:57:27.689] [main/INFO] [paintings/]: Registered variant pkmn_green
+[10Dec2024 18:57:27.690] [main/INFO] [paintings/]: Registered variant plains_hut
+[10Dec2024 18:57:27.690] [main/INFO] [paintings/]: Registered variant portrait_2
+[10Dec2024 18:57:27.691] [main/INFO] [paintings/]: Registered variant portrait
+[10Dec2024 18:57:27.692] [main/INFO] [paintings/]: Registered variant prison
+[10Dec2024 18:57:27.692] [main/INFO] [paintings/]: Registered variant prosperity
+[10Dec2024 18:57:27.693] [main/INFO] [paintings/]: Registered variant rest
+[10Dec2024 18:57:27.693] [main/INFO] [paintings/]: Registered variant skeleton
+[10Dec2024 18:57:27.694] [main/INFO] [paintings/]: Registered variant sky
+[10Dec2024 18:57:27.694] [main/INFO] [paintings/]: Registered variant skyblock
+[10Dec2024 18:57:27.695] [main/INFO] [paintings/]: Registered variant snake
+[10Dec2024 18:57:27.696] [main/INFO] [paintings/]: Registered variant snow_landscape
+[10Dec2024 18:57:27.696] [main/INFO] [paintings/]: Registered variant subaraki
+[10Dec2024 18:57:27.697] [main/INFO] [paintings/]: Registered variant synth_city
+[10Dec2024 18:57:27.697] [main/INFO] [paintings/]: Registered variant tapistry_a
+[10Dec2024 18:57:27.698] [main/INFO] [paintings/]: Registered variant tapistry_b
+[10Dec2024 18:57:27.698] [main/INFO] [paintings/]: Registered variant tapistry_purple
+[10Dec2024 18:57:27.699] [main/INFO] [paintings/]: Registered variant torched
+[10Dec2024 18:57:27.699] [main/INFO] [paintings/]: Registered variant waterfall
+[10Dec2024 18:57:27.700] [main/INFO] [paintings/]: Registered variant whale
+[10Dec2024 18:57:27.701] [main/INFO] [paintings/]: Registered variant wheat_field
+[10Dec2024 18:57:27.701] [main/INFO] [paintings/]: Registered variant wolf_in_wheat
+[10Dec2024 18:57:28.111] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[10Dec2024 18:57:28.121] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[10Dec2024 18:57:28.124] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[10Dec2024 18:57:28.126] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[10Dec2024 18:57:28.344] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[10Dec2024 18:57:28.345] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[10Dec2024 18:57:28.836] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[10Dec2024 18:57:28.990] [Thread-2/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[10Dec2024 18:57:29.032] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[10Dec2024 18:57:29.260] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[10Dec2024 18:57:29.392] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[10Dec2024 18:57:29.401] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[10Dec2024 18:57:29.430] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[10Dec2024 18:57:29.443] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
+[10Dec2024 18:57:29.444] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[10Dec2024 18:57:29.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[10Dec2024 18:57:29.535] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[10Dec2024 18:57:29.596] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 0, 0, 0, 12, 8, 1] ms
+[10Dec2024 18:57:29.601] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[10Dec2024 18:57:29.713] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10Dec2024 18:57:29.713] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[10Dec2024 18:57:29.713] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[10Dec2024 18:57:29.713] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[10Dec2024 18:57:29.713] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[10Dec2024 18:57:29.714] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[10Dec2024 18:57:29.714] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[10Dec2024 18:57:29.730] [Modding Legacy/conjurer_illager/Supporters thread/INFO] [ModdingLegacy/conjurer_illager/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[10Dec2024 18:57:29.802] [main/INFO] [Moonlight/]: Initialized color sets in 61ms
+[10Dec2024 18:57:29.916] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[10Dec2024 18:57:29.919] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[10Dec2024 18:57:29.942] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[10Dec2024 18:57:29.942] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[10Dec2024 18:57:30.125] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[10Dec2024 18:57:30.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.5 Target: null
+[10Dec2024 18:57:30.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[10Dec2024 18:57:30.272] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[10Dec2024 18:57:30.282] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 49 compatible attributes.
+[10Dec2024 18:57:30.285] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[10Dec2024 18:57:30.292] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 49 values from config.
+[10Dec2024 18:57:30.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.17 Target: null
+[10Dec2024 18:57:30.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[10Dec2024 18:57:30.349] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 49 entries.
+[10Dec2024 18:57:30.350] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 49 attributes.
+[10Dec2024 18:57:30.489] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[10Dec2024 18:57:30.491] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.4.1.jar%23334!/:1.20.1-4.4.1]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.4.1.jar%23334!/:1.20.1-4.4.1]
@@ -438,69 +441,69 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 17 more
-[10Dec2024 10:06:31.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[10Dec2024 10:06:31.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[10Dec2024 10:06:31.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[10Dec2024 10:06:31.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
-[10Dec2024 10:06:32.380] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Dec2024 10:06:32.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
-[10Dec2024 10:06:32.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[10Dec2024 10:06:32.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.3 Target: 1.3.4+mod
-[10Dec2024 10:06:32.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[10Dec2024 10:06:32.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.8.6
-[10Dec2024 10:06:32.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[10Dec2024 10:06:33.418] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23373!/assets/.mcassetsroot' uses unexpected schema
-[10Dec2024 10:06:33.419] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23373!/data/.mcassetsroot' uses unexpected schema
-[10Dec2024 10:06:33.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[10Dec2024 10:06:33.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Starting version check at https://api.modrinth.com/updates/EuloLapn/forge_updates.json
-[10Dec2024 10:06:33.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Found status: OUTDATED Current: 1.0 Target: 1.20+mod
-[10Dec2024 10:06:33.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[10Dec2024 10:06:33.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[10Dec2024 10:06:33.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[10Dec2024 10:06:33.962] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 146 ms
-[10Dec2024 10:06:34.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[10Dec2024 10:06:34.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Starting version check at http://changelogs.moddinglegacy.com/conjurer-illager.json
-[10Dec2024 10:06:34.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Found status: BETA Current: 1.1.6 Target: null
-[10Dec2024 10:06:34.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[10Dec2024 10:06:35.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[10Dec2024 10:06:35.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[10Dec2024 10:06:35.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[10Dec2024 10:06:35.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[10Dec2024 10:06:35.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.13 Target: null
-[10Dec2024 10:06:35.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Dec2024 10:06:35.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[10Dec2024 10:06:35.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[10Dec2024 10:06:35.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
-[10Dec2024 10:06:35.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[10Dec2024 10:06:35.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.24 Target: 8.1.25
-[10Dec2024 10:06:35.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[10Dec2024 10:06:36.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[10Dec2024 10:06:40.199] [main/INFO] [bountiful/]: Adding serverside commands..
-[10Dec2024 10:06:40.321] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[10Dec2024 10:06:41.015] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mvw:impact_projectiles as it is missing following references: mvw:dirt_trident (from Mvw-2.3.3c.jar)
-[10Dec2024 10:06:41.024] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[10Dec2024 18:57:31.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[10Dec2024 18:57:31.344] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[10Dec2024 18:57:31.398] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Dec2024 18:57:31.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[10Dec2024 18:57:31.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[10Dec2024 18:57:31.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.9 Target: null
+[10Dec2024 18:57:31.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[10Dec2024 18:57:32.346] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23373!/assets/.mcassetsroot' uses unexpected schema
+[10Dec2024 18:57:32.346] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo-actualizado-msx-/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23373!/data/.mcassetsroot' uses unexpected schema
+[10Dec2024 18:57:32.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.3 Target: 1.3.4+mod
+[10Dec2024 18:57:32.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[10Dec2024 18:57:32.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.8.6
+[10Dec2024 18:57:32.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10Dec2024 18:57:32.941] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 113 ms
+[10Dec2024 18:57:33.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[10Dec2024 18:57:33.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Starting version check at https://api.modrinth.com/updates/EuloLapn/forge_updates.json
+[10Dec2024 18:57:33.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Found status: OUTDATED Current: 1.0 Target: 1.20+mod
+[10Dec2024 18:57:33.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[10Dec2024 18:57:33.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[10Dec2024 18:57:33.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[10Dec2024 18:57:34.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[10Dec2024 18:57:34.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Starting version check at http://changelogs.moddinglegacy.com/conjurer-illager.json
+[10Dec2024 18:57:34.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [conjurer_illager] Found status: BETA Current: 1.1.6 Target: null
+[10Dec2024 18:57:34.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[10Dec2024 18:57:34.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[10Dec2024 18:57:34.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[10Dec2024 18:57:34.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[10Dec2024 18:57:34.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[10Dec2024 18:57:34.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.13 Target: null
+[10Dec2024 18:57:34.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Dec2024 18:57:35.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[10Dec2024 18:57:35.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[10Dec2024 18:57:35.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[10Dec2024 18:57:35.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[10Dec2024 18:57:35.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.24 Target: 8.1.25
+[10Dec2024 18:57:35.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[10Dec2024 18:57:35.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[10Dec2024 18:57:38.245] [main/INFO] [bountiful/]: Adding serverside commands..
+[10Dec2024 18:57:38.332] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Dec2024 18:57:38.499] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag mvw:impact_projectiles as it is missing following references: mvw:dirt_trident (from Mvw-2.3.3c.jar)
+[10Dec2024 18:57:38.501] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[10Dec2024 10:06:50.347] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10Dec2024 10:06:50.348] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10Dec2024 10:06:50.348] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10Dec2024 10:06:50.348] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[10Dec2024 10:06:50.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[10Dec2024 10:06:50.493] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
-[10Dec2024 10:06:50.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[10Dec2024 10:06:50.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[10Dec2024 10:06:50.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[10Dec2024 10:06:50.990] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[10Dec2024 10:06:51.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[10Dec2024 10:06:51.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[10Dec2024 10:06:51.127] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[10Dec2024 18:57:46.921] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Dec2024 18:57:46.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Dec2024 18:57:46.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Dec2024 18:57:46.922] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Dec2024 18:57:47.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[10Dec2024 18:57:47.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[10Dec2024 18:57:47.100] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.111] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[10Dec2024 18:57:47.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.395] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[10Dec2024 18:57:47.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[10Dec2024 18:57:47.442] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[10Dec2024 18:57:47.445] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -516,261 +519,202 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[10Dec2024 10:06:51.217] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[10Dec2024 10:06:51.335] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[10Dec2024 10:06:51.385] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:all_gold: Unknown required criterion 'has_gold_ingot'
-[10Dec2024 10:06:51.393] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement additionaladditions:use_watering_can: Failed to parse 'location' field
-[10Dec2024 10:06:51.395] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[10Dec2024 10:06:51.407] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[10Dec2024 10:06:51.476] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4738 advancements
-[10Dec2024 10:06:51.535] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[10Dec2024 10:06:51.729] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_pools
-[10Dec2024 10:06:51.742] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_decrees
-[10Dec2024 10:06:51.803] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
-[10Dec2024 10:06:51.813] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[10Dec2024 10:06:51.814] [main/ERROR] [bettervillage/]: Bountiful compatibility is not enabled for Better Village and Bountiful is present in your mod list.
+[10Dec2024 18:57:47.490] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[10Dec2024 18:57:47.587] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[10Dec2024 18:57:47.617] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:all_gold: Unknown required criterion 'has_gold_ingot'
+[10Dec2024 18:57:47.624] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement additionaladditions:use_watering_can: Failed to parse 'location' field
+[10Dec2024 18:57:47.626] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[10Dec2024 18:57:47.636] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[10Dec2024 18:57:47.686] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4738 advancements
+[10Dec2024 18:57:47.734] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[10Dec2024 18:57:47.907] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_pools
+[10Dec2024 18:57:47.940] [main/INFO] [bountiful/]: Trying to load unloaded files from: config/bountiful/bounty_decrees
+[10Dec2024 18:57:47.956] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[10Dec2024 18:57:47.969] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[10Dec2024 18:57:47.971] [main/ERROR] [bettervillage/]: Bountiful compatibility is not enabled for Better Village and Bountiful is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Bountiful.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[10Dec2024 10:06:51.815] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[10Dec2024 18:57:47.972] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[10Dec2024 10:06:51.816] [main/INFO] [additionaladditions/]: [additionaladditions] Loaded 0 behaviours
-[10Dec2024 10:06:51.826] [main/INFO] [additionaladditions/]: [additionaladditions] Adding 22 loot pools
-[10Dec2024 10:06:51.827] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
-[10Dec2024 10:06:51.866] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[10Dec2024 10:06:51.962] [main/INFO] [Supplementaries/]: Finished additional setup in 17 ms
-[10Dec2024 10:06:52.014] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[10Dec2024 10:06:52.014] [main/INFO] [Moonlight/]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
-[10Dec2024 10:06:52.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10Dec2024 10:06:52.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Dec2024 10:06:52.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Dec2024 10:06:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Dec2024 10:06:53.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Dec2024 10:06:53.082] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Dec2024 10:06:53.224] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Dec2024 10:06:53.225] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Dec2024 10:06:53.226] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Dec2024 10:06:53.226] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Dec2024 10:06:53.260] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[10Dec2024 10:06:54.254] [Server thread/INFO] [Framework/]: Loading server configs...
-[10Dec2024 10:06:54.931] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[10Dec2024 10:06:54.931] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[10Dec2024 10:06:54.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Dec2024 10:06:56.203] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[10Dec2024 10:06:56.206] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[10Dec2024 10:06:56.211] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[10Dec2024 10:06:57.250] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[10Dec2024 10:06:57.253] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[10Dec2024 10:06:57.256] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
-[10Dec2024 10:06:57.258] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[10Dec2024 10:06:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Dec2024 10:07:00.071] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.072] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.074] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.074] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.074] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.075] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.416] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 10:07:00.874] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[10Dec2024 10:07:00.909] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3494 ms
-[10Dec2024 10:07:00.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.670s)! For help, type "help"
-[10Dec2024 10:07:01.021] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Dec2024 10:07:01.027] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
-[10Dec2024 10:07:01.029] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
-[10Dec2024 10:07:01.029] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
-[10Dec2024 10:07:01.029] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
-[10Dec2024 10:07:01.030] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
-[10Dec2024 10:07:01.033] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
-[10Dec2024 10:07:01.039] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[10Dec2024 10:07:01.040] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[10Dec2024 10:07:01.298] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 361097 bytes (in 37 string chunks with the size of 10000)
-[10Dec2024 10:07:01.301] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[10Dec2024 10:07:01.302] [Server thread/WARN] [ModernFix/]: Dedicated server took 85.19 seconds to load
-[10Dec2024 10:07:16.785] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[10Dec2024 10:07:16.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:36223] logged in with entity id 1126 at (-78.06207804689656, 55.0, -825.2258414524985)
-[10Dec2024 10:07:17.068] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
-[10Dec2024 10:07:17.070] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.faboslav.friendsandfoes.common.entity.PlayerIllusionEntity: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
-[10Dec2024 10:07:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
-[10Dec2024 10:07:21.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
-[10Dec2024 10:12:36.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/3407, l='ServerLevel[world]', x=75.55, y=63.94, z=-482.05] died, message: 'Farmer was slain by Door Knight'
-[10Dec2024 10:15:42.509] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:42.527] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 18:57:47.977] [main/INFO] [additionaladditions/]: [additionaladditions] Loaded 0 behaviours
+[10Dec2024 18:57:47.991] [main/INFO] [additionaladditions/]: [additionaladditions] Adding 22 loot pools
+[10Dec2024 18:57:47.992] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[10Dec2024 18:57:48.088] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[10Dec2024 18:57:48.156] [main/INFO] [Supplementaries/]: Finished additional setup in 23 ms
+[10Dec2024 18:57:48.273] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[10Dec2024 18:57:48.273] [main/INFO] [Moonlight/]: Cleared non-static resources for pack supplementaries:generated_pack in: 0 ms
+[10Dec2024 18:57:49.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Dec2024 18:57:49.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Dec2024 18:57:49.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Dec2024 18:57:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Dec2024 18:57:49.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Dec2024 18:57:49.502] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Dec2024 18:57:49.662] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Dec2024 18:57:49.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Dec2024 18:57:49.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Dec2024 18:57:49.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Dec2024 18:57:49.716] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[10Dec2024 18:57:51.063] [Server thread/INFO] [Framework/]: Loading server configs...
+[10Dec2024 18:57:51.694] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10Dec2024 18:57:51.695] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10Dec2024 18:57:51.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Dec2024 18:57:52.890] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[10Dec2024 18:57:52.894] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[10Dec2024 18:57:52.899] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[10Dec2024 18:57:53.879] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:57:53.882] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:57:53.882] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[10Dec2024 18:57:53.883] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[10Dec2024 18:57:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Dec2024 18:57:56.463] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.464] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.464] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.465] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.465] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.484] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:56.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 18:57:57.365] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[10Dec2024 18:57:57.580] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3597 ms
+[10Dec2024 18:57:57.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.894s)! For help, type "help"
+[10Dec2024 18:57:57.823] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Dec2024 18:57:57.843] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[10Dec2024 18:57:57.847] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[10Dec2024 18:57:57.852] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[10Dec2024 18:57:57.852] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[10Dec2024 18:57:57.853] [Server thread/INFO] [bountiful/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[10Dec2024 18:57:57.862] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[10Dec2024 18:57:57.873] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Dec2024 18:57:57.873] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Dec2024 18:57:58.345] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 361097 bytes (in 37 string chunks with the size of 10000)
+[10Dec2024 18:57:58.349] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[10Dec2024 18:57:58.351] [Server thread/WARN] [ModernFix/]: Dedicated server took 80.639 seconds to load
+[10Dec2024 18:58:08.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Dec2024 18:58:08.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:42079] logged in with entity id 1127 at (191.32509456973418, 71.0, 1629.9206183616247)
+[10Dec2024 18:58:08.872] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[10Dec2024 18:58:08.876] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.faboslav.friendsandfoes.common.entity.PlayerIllusionEntity: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[10Dec2024 18:58:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[10Dec2024 18:58:11.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[10Dec2024 18:58:45.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19114ms or 382 ticks behind
+[10Dec2024 18:58:57.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:33049] logged in with entity id 1371 at (-81.88160383594251, 55.0, -825.912836796408)
+[10Dec2024 18:58:57.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[10Dec2024 18:59:02.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[10Dec2024 19:01:22.072] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 19:01:22.171] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 19:01:27.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Dread Ghoul
+[10Dec2024 19:01:29.496] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 19:02:00.296] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:00.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=930, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=786, z=1073200}"
 }
-[10Dec2024 10:15:42.528] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 88 extra bytes: 
-[10Dec2024 10:15:42.532] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "8!h h'-f] &cFL~9nMTSxS&+/,0"
-]
-[10Dec2024 10:15:42.536] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:42.537] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134105_": true
-}
-[10Dec2024 10:15:42.538] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 217 extra bytes: 
-[10Dec2024 10:15:42.539] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "h h'-f] &cFL~9nMTSxS&+/,0/523.p.gl.ply.gg+3&$"
-]
-[10Dec2024 10:15:43.909] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:43.911] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=893, z=1073200}"
-}
-[10Dec2024 10:15:43.911] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[10Dec2024 10:15:43.914] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:00.320] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:00.322] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[95, -45, -84, 108, -40, 9, 41, -89, -54, -94, -60]"
+  "[51, 11, -75, 86, -99, -100, -112, 60, 22, -9, -60]"
 ]
-[10Dec2024 10:15:44.500] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:44.505] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.422] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.426] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=980, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=853, z=1073200}"
 }
-[10Dec2024 10:15:44.511] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 39 extra bytes: 
-[10Dec2024 10:15:44.514] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "|DU_EfLF Ftr"
-]
-[10Dec2024 10:15:44.608] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:44.609] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=900, z=1073200}"
-}
-[10Dec2024 10:15:44.611] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[10Dec2024 10:15:44.612] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.427] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 14 extra bytes: 
+[10Dec2024 19:02:01.428] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[25, 47, 91, -21, 75, 15, -92, -9, -79, 78, -31]"
+  "[-36, -109, -37, 84, 22, -2, 111, 111, 83, 63, 69, 44, -72, 11]"
 ]
-[10Dec2024 10:15:44.745] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:44.747] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=852, z=1073200}"
-}
-[10Dec2024 10:15:44.748] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 13 extra bytes: 
-[10Dec2024 10:15:44.749] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[105, 24, -92, 17, -16, -1, -1, -51, -44, -75, -20, 30, 69]"
-]
-[10Dec2024 10:15:45.405] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:45.408] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=856, z=1073200}"
-}
-[10Dec2024 10:15:45.410] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[10Dec2024 10:15:45.416] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[-13, 50, 24, -42, -72, -27, 27, -95, -99, -30, -10]"
-]
-[10Dec2024 10:15:45.879] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:45.882] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=795, z=1073200}"
-}
-[10Dec2024 10:15:45.882] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 127 extra bytes: 
-[10Dec2024 10:15:45.882] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "*Wj%C~R2R`,L> ,.r08aN&+/,0/523.ip.gl.pl"
-]
-[10Dec2024 10:15:45.928] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:45.931] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=922, z=1073200}"
-}
-[10Dec2024 10:15:45.931] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 22 extra bytes: 
-[10Dec2024 10:15:45.932] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[78, 13, -113, -25, -32, 87, -4, 9, 92, -27, 54, -34, 30, -57, -17, -80, -7, 9, 42, -95, 77, -87]"
-]
-[10Dec2024 10:15:46.035] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.036] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=923, z=1073200}"
-}
-[10Dec2024 10:15:46.036] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 66 extra bytes: 
-[10Dec2024 10:15:46.037] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "QJ_+hW  m-&T{N}-J\"<iB&"
-]
-[10Dec2024 10:15:46.038] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.040] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.430] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.431] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_134118_": 0.0,
   "f_134119_": 0.0,
   "f_134120_": 0.0,
-  "f_134121_": -7.40135E7,
-  "f_134122_": 3.3104467E-33,
+  "f_134121_": -7.956588E37,
+  "f_134122_": 0.7702136,
   "f_134123_": true,
   "f_134124_": false,
   "f_134125_": true
 }
-[10Dec2024 10:15:46.041] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 115 extra bytes: 
-[10Dec2024 10:15:46.052] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.433] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 90 extra bytes: 
+[10Dec2024 19:02:01.434] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "W  m-&T{N}-J\"<iB&/,0/523.ip.gl.ply.gg"
+  "OS(<Op6 ;Mj`~V%NI&+/,0/5"
 ]
-[10Dec2024 10:15:46.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.434] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetCarriedItemPacket  id 40 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.438] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_134459_": 84
+  "f_134488_": -8132
 }
-[10Dec2024 10:15:46.056] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 132 extra bytes: 
-[10Dec2024 10:15:46.056] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.439] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 40 data of 109 extra bytes: 
+[10Dec2024 19:02:01.440] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "{N}-J\"<iB&/,0/523.ip.gl.ply.gg"
+  "Op6 ;Mj`~V%NI&+/,0/523.ip.gl.ply.gg"
 ]
-[10Dec2024 10:15:46.068] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.075] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.446] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.447] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133814_": "HARD"
+  "f_179721_": -1717486771
 }
-[10Dec2024 10:15:46.075] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 5 extra bytes: 
-[10Dec2024 10:15:46.075] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.450] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 108 extra bytes: 
+[10Dec2024 19:02:01.452] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "<partial numeric data>",
-  "[1, 0, 51, 0, 38]"
+  "j`~V%NI&+/,0/523.ip.gl.ply.gg"
 ]
-[10Dec2024 10:15:46.078] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.078] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.456] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.459] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ServerboundChatAckPacket[offset=13627]"
+[10Dec2024 19:02:01.459] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 105 extra bytes: 
+[10Dec2024 19:02:01.460] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`~V%NI&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:01.461] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133798_": 0,
-  "f_133799_": "BlockPos{x=13369496, y=46, z=118786}"
+  "f_134206_": true,
+  "f_134207_": true
 }
-[10Dec2024 10:15:46.081] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 31 extra bytes: 
-[10Dec2024 10:15:46.083] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.465] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 120 extra bytes: 
+[10Dec2024 19:02:01.469] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "<partial numeric data>",
-  "[-116, 29, -50, 8, -35, -54, 53, -57, 44, 67, -39, 30, 20, 91, -122, -119, -63, -61, -57, -90, -73, -27, -66, 18, 61, -110, -17, 84, -100, -124, 114]"
+  "~V%NI&+/,0/523.ip.gl.ply.gg"
 ]
-[10Dec2024 10:15:46.085] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x000072209ae9d820.operationComplete()
+[10Dec2024 19:02:01.471] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.471] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ServerboundChatAckPacket[offset=126]"
+[10Dec2024 19:02:01.472] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 121 extra bytes: 
+[10Dec2024 19:02:01.472] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "V%NI&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:01.477] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.477] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 38
+}
+[10Dec2024 19:02:01.478] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 136 extra bytes: 
+[10Dec2024 19:02:01.480] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/523.ip.gl.ply.gg+3&"
+]
+[10Dec2024 19:02:01.482] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000732deae7f6b0.operationComplete()
 java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
 	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.network.Connection.md1e77ef$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.Connection.md31c468$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
 	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
 	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
-	at net.minecraft.network.Connection.md1e77ef$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.Connection.md31c468$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
 	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
@@ -787,64 +731,474 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[10Dec2024 10:15:46.535] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.536] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.955] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.957] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=794, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=1010, z=1073200}"
 }
-[10Dec2024 10:15:46.544] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 82 extra bytes: 
-[10Dec2024 10:15:46.544] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.958] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 38 extra bytes: 
+[10Dec2024 19:02:01.964] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "|&!M6~IT9}5sM1o`+ kUO4cWNU:GEm5&+/,0"
+  "^w,V|7qR gP!>"
 ]
-[10Dec2024 10:15:46.545] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:15:46.552] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.984] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.985] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_134459_": 33
+  "f_134206_": true,
+  "f_134207_": true
 }
-[10Dec2024 10:15:46.552] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 88 extra bytes: 
-[10Dec2024 10:15:46.553] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.985] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 126 extra bytes: 
+[10Dec2024 19:02:01.986] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "M6~IT9}5sM1o`+ kUO4cWNU:GEm5&+/,0/5"
+  "d\\&@D&/,0/523.ip.gl.ply.gg"
 ]
-[10Dec2024 10:16:01.555] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:16:01.559] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=5768192, y=1012, z=1122352}"
-}
-[10Dec2024 10:16:01.562] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[10Dec2024 10:16:01.563] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[28, 21, -119, 125, -94, 86, -21, -42, 73, -23, -113]"
-]
-[10Dec2024 10:16:04.580] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:16:04.580] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 0,
-  "f_133799_": "BlockPos{x=-8125440, y=923, z=905264}"
-}
-[10Dec2024 10:16:04.580] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 35 extra bytes: 
-[10Dec2024 10:16:04.581] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "~O_@B|Ya!h"
-]
-[10Dec2024 10:16:04.581] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[10Dec2024 10:16:04.583] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.986] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:01.987] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_134118_": 0.0,
   "f_134119_": 0.0,
   "f_134120_": 0.0,
-  "f_134121_": 3.755705E9,
-  "f_134122_": 2.2598424,
+  "f_134121_": -8.382276E34,
+  "f_134122_": -5.387623E13,
   "f_134123_": true,
   "f_134124_": false,
   "f_134125_": true
 }
-[10Dec2024 10:16:04.584] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 41 extra bytes: 
-[10Dec2024 10:16:04.585] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[10Dec2024 19:02:01.987] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 113 extra bytes: 
+[10Dec2024 19:02:01.993] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "|Ya!h(3@k8/"
+  "/,0/523.ip.gl.ply.gg"
 ]
+[10Dec2024 19:02:01.995] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000732deae7f6b0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10Dec2024 19:02:02.254] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.255] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=924, z=1073200}"
+}
+[10Dec2024 19:02:02.256] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:02.256] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[18, 100, -28, -47, -59, -2, 7, -105, 0, 19, 64]"
+]
+[10Dec2024 19:02:02.608] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.609] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=822, z=1073200}"
+}
+[10Dec2024 19:02:02.610] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:02.610] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[77, 47, -119, 8, -31, -66, 72, 19, 105, -127, -122]"
+]
+[10Dec2024 19:02:02.611] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.612] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[10Dec2024 19:02:02.612] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 118 extra bytes: 
+[10Dec2024 19:02:02.613] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "A+(|K;}pb[C 9VBMN9]$tN6&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.614] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.614] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 11747
+}
+[10Dec2024 19:02:02.616] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 105 extra bytes: 
+[10Dec2024 19:02:02.617] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "C 9VBMN9]$tN6&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.617] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.626] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": 3.6617342E-29,
+  "f_134340_": 5.340978E13,
+  "f_134341_": false,
+  "f_134342_": true
+}
+[10Dec2024 19:02:02.627] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 102 extra bytes: 
+[10Dec2024 19:02:02.627] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9]$tN6&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.628] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.628] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134073_": "BlockPos{x=9556891, y=1358, z=30092617}",
+  "f_134074_": 54,
+  "f_134075_": false
+}
+[10Dec2024 19:02:02.629] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 107 extra bytes: 
+[10Dec2024 19:02:02.629] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.630] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.631] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 5568
+}
+[10Dec2024 19:02:02.631] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 107 extra bytes: 
+[10Dec2024 19:02:02.631] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.632] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.633] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[10Dec2024 19:02:02.633] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 150 extra bytes: 
+[10Dec2024 19:02:02.633] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/523.ip.gl.ply.gg+3& Vv}t`:{Pa\\l&gE!&5 p"
+]
+[10Dec2024 19:02:02.634] [Netty Epoll Server IO #3/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000732deae7f6b0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10Dec2024 19:02:02.648] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.648] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=770, z=1073200}"
+}
+[10Dec2024 19:02:02.649] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 95 extra bytes: 
+[10Dec2024 19:02:02.649] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")YhN\\(nS~$I- _8 aVk;q$'sD&+/,0/5"
+]
+[10Dec2024 19:02:02.650] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.650] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 50657121
+}
+[10Dec2024 19:02:02.651] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 64 extra bytes: 
+[10Dec2024 19:02:02.651] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Vk;q$'sD&+/,0/5"
+]
+[10Dec2024 19:02:02.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.652] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 592306,
+  "f_133799_": "BlockPos{x=-13958548, y=651, z=-25739639}"
+}
+[10Dec2024 19:02:02.653] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 69 extra bytes: 
+[10Dec2024 19:02:02.653] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.654] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.654] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": 1.3334535E-15,
+  "f_134340_": 3.4956393E-10,
+  "f_134341_": false,
+  "f_134342_": false
+}
+[10Dec2024 19:02:02.655] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 57 extra bytes: 
+[10Dec2024 19:02:02.655] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.656] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.656] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[10Dec2024 19:02:02.666] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 79 extra bytes: 
+[10Dec2024 19:02:02.667] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/523.ip.gl.ply.gg"
+]
+[10Dec2024 19:02:02.667] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.668] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[10Dec2024 19:02:02.668] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 78 extra bytes: 
+[10Dec2024 19:02:02.669] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, 18, 19, 1, 19, 2, 19, 3, 1, 0, 0, -105, 0, 18, 0, 0, 15, 50, 51, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2]"
+]
+[10Dec2024 19:02:02.669] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.670] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[10Dec2024 19:02:02.670] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 78 extra bytes: 
+[10Dec2024 19:02:02.670] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[19, 2, 19, 3, 1, 0, 0, -105, 0, 18, 0, 0, 15, 50, 51, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[10Dec2024 19:02:02.671] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.671] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[10Dec2024 19:02:02.672] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 76 extra bytes: 
+[10Dec2024 19:02:02.672] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[19, 3, 1, 0, 0, -105, 0, 18, 0, 0, 15, 50, 51, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[10Dec2024 19:02:02.673] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.673] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[10Dec2024 19:02:02.673] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 97 extra bytes: 
+[10Dec2024 19:02:02.674] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "23.ip.gl.ply.gg+3&"
+]
+[10Dec2024 19:02:02.674] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.675] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=154624, y=-206, z=18874368}"
+}
+[10Dec2024 19:02:02.675] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 87 extra bytes: 
+[10Dec2024 19:02:02.676] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3.ip.gl.ply.gg+3&"
+]
+[10Dec2024 19:02:02.676] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSignUpdatePacket  id 46 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:02.677] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134645_": "BlockPos{x=27639993, y=108, z=-25771289}",
+  "f_134646_": [
+    "gg\u0000\u0005\u0001\u0000\u0000\u0000\n\u0000\b\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b\u0000\u0002\u0001\u0000\u0000\r\u0000\u001a\u0000\u0018\b\u0004\u0004\u0003\b\u0007\b\u0005\b\u0006\u0004\u0001\u0005\u0006\u0005\u0006\u0003",
+    "\u0002�",
+    "\u0000",
+    ""
+  ],
+  "f_276680_": true
+}
+[10Dec2024 19:02:02.678] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 46 data of 59 extra bytes: 
+[10Dec2024 19:02:02.679] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& q*3K&x_RCE8bARA4"
+]
+[10Dec2024 19:02:02.679] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000732deae7f6b0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md31c468$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10Dec2024 19:02:03.087] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:03.088] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=868, z=1073200}"
+}
+[10Dec2024 19:02:03.088] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:03.089] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-42, 95, 49, 16, 98, 53, 85, -27, -27, -116, -36]"
+]
+[10Dec2024 19:02:03.385] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:03.385] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1003, z=1073200}"
+}
+[10Dec2024 19:02:03.386] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 88 extra bytes: 
+[10Dec2024 19:02:03.386] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\),*RX)N:SU K=SMI}Q2,2Dra&+/,0"
+]
+[10Dec2024 19:02:03.387] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PosRot  id 21 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:03.387] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": -4.8873663295922173E-225,
+  "f_134119_": -1.4301307097427682E217,
+  "f_134120_": 4.579800992268122E118,
+  "f_134121_": -260.64926,
+  "f_134122_": 1.104915E13,
+  "f_134123_": true,
+  "f_134124_": true,
+  "f_134125_": true
+}
+[10Dec2024 19:02:03.388] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 21 data of 83 extra bytes: 
+[10Dec2024 19:02:03.388] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=SMI}Q2,2Dra&+/,0/523."
+]
+[10Dec2024 19:02:03.388] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:03.389] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": -3.4920196E-16,
+  "f_134122_": -1.4299244E29,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": true
+}
+[10Dec2024 19:02:03.389] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 207 extra bytes: 
+[10Dec2024 19:02:03.390] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q2,2Dra&+/,0/523.p.gl.ply.gg+3&$k1ZHowJW50nC"
+]
+[10Dec2024 19:02:04.072] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:04.075] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=801, z=1073200}"
+}
+[10Dec2024 19:02:04.076] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:04.076] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-34, -17, -124, -77, 34, 37, 16, 114, 16, -52, 45]"
+]
+[10Dec2024 19:02:04.112] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:04.113] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=947, z=1073200}"
+}
+[10Dec2024 19:02:04.113] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:04.114] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[6, 79, 10, -36, -38, -31, 56, 97, 95, -123, 43]"
+]
+[10Dec2024 19:02:21.032] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:21.034] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=828, z=1122352}"
+}
+[10Dec2024 19:02:21.035] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 19:02:21.036] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[24, -79, -5, -76, 111, -63, 43, 32, 76, -54, 121]"
+]
+[10Dec2024 19:02:21.279] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:21.280] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=994, z=905264}"
+}
+[10Dec2024 19:02:21.280] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 69 extra bytes: 
+[10Dec2024 19:02:21.281] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Ff8_3m:Ti:6F$h$(0fk52,'9j"
+]
+[10Dec2024 19:02:21.983] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:21.984] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=854, z=856112}"
+}
+[10Dec2024 19:02:21.984] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 59 extra bytes: 
+[10Dec2024 19:02:21.984] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^ uz:D(Y:#LM8,0+/$(k#'"
+]
+[10Dec2024 19:02:21.984] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 19:02:21.985] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 454784378
+}
+[10Dec2024 19:02:21.985] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 163 extra bytes: 
+[10Dec2024 19:02:21.985] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":D(Y:#LM8,0+/$(k#'93=<5/p23.ip.gl.ply.gg#0."
+]
+[10Dec2024 19:02:40.808] [Thread-26/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[10Dec2024 19:02:41.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.16.94.70:44221] logged in with entity id 2946 at (66.69999998807907, 59.0, -658.6999999880791)
+[10Dec2024 19:02:41.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[10Dec2024 19:02:46.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[10Dec2024 19:03:36.245] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 19:03:36.270] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 19:03:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Dread Scuttler
+[10Dec2024 19:03:51.673] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
