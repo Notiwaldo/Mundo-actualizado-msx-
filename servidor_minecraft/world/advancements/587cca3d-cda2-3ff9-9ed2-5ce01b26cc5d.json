@@ -6234,5 +6234,17 @@
     },
     "done": true
   },
+  "ancient_elements:crystal_pioneer": {
+    "criteria": {
+      "crystal_pioneer": "2024-12-10 23:50:42 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-10 23:50:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

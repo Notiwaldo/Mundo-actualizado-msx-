@@ -6073,6 +6073,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_0": "2024-12-10 23:45:20 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-10 23:33:26 +0000"
