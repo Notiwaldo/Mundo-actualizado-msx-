@@ -312,6 +312,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-09 21:55:13 +0000",
       "minecraft:taiga": "2024-12-10 06:06:01 +0000",
       "minecraft:deep_ocean": "2024-12-09 22:42:48 +0000",
+      "minecraft:cherry_grove": "2024-12-10 21:01:30 +0000",
       "minecraft:birch_forest": "2024-12-10 07:32:41 +0000",
       "minecraft:savanna_plateau": "2024-12-10 04:05:00 +0000",
       "minecraft:beach": "2024-12-09 04:55:51 +0000",
@@ -5264,6 +5265,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 20:58:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-10 19:42:21 +0000"
@@ -5300,6 +5307,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 20:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-10 19:15:13 +0000"
@@ -5324,6 +5337,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-10 20:58:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2024-12-10 19:25:48 +0000"
@@ -5339,6 +5358,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 20:58:44 +0000"
     },
     "done": true
   },
@@ -5465,6 +5490,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-10 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 20:58:44 +0000"
     },
     "done": true
   },
