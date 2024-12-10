@@ -6000,9 +6000,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 23:02:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-10 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
     },
     "done": true
   },
@@ -6012,15 +6114,117 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 23:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-10 23:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2024-12-10 23:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-10 22:45:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-10 22:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-10 23:02:10 +0000"
     },
     "done": true
   },
