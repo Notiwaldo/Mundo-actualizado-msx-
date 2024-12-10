@@ -10423,3 +10423,188 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 04:44:41.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [10Dec2024 04:44:41.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [10Dec2024 04:44:41.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:44:44.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[10Dec2024 04:44:47.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 04:44:47.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 04:44:56.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[10Dec2024 04:45:19.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[10Dec2024 04:45:19.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[10Dec2024 04:45:19.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[10Dec2024 04:45:19.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[10Dec2024 04:45:19.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[10Dec2024 04:45:19.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[10Dec2024 04:45:19.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[10Dec2024 04:45:19.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[10Dec2024 04:45:19.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[10Dec2024 04:45:19.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[10Dec2024 04:45:19.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[10Dec2024 04:45:19.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[10Dec2024 04:45:19.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[10Dec2024 04:45:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Magic Siphoner]
+[10Dec2024 04:46:00.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Senior Summoner]
+[10Dec2024 04:46:48.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:46:48.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:47:07.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 04:47:07.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 04:48:10.359] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:outcast_villager/barn1 is being run through DFU (hash ad28773bef5176a9ba23615466e4684701e92b87f1cc9d006926eb5ac52899f3), this will cause launch time delays
+[10Dec2024 04:48:10.652] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[10Dec2024 04:48:10.687] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[10Dec2024 04:48:10.713] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[10Dec2024 04:48:10.734] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[10Dec2024 04:48:10.748] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/1/bottom is being run through DFU (hash 21c31d7b5be5c8a7b4121b0be3ac9ccfb8f5580260c8c7ae7a5331ea5ea71d69), this will cause launch time delays
+[10Dec2024 04:48:13.568] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_cerulean_crystal_2
+[10Dec2024 04:48:19.502] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_topaz_crystal_2
+[10Dec2024 04:48:19.503] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 04:48:19.504] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 04:48:41.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[10Dec2024 04:48:41.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[10Dec2024 04:48:41.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 04:48:59.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[10Dec2024 04:48:59.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[10Dec2024 04:48:59.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[10Dec2024 04:48:59.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[10Dec2024 04:48:59.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[10Dec2024 04:48:59.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[10Dec2024 04:48:59.821] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower is being run through DFU (hash 139db89f5ae9a0916d9a49101803b88b85a3e550e1b98b10c803443f5c497634), this will cause launch time delays
+[10Dec2024 04:48:59.830] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage is being run through DFU (hash a498c3ece3f43e5f8abe220601a6ff168e525b7fc531fc49dad3731b0f2c39a9), this will cause launch time delays
+[10Dec2024 04:48:59.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[10Dec2024 04:48:59.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[10Dec2024 04:48:59.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[10Dec2024 04:48:59.832] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/villager_spawns/villager_normal is being run through DFU (hash b7bdedcb960e9cab71287a58683ff21db24d279071de109b970f01bd985fde39), this will cause launch time delays
+[10Dec2024 04:49:01.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 04:49:01.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 04:49:01.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 04:49:01.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 04:49:01.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 04:49:01.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 04:49:01.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 04:49:01.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 04:49:01.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 04:49:01.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 04:49:01.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 04:49:01.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 04:49:01.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 04:49:01.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 04:49:01.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 04:49:01.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 04:49:01.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 04:49:01.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 04:49:01.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 04:49:01.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 04:49:01.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 04:49:01.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 04:49:01.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 04:49:01.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 04:49:04.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
+[10Dec2024 04:49:12.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[10Dec2024 04:49:12.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[10Dec2024 04:49:12.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 04:49:17.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 04:49:17.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 04:49:22.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[10Dec2024 04:49:23.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[10Dec2024 04:49:47.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:47.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:47.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:51.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:51.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:51.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:57.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:57.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:49:57.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Dec2024 04:50:07.645] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 04:50:07.667] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 04:50:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was shot by Stray
+[10Dec2024 04:50:34.043] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-245, y:66, z:-93, dim:minecraft:overworld]
+[10Dec2024 04:50:35.485] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:50:35.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 04:50:36.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[10Dec2024 04:51:35.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 04:51:35.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 04:51:35.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 04:51:35.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 04:51:35.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 04:51:35.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 04:51:35.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 04:51:35.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 04:51:35.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 04:51:35.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 04:51:35.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 04:51:35.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 04:51:35.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 04:51:35.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 04:51:35.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 04:51:35.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 04:51:35.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 04:51:35.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 04:51:35.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 04:51:35.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 04:51:35.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 04:51:35.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 04:51:35.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 04:51:35.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 04:51:35.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 04:51:35.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 04:51:54.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:51:54.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:53:23.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 04:53:24.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 04:53:57.048] [Server thread/WARN] [tombstone/]: The death event of the player chelas was canceled by another mod
+[10Dec2024 04:53:57.050] [Server thread/INFO] [tombstone/]: The player chelas has successfully been saved
+[10Dec2024 04:54:02.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 04:54:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chelas was doomed to fall by Aetherial Glaze
+[10Dec2024 04:54:05.693] [Server thread/DEBUG] [tombstone/]: A new grave of the player chelas was created at position [x:70, y:81, z:1045, dim:minecraft:overworld]
+[10Dec2024 04:54:06.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 04:54:06.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 04:54:06.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 04:54:06.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 04:54:06.844] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:54:06.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[10Dec2024 04:54:07.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[10Dec2024 04:54:07.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[10Dec2024 04:54:07.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[10Dec2024 04:54:07.088] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[10Dec2024 04:54:07.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[10Dec2024 04:54:07.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[10Dec2024 04:54:07.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[10Dec2024 04:54:07.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[10Dec2024 04:54:07.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[10Dec2024 04:54:07.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[10Dec2024 04:54:07.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:railway
+[10Dec2024 04:54:11.988] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Dec2024 04:54:12.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[10Dec2024 04:54:12.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken
+[10Dec2024 04:54:12.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_0
+[10Dec2024 04:54:12.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_1_support
+[10Dec2024 04:54:12.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_bridge_0
+[10Dec2024 04:54:12.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main
+[10Dec2024 04:54:12.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_0
+[10Dec2024 04:54:12.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower
+[10Dec2024 04:54:12.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom
+[10Dec2024 04:54:12.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0
+[10Dec2024 04:54:12.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0
+[10Dec2024 04:54:12.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top
+[10Dec2024 04:54:12.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1
+[10Dec2024 04:54:12.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower
+[10Dec2024 04:54:12.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0
+[10Dec2024 04:54:12.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1
+[10Dec2024 04:54:12.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[10Dec2024 04:54:12.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_roof_1
+[10Dec2024 04:54:12.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator
+[10Dec2024 04:54:12.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0
+[10Dec2024 04:54:12.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2
+[10Dec2024 04:54:12.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small
+[10Dec2024 04:54:12.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_3
+[10Dec2024 04:54:12.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_witch_0
+[10Dec2024 04:54:12.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_1
+[10Dec2024 04:54:12.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0
+[10Dec2024 04:54:12.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
+[10Dec2024 04:54:12.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0
+[10Dec2024 04:54:12.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1
+[10Dec2024 04:54:12.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2
+[10Dec2024 04:54:12.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0
+[10Dec2024 04:54:12.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
+[10Dec2024 04:54:12.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 04:54:12.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 04:54:14.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[10Dec2024 04:54:15.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil

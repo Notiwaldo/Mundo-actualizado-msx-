@@ -2144,6 +2144,7 @@
       "minecraft:husk": "2024-12-09 08:30:15 +0000",
       "minecraft:cave_spider": "2024-12-09 05:26:38 +0000",
       "minecraft:silverfish": "2024-12-09 22:47:51 +0000",
+      "minecraft:stray": "2024-12-10 04:42:57 +0000",
       "minecraft:zombie": "2024-12-09 07:12:59 +0000"
     },
     "done": false
@@ -4230,6 +4231,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-10 04:16:53 +0000"
@@ -4239,6 +4246,36 @@
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2024-12-10 04:34:25 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-10 04:46:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-10 04:44:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
     },
     "done": true
   },
@@ -4290,15 +4327,33 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-10 04:02:16 +0000"
     },
     "done": true
   },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2024-12-10 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 04:44:35 +0000"
     },
     "done": true
   },
@@ -4335,6 +4390,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-10 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-10 04:46:07 +0000"
     },
     "done": true
   },

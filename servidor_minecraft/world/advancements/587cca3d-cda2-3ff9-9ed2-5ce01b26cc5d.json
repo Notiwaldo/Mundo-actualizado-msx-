@@ -184,6 +184,7 @@
       "minecraft:creeper": "2024-12-09 07:08:26 +0000",
       "minecraft:wither_skeleton": "2024-12-09 08:46:41 +0000",
       "minecraft:cave_spider": "2024-12-09 05:26:31 +0000",
+      "minecraft:stray": "2024-12-10 04:49:47 +0000",
       "minecraft:zombie": "2024-12-08 22:29:47 +0000",
       "minecraft:zombie_villager": "2024-12-09 21:49:14 +0000"
     },
@@ -4890,6 +4891,24 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-10 04:41:30 +0000"
@@ -4902,9 +4921,27 @@
     },
     "done": false
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-10 04:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
     },
     "done": true
   },
@@ -4914,9 +4951,21 @@
     },
     "done": true
   },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
     },
     "done": true
   },
@@ -4944,9 +4993,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-10 04:43:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-10 04:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
     },
     "done": true
   },
@@ -4959,6 +5026,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-10 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-10 04:48:11 +0000"
     },
     "done": true
   },

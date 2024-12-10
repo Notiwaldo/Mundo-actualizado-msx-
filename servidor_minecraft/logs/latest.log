@@ -1969,3 +1969,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 04:43:44.446] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [10Dec2024 04:44:37.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Bow for Wizards]
 [10Dec2024 04:44:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chelas> xaero-waypoint:torres petronas:T:72:71:1006:5:false:0:Internal-overworld-waypoints
+[10Dec2024 04:44:56.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[10Dec2024 04:45:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Magic Siphoner]
+[10Dec2024 04:46:00.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Senior Summoner]
+[10Dec2024 04:49:04.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
+[10Dec2024 04:49:23.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[10Dec2024 04:50:07.645] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 04:50:07.667] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 04:50:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was shot by Stray
+[10Dec2024 04:50:35.485] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:53:57.048] [Server thread/WARN] [tombstone/]: The death event of the player chelas was canceled by another mod
+[10Dec2024 04:53:57.050] [Server thread/INFO] [tombstone/]: The player chelas has successfully been saved
+[10Dec2024 04:54:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chelas was doomed to fall by Aetherial Glaze
+[10Dec2024 04:54:06.844] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
