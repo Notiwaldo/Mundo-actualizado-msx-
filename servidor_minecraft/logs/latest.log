@@ -3105,3 +3105,44 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 06:19:18.786] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
 [10Dec2024 06:19:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Husk
 [10Dec2024 06:19:32.336] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 06:20:09.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[10Dec2024 06:20:32.779] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 06:20:32.780] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 06:20:34.489] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_pickaxe
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_basic_shield
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[10Dec2024 06:22:29.897] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 280.041ms!
+[10Dec2024 06:24:30.965] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 1347.815ms!
+[10Dec2024 06:24:31.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 6.884959482188606,0.0,-7.533765826244689
+[10Dec2024 06:24:31.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.146452540136579,0.0,-7.83251842365614
+[10Dec2024 06:24:31.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.409993647211422,0.0,-8.129766665459101
+[10Dec2024 06:24:31.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.676859853740098,0.0,-8.42410693769881
+[10Dec2024 06:24:54.357] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 741.856ms!
+[10Dec2024 06:25:46.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110098, l='ServerLevel[world]', x=-1120.63, y=65.00, z=65.07] died, message: 'Villager suffocated in a wall'
+[10Dec2024 06:26:26.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[10Dec2024 06:29:00.620] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 1494.107ms!
+[10Dec2024 06:29:00.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 9.61937309935638,0.0,-3.9531766697641615
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 9.989348987793164,0.0,-4.105221926293552
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 10.359324876229948,0.0,-4.257267182822943
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 10.729300764666732,0.0,-4.409312439352334
+[10Dec2024 06:29:00.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 11.099276653103516,0.0,-4.561357695881725
+[10Dec2024 06:29:00.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 11.4692525415403,0.0,-4.713402952411116
+[10Dec2024 06:29:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[10Dec2024 06:30:39.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.3813156918713503
+[10Dec2024 06:30:39.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.46753883724932166
+[10Dec2024 06:30:39.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2866564706769168
+[10Dec2024 06:30:40.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.35172969276140975
+[10Dec2024 06:30:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.4192535078975652
+[10Dec2024 06:30:40.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2540178562287565
+[10Dec2024 06:30:40.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2639127803456631
+[10Dec2024 06:30:40.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5367020839078123
+[10Dec2024 06:30:40.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.28076731129885957
+[10Dec2024 06:30:40.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2876293224010169
+[10Dec2024 06:30:40.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.29345422478422734
+[10Dec2024 06:30:40.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5903577574351857
+[10Dec2024 06:30:40.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.8904648439113316
+[10Dec2024 06:30:40.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.30153929480593433
+[10Dec2024 06:34:52.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 06:36:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Junior Summoner]

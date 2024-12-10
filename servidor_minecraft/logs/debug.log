@@ -13961,3 +13961,772 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 06:19:55.149] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
 [10Dec2024 06:19:55.163] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
 [10Dec2024 06:19:55.200] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[10Dec2024 06:19:58.013] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[10Dec2024 06:19:58.980] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:20:03.146] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[10Dec2024 06:20:05.632] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:20:09.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[10Dec2024 06:20:09.820] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 06:20:09.934] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[10Dec2024 06:20:09.980] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 06:20:10.042] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[10Dec2024 06:20:10.121] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[10Dec2024 06:20:10.236] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 06:20:11.474] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 06:20:18.698] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:20:20.536] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:20:24.613] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Dec2024 06:20:26.748] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 06:20:26.772] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 06:20:26.810] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 06:20:27.062] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 06:20:30.151] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 06:20:30.169] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 06:20:31.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:20:32.779] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 06:20:32.780] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 06:20:32.810] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Dec2024 06:20:34.489] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_pickaxe
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 iron_basic_shield
+[10Dec2024 06:20:34.490] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[10Dec2024 06:20:42.505] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:20:43.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/vindicator
+[10Dec2024 06:20:43.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:20:43.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 06:20:43.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 06:20:43.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 06:20:43.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 06:20:43.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 06:20:43.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 06:20:43.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 06:20:43.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 06:20:43.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 06:20:43.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 06:20:43.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 06:20:43.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 06:20:43.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 06:20:43.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:20:43.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 06:20:43.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 06:20:43.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 06:20:43.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:20:43.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 06:20:43.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 06:20:43.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 06:20:43.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 06:20:43.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 06:20:44.642] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:21:05.920] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/fountain1
+[10Dec2024 06:21:09.521] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:21:09.783] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[10Dec2024 06:21:12.575] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Dec2024 06:21:12.710] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:21:12.714] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:21:13.010] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 06:21:15.834] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 06:21:15.851] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 06:21:15.866] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 06:21:15.881] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[10Dec2024 06:21:19.598] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 06:21:19.608] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[10Dec2024 06:21:26.434] [Worker-Main-12/DEBUG] [ModernFix/]: Structure watching:torch_tunnel/1x2/torchless_tunnel is being run through DFU (hash 9f89c98bc24d767500f832488930d32c883688147aff5d536c1159cce5557d89), this will cause launch time delays
+[10Dec2024 06:21:26.579] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 06:21:26.598] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 06:21:27.674] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[10Dec2024 06:21:27.724] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[10Dec2024 06:21:32.187] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[10Dec2024 06:21:35.331] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 06:21:35.528] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[10Dec2024 06:21:38.710] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[10Dec2024 06:21:38.721] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_2 is being run through DFU (hash 9b231039554aed49aa38dfb8ad0a062a077ccc7dc5e1b441ff9033646f4c0475), this will cause launch time delays
+[10Dec2024 06:21:38.816] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_4 is being run through DFU (hash 003b0f3decfb3c6dacb55d12b727270cd28fea9596f5404f58537e34e2c1a1d8), this will cause launch time delays
+[10Dec2024 06:21:38.822] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_5 is being run through DFU (hash 983d376b47555c98682deb38679d2e37044eeaf15ca0fb00d1205d2286749fcc), this will cause launch time delays
+[10Dec2024 06:21:38.825] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_1 is being run through DFU (hash cf5f72d36c0acd106ea311020ff053812fbd11ff1b7a3c66ce87438de158931c), this will cause launch time delays
+[10Dec2024 06:21:38.830] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_0 is being run through DFU (hash 6b7e335d1ed90894a5457d394be4a406e70d2414b78bf9fd1aab757a195cccd9), this will cause launch time delays
+[10Dec2024 06:21:38.837] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_3 is being run through DFU (hash bb0c6c1ae5a93fe676aec3040b72eb3df5666d87be8d8b2bc6055ec3287e850e), this will cause launch time delays
+[10Dec2024 06:21:38.854] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 06:21:44.777] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 06:21:45.230] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[10Dec2024 06:21:45.513] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 06:21:48.571] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[10Dec2024 06:21:49.393] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 06:21:52.682] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[10Dec2024 06:21:54.417] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[10Dec2024 06:21:54.430] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[10Dec2024 06:21:54.449] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[10Dec2024 06:21:54.465] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[10Dec2024 06:21:54.568] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[10Dec2024 06:21:54.586] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[10Dec2024 06:21:54.695] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[10Dec2024 06:21:54.714] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[10Dec2024 06:21:54.732] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[10Dec2024 06:21:54.762] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[10Dec2024 06:21:54.776] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[10Dec2024 06:21:54.794] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Dec2024 06:21:54.805] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[10Dec2024 06:21:54.805] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[10Dec2024 06:21:54.805] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[10Dec2024 06:21:54.807] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 06:21:57.725] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[10Dec2024 06:22:00.238] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[10Dec2024 06:22:00.255] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[10Dec2024 06:22:00.270] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[10Dec2024 06:22:07.094] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[10Dec2024 06:22:07.108] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[10Dec2024 06:22:07.220] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[10Dec2024 06:22:10.411] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[10Dec2024 06:22:10.437] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[10Dec2024 06:22:10.756] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[10Dec2024 06:22:25.833] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 06:22:25.846] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[10Dec2024 06:22:25.872] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 06:22:25.909] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[10Dec2024 06:22:25.918] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[10Dec2024 06:22:25.932] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[10Dec2024 06:22:25.945] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[10Dec2024 06:22:25.953] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[10Dec2024 06:22:25.960] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[10Dec2024 06:22:25.969] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[10Dec2024 06:22:25.984] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[10Dec2024 06:22:25.997] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[10Dec2024 06:22:26.006] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[10Dec2024 06:22:26.014] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[10Dec2024 06:22:26.027] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[10Dec2024 06:22:26.715] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[10Dec2024 06:22:29.897] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 280.041ms!
+[10Dec2024 06:22:35.985] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[10Dec2024 06:22:39.526] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[10Dec2024 06:22:42.991] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[10Dec2024 06:22:47.272] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[10Dec2024 06:22:53.381] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[10Dec2024 06:23:02.144] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[10Dec2024 06:23:03.558] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[10Dec2024 06:23:04.197] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[10Dec2024 06:23:04.226] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 06:23:04.244] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[10Dec2024 06:23:04.257] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[10Dec2024 06:23:04.270] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[10Dec2024 06:23:04.299] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Dec2024 06:23:04.338] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[10Dec2024 06:23:26.530] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[10Dec2024 06:23:26.819] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[10Dec2024 06:23:33.842] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[10Dec2024 06:23:35.371] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Dec2024 06:23:36.253] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[10Dec2024 06:23:37.241] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[10Dec2024 06:23:37.249] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[10Dec2024 06:23:37.325] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[10Dec2024 06:23:37.340] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[10Dec2024 06:23:38.753] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/bridge1
+[10Dec2024 06:23:38.768] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[10Dec2024 06:23:40.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 06:23:40.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 06:23:42.760] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[10Dec2024 06:23:43.087] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[10Dec2024 06:23:43.197] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mvs:stall/orange_stall is being run through DFU (hash 02213f8f276c2034be80459202bbe32672bcd03df26014bd121d603165d61d84), this will cause launch time delays
+[10Dec2024 06:23:43.318] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mvs:stall/blue_stall is being run through DFU (hash 22ca112eaa68ad646b5e03901d2148c200aba5c72ada8d464273bfdd6ece83ee), this will cause launch time delays
+[10Dec2024 06:23:43.440] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mvs:stall/red_stall is being run through DFU (hash c9f8ba5565cafa2ee56d37594a372700c101eac10a42d8d3560edf9a75f97337), this will cause launch time delays
+[10Dec2024 06:23:43.592] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mvs:stall/pink_stall is being run through DFU (hash 34dab6e994f2175cbd6332f3523f775577eff4ed2f982023274e7c65f5448fa3), this will cause launch time delays
+[10Dec2024 06:23:43.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/barn
+[10Dec2024 06:23:43.853] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[10Dec2024 06:23:44.021] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 06:23:44.025] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 06:23:44.030] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 06:23:44.038] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 06:23:44.048] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:23:44.052] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 06:23:44.209] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[10Dec2024 06:24:01.631] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[10Dec2024 06:24:07.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:24:07.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:24:08.512] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[10Dec2024 06:24:12.814] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[10Dec2024 06:24:12.983] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[10Dec2024 06:24:19.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters3
+[10Dec2024 06:24:19.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/evoker
+[10Dec2024 06:24:19.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure3
+[10Dec2024 06:24:19.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[10Dec2024 06:24:19.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:24:26.349] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[10Dec2024 06:24:30.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 06:24:30.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[10Dec2024 06:24:30.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[10Dec2024 06:24:30.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[10Dec2024 06:24:30.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[10Dec2024 06:24:30.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[10Dec2024 06:24:30.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[10Dec2024 06:24:30.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[10Dec2024 06:24:30.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[10Dec2024 06:24:30.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[10Dec2024 06:24:30.965] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 1347.815ms!
+[10Dec2024 06:24:31.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 6.884959482188606,0.0,-7.533765826244689
+[10Dec2024 06:24:31.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.146452540136579,0.0,-7.83251842365614
+[10Dec2024 06:24:31.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.409993647211422,0.0,-8.129766665459101
+[10Dec2024 06:24:31.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.676859853740098,0.0,-8.42410693769881
+[10Dec2024 06:24:31.598] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[10Dec2024 06:24:40.207] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[10Dec2024 06:24:43.395] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[10Dec2024 06:24:43.415] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10
+[10Dec2024 06:24:43.416] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7
+[10Dec2024 06:24:43.417] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6
+[10Dec2024 06:24:43.417] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5
+[10Dec2024 06:24:43.418] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1
+[10Dec2024 06:24:43.418] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3
+[10Dec2024 06:24:43.418] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9
+[10Dec2024 06:24:43.420] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_4
+[10Dec2024 06:24:43.421] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0
+[10Dec2024 06:24:43.421] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2
+[10Dec2024 06:24:43.425] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_8
+[10Dec2024 06:24:46.760] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Dec2024 06:24:46.777] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 06:24:48.388] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[10Dec2024 06:24:48.429] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[10Dec2024 06:24:54.357] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 741.856ms!
+[10Dec2024 06:24:59.353] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[10Dec2024 06:25:20.737] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:25:20.911] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:25:23.769] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[10Dec2024 06:25:24.230] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:25:25.257] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:25:25.306] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6
+[10Dec2024 06:25:29.887] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[10Dec2024 06:25:30.464] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 06:25:30.859] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1
+[10Dec2024 06:25:31.104] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9
+[10Dec2024 06:25:31.104] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0
+[10Dec2024 06:25:36.679] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:25:36.682] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 06:25:40.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 06:25:41.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:25:42.797] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 06:25:42.804] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[10Dec2024 06:25:43.404] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[10Dec2024 06:25:43.440] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[10Dec2024 06:25:46.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110098, l='ServerLevel[world]', x=-1120.63, y=65.00, z=65.07] died, message: 'Villager suffocated in a wall'
+[10Dec2024 06:25:46.683] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:25:46.741] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:25:46.805] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:25:48.100] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 06:25:48.108] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[10Dec2024 06:25:48.128] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[10Dec2024 06:25:48.586] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[10Dec2024 06:25:48.586] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[10Dec2024 06:25:49.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:25:53.582] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[10Dec2024 06:25:54.523] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[10Dec2024 06:25:54.536] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[10Dec2024 06:25:54.867] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[10Dec2024 06:25:54.868] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[10Dec2024 06:25:58.755] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 06:25:58.787] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 06:25:58.801] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 06:25:58.814] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 06:26:03.825] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[10Dec2024 06:26:03.871] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[10Dec2024 06:26:03.886] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower2
+[10Dec2024 06:26:05.801] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 06:26:06.091] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:26:06.374] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 06:26:06.376] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[10Dec2024 06:26:06.628] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[10Dec2024 06:26:06.701] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10
+[10Dec2024 06:26:06.702] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5
+[10Dec2024 06:26:06.702] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1
+[10Dec2024 06:26:06.703] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3
+[10Dec2024 06:26:06.703] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0
+[10Dec2024 06:26:09.447] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[10Dec2024 06:26:10.346] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[10Dec2024 06:26:10.437] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[10Dec2024 06:26:12.199] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Dec2024 06:26:12.215] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[10Dec2024 06:26:12.217] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[10Dec2024 06:26:23.686] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:26:26.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[10Dec2024 06:26:29.265] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:26:34.204] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:26:38.557] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[10Dec2024 06:26:43.198] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[10Dec2024 06:26:43.225] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5
+[10Dec2024 06:26:43.226] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0
+[10Dec2024 06:26:43.226] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9
+[10Dec2024 06:26:43.227] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6
+[10Dec2024 06:26:43.305] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Dec2024 06:26:43.307] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 06:26:43.969] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[10Dec2024 06:26:45.084] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2
+[10Dec2024 06:26:45.277] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7
+[10Dec2024 06:26:45.278] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1
+[10Dec2024 06:26:45.278] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10
+[10Dec2024 06:26:49.529] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Dec2024 06:26:49.633] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[10Dec2024 06:26:49.691] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9
+[10Dec2024 06:26:49.692] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3
+[10Dec2024 06:26:49.692] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2
+[10Dec2024 06:26:50.403] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:26:52.117] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:26:52.133] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[10Dec2024 06:26:55.822] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:26:58.432] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:26:58.617] [Worker-Main-12/DEBUG] [ModernFix/]: Structure mvs:small_ship is being run through DFU (hash 66884b163c8113c7d48b13d7b313326e36c7d6af63c05a6351911d98d69c044a), this will cause launch time delays
+[10Dec2024 06:26:58.840] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:27:02.303] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 06:27:02.317] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 06:27:02.331] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 06:27:02.346] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[10Dec2024 06:27:02.959] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 06:27:06.606] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 06:27:07.406] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:27:07.599] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[10Dec2024 06:27:07.612] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 06:27:07.626] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 06:27:07.641] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 06:27:11.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 06:27:11.364] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Dec2024 06:27:19.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 06:27:19.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 06:27:20.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[10Dec2024 06:27:20.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[10Dec2024 06:27:26.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[10Dec2024 06:27:36.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:27:52.441] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 06:27:52.444] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 06:27:53.015] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_2
+[10Dec2024 06:27:53.016] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_nocturnal_crystal_1
+[10Dec2024 06:27:54.446] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_2
+[10Dec2024 06:27:57.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:27:58.094] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_1
+[10Dec2024 06:27:58.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 06:27:58.594] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_topaz_crystal_1
+[10Dec2024 06:27:58.708] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:27:58.715] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 06:27:58.959] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_1
+[10Dec2024 06:27:59.179] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_2
+[10Dec2024 06:27:59.180] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_2
+[10Dec2024 06:27:59.180] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_1
+[10Dec2024 06:27:59.352] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:27:59.353] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_1
+[10Dec2024 06:27:59.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:27:59.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 06:27:59.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 06:27:59.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 06:27:59.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 06:27:59.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 06:27:59.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 06:27:59.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 06:27:59.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 06:27:59.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 06:27:59.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 06:27:59.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 06:27:59.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 06:27:59.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 06:27:59.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:27:59.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 06:27:59.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 06:27:59.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:27:59.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 06:27:59.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 06:27:59.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 06:27:59.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:27:59.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 06:27:59.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 06:27:59.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 06:27:59.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 06:28:01.123] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 06:28:01.125] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_2
+[10Dec2024 06:28:01.138] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 06:28:01.143] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:west_cerulean_crystal_1
+[10Dec2024 06:28:01.303] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 06:28:01.346] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[10Dec2024 06:28:01.347] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_scarlet_crystal_1
+[10Dec2024 06:28:01.349] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_2
+[10Dec2024 06:28:02.825] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_cerulean_crystal_2
+[10Dec2024 06:28:02.839] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_1
+[10Dec2024 06:28:04.288] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_1
+[10Dec2024 06:28:04.294] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_1
+[10Dec2024 06:28:04.339] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 06:28:04.449] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[10Dec2024 06:28:05.314] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 06:28:05.891] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_2
+[10Dec2024 06:28:05.892] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_1
+[10Dec2024 06:28:06.165] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_2
+[10Dec2024 06:28:06.182] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_2
+[10Dec2024 06:28:06.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_2
+[10Dec2024 06:28:07.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 06:28:08.657] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_cerulean_crystal_2
+[10Dec2024 06:28:08.718] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_1
+[10Dec2024 06:28:09.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[10Dec2024 06:28:09.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[10Dec2024 06:28:10.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:28:10.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[10Dec2024 06:28:10.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_2
+[10Dec2024 06:28:10.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_4
+[10Dec2024 06:28:10.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_5
+[10Dec2024 06:28:10.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_3
+[10Dec2024 06:28:10.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_0
+[10Dec2024 06:28:10.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_spawner_1
+[10Dec2024 06:28:12.280] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 06:28:12.307] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_1
+[10Dec2024 06:28:12.307] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 06:28:12.310] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_3
+[10Dec2024 06:28:12.330] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 06:28:12.344] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_1
+[10Dec2024 06:28:12.345] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_1
+[10Dec2024 06:28:12.366] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:28:12.747] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[10Dec2024 06:28:12.747] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_1
+[10Dec2024 06:28:12.786] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_3
+[10Dec2024 06:28:12.787] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 06:28:18.961] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[10Dec2024 06:28:18.962] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_2
+[10Dec2024 06:28:18.978] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_2
+[10Dec2024 06:28:19.010] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_1
+[10Dec2024 06:28:19.018] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_1
+[10Dec2024 06:28:20.757] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:28:20.769] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 06:28:23.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[10Dec2024 06:28:23.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[10Dec2024 06:28:23.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[10Dec2024 06:28:23.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[10Dec2024 06:28:23.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Dec2024 06:28:23.993] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[10Dec2024 06:28:24.122] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[10Dec2024 06:28:24.179] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Dec2024 06:28:24.212] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[10Dec2024 06:28:24.242] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[10Dec2024 06:28:24.258] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[10Dec2024 06:28:24.286] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 06:28:24.579] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[10Dec2024 06:28:24.614] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 06:28:24.689] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 06:28:27.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:28:28.884] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_2
+[10Dec2024 06:28:28.885] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 06:28:28.903] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_3
+[10Dec2024 06:28:28.941] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_1
+[10Dec2024 06:28:28.948] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_1
+[10Dec2024 06:28:28.967] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_topaz_crystal_1
+[10Dec2024 06:28:28.968] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_1
+[10Dec2024 06:28:29.233] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:28:33.065] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[10Dec2024 06:28:33.897] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin4
+[10Dec2024 06:28:35.666] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[10Dec2024 06:28:38.135] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_1
+[10Dec2024 06:28:39.403] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_nocturnal_crystal_1
+[10Dec2024 06:28:39.978] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[10Dec2024 06:28:40.205] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[10Dec2024 06:28:40.253] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[10Dec2024 06:28:40.580] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[10Dec2024 06:28:41.492] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:28:41.619] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:28:41.626] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:28:41.629] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 06:28:41.631] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 06:28:41.634] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 06:28:41.639] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 06:28:41.641] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 06:28:41.646] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 06:28:41.650] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 06:28:41.667] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 06:28:41.682] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 06:28:41.693] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 06:28:41.695] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:28:41.697] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 06:28:41.698] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 06:28:41.701] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 06:28:41.706] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 06:28:41.709] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 06:28:41.710] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 06:28:41.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 06:28:41.730] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 06:28:41.737] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 06:28:41.750] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 06:28:41.752] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 06:28:41.759] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 06:28:41.795] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:28:41.806] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 06:28:41.809] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 06:28:41.811] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 06:28:41.826] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 06:28:42.849] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:28:44.558] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_2
+[10Dec2024 06:28:45.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[10Dec2024 06:28:45.664] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_cerulean_crystal_2
+[10Dec2024 06:29:00.620] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 1494.107ms!
+[10Dec2024 06:29:00.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 9.61937309935638,0.0,-3.9531766697641615
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 9.989348987793164,0.0,-4.105221926293552
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 10.359324876229948,0.0,-4.257267182822943
+[10Dec2024 06:29:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 10.729300764666732,0.0,-4.409312439352334
+[10Dec2024 06:29:00.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 11.099276653103516,0.0,-4.561357695881725
+[10Dec2024 06:29:00.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 11.4692525415403,0.0,-4.713402952411116
+[10Dec2024 06:29:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[10Dec2024 06:29:12.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:29:12.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:29:14.410] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[10Dec2024 06:29:14.452] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 06:29:14.466] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 06:29:14.481] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 06:29:14.528] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[10Dec2024 06:29:20.616] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[10Dec2024 06:29:26.158] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 06:29:26.186] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:29:26.286] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:29:26.297] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 06:29:26.300] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:29:26.302] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:29:26.304] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 06:29:26.310] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 06:29:26.313] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 06:29:26.328] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 06:29:27.264] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[10Dec2024 06:29:27.398] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[10Dec2024 06:29:27.767] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[10Dec2024 06:29:27.952] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:29:32.949] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:29:32.990] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:29:33.406] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 06:29:33.564] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 06:29:33.594] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:29:33.762] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 06:29:36.911] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 06:29:39.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 06:29:39.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 06:29:39.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 06:29:39.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 06:29:39.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 06:29:39.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 06:29:39.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 06:29:39.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 06:29:39.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 06:29:39.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 06:29:39.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 06:29:42.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 06:29:43.895] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 06:29:43.922] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 06:29:43.953] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:29:44.333] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:29:49.748] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 06:30:16.607] [Worker-Main-12/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pool1 is being run through DFU (hash dfddb602e984f304d701eab3878292cf7f577e8cabe02f7f723062aca2b5e079), this will cause launch time delays
+[10Dec2024 06:30:17.016] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[10Dec2024 06:30:20.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[10Dec2024 06:30:20.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[10Dec2024 06:30:20.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 06:30:21.908] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:30:22.006] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 06:30:23.727] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:30:24.603] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:30:24.683] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 06:30:24.703] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 06:30:24.738] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[10Dec2024 06:30:24.766] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 06:30:25.049] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:30:26.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[10Dec2024 06:30:26.200] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 06:30:26.213] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 06:30:26.227] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 06:30:27.299] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 06:30:27.375] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 06:30:27.816] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 06:30:39.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 06:30:39.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.3813156918713503
+[10Dec2024 06:30:39.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.46753883724932166
+[10Dec2024 06:30:39.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2866564706769168
+[10Dec2024 06:30:40.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.35172969276140975
+[10Dec2024 06:30:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.4192535078975652
+[10Dec2024 06:30:40.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2540178562287565
+[10Dec2024 06:30:40.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2639127803456631
+[10Dec2024 06:30:40.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5367020839078123
+[10Dec2024 06:30:40.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.28076731129885957
+[10Dec2024 06:30:40.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2876293224010169
+[10Dec2024 06:30:40.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.29345422478422734
+[10Dec2024 06:30:40.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5903577574351857
+[10Dec2024 06:30:40.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.8904648439113316
+[10Dec2024 06:30:40.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.30153929480593433
+[10Dec2024 06:30:45.251] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[10Dec2024 06:31:02.818] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:31:03.206] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:31:17.945] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 06:31:32.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:31:37.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[10Dec2024 06:31:37.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[10Dec2024 06:31:38.363] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:31:44.793] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 06:31:48.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[10Dec2024 06:31:51.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[10Dec2024 06:32:00.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 06:32:01.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:32:13.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:32:16.002] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:32:32.040] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[10Dec2024 06:32:32.041] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[10Dec2024 06:33:30.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:33:35.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[10Dec2024 06:33:42.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 06:33:42.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 06:33:42.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 06:33:45.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:33:56.034] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 06:33:56.677] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:33:56.807] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:33:56.808] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_2
+[10Dec2024 06:33:59.511] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[10Dec2024 06:33:59.512] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 06:33:59.512] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_1
+[10Dec2024 06:33:59.515] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_2
+[10Dec2024 06:33:59.540] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_2
+[10Dec2024 06:33:59.541] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 06:34:00.738] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:east_cerulean_crystal_1 is being run through DFU (hash c2291ab053a9db95cc88b71474fd8863f08db7a8f3c5a7fd5f220248979bea1b), this will cause launch time delays
+[10Dec2024 06:34:03.136] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[10Dec2024 06:34:03.511] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_2
+[10Dec2024 06:34:03.511] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_1
+[10Dec2024 06:34:03.906] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 06:34:03.907] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 06:34:03.912] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_1
+[10Dec2024 06:34:03.913] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_2
+[10Dec2024 06:34:03.937] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_1
+[10Dec2024 06:34:03.937] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_cerulean_crystal_2
+[10Dec2024 06:34:03.941] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_2
+[10Dec2024 06:34:03.941] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_nocturnal_crystal_1
+[10Dec2024 06:34:03.942] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_3
+[10Dec2024 06:34:03.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:34:04.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:34:04.762] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[10Dec2024 06:34:05.317] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_1
+[10Dec2024 06:34:05.324] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_2
+[10Dec2024 06:34:05.325] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_1
+[10Dec2024 06:34:05.325] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_cerulean_crystal_1
+[10Dec2024 06:34:05.325] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 06:34:06.338] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_2
+[10Dec2024 06:34:06.338] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_1
+[10Dec2024 06:34:06.339] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_2
+[10Dec2024 06:34:06.339] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_1
+[10Dec2024 06:34:06.355] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_2
+[10Dec2024 06:34:06.460] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 06:34:06.463] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:east_cerulean_crystal_2
+[10Dec2024 06:34:07.244] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_verdant_viridium_crystal_2
+[10Dec2024 06:34:07.505] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_1
+[10Dec2024 06:34:07.507] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:west_cerulean_crystal_2
+[10Dec2024 06:34:07.507] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:34:08.517] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_1
+[10Dec2024 06:34:08.518] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_2
+[10Dec2024 06:34:08.525] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_2
+[10Dec2024 06:34:08.890] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_scarlet_crystal_1
+[10Dec2024 06:34:13.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:34:13.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:34:14.211] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_2
+[10Dec2024 06:34:14.426] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 06:34:15.436] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:34:18.948] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_topaz_crystal_2
+[10Dec2024 06:34:19.029] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_1
+[10Dec2024 06:34:19.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 06:34:19.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[10Dec2024 06:34:19.761] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_cerulean_crystal_1
+[10Dec2024 06:34:19.794] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_2
+[10Dec2024 06:34:19.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 06:34:19.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 06:34:19.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 06:34:19.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 06:34:19.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 06:34:19.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 06:34:19.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 06:34:19.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 06:34:19.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 06:34:19.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 06:34:19.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 06:34:19.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 06:34:19.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 06:34:19.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 06:34:19.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 06:34:19.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 06:34:19.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 06:34:19.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 06:34:19.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 06:34:19.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 06:34:19.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 06:34:19.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 06:34:19.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 06:34:19.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 06:34:19.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 06:34:19.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 06:34:23.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:34:23.637] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_1
+[10Dec2024 06:34:23.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 06:34:23.874] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_1
+[10Dec2024 06:34:25.680] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_3
+[10Dec2024 06:34:25.699] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_1
+[10Dec2024 06:34:25.700] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_2
+[10Dec2024 06:34:25.885] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 06:34:25.885] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_nocturnal_crystal_1
+[10Dec2024 06:34:25.887] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 06:34:25.904] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_1
+[10Dec2024 06:34:25.911] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_1
+[10Dec2024 06:34:26.000] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_1
+[10Dec2024 06:34:26.419] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_2
+[10Dec2024 06:34:26.509] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[10Dec2024 06:34:26.543] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_scarlet_crystal_2
+[10Dec2024 06:34:26.543] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 06:34:26.544] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_2
+[10Dec2024 06:34:26.544] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_1
+[10Dec2024 06:34:27.010] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_2
+[10Dec2024 06:34:27.011] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 06:34:27.393] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_2
+[10Dec2024 06:34:28.215] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_2
+[10Dec2024 06:34:28.261] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_2
+[10Dec2024 06:34:28.281] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:34:28.300] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_scarlet_crystal_1
+[10Dec2024 06:34:29.074] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_1
+[10Dec2024 06:34:29.125] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 06:34:29.126] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_2
+[10Dec2024 06:34:29.265] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 06:34:29.266] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:west_cerulean_crystal_2
+[10Dec2024 06:34:29.267] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:floating_island_small
+[10Dec2024 06:34:44.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[10Dec2024 06:34:44.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 06:34:45.019] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_nocturnal_crystal_1
+[10Dec2024 06:34:45.021] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_2
+[10Dec2024 06:34:45.041] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 06:34:45.149] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_verdant_viridium_crystal_2
+[10Dec2024 06:34:45.151] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_2
+[10Dec2024 06:34:45.151] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_1
+[10Dec2024 06:34:45.395] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 06:34:45.395] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_1
+[10Dec2024 06:34:45.396] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_1
+[10Dec2024 06:34:45.644] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_3
+[10Dec2024 06:34:45.744] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 06:34:45.745] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_2
+[10Dec2024 06:34:45.745] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 06:34:45.745] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_1
+[10Dec2024 06:34:45.746] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[10Dec2024 06:34:45.746] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_3
+[10Dec2024 06:34:45.746] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_2
+[10Dec2024 06:34:45.754] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_scarlet_crystal_2
+[10Dec2024 06:34:45.755] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_1
+[10Dec2024 06:34:45.758] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_3
+[10Dec2024 06:34:49.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 06:34:49.652] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_2
+[10Dec2024 06:34:49.661] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:cerulean_crystal_2
+[10Dec2024 06:34:49.684] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 06:34:49.694] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:east_cerulean_crystal_1
+[10Dec2024 06:34:52.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[10Dec2024 06:34:55.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[10Dec2024 06:34:55.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 06:34:55.833] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:west_cerulean_crystal_1
+[10Dec2024 06:34:55.838] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_3
+[10Dec2024 06:34:55.853] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_3
+[10Dec2024 06:34:55.858] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:north_cerulean_crystal_1
+[10Dec2024 06:34:56.165] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_nocturnal_crystal_2
+[10Dec2024 06:34:56.166] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_2
+[10Dec2024 06:34:56.259] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:selenite_crystal_2
+[10Dec2024 06:35:01.781] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 06:35:01.868] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_verdant_viridium_crystal_1
+[10Dec2024 06:35:01.910] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_2
+[10Dec2024 06:35:08.697] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_2
+[10Dec2024 06:35:12.856] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_1
+[10Dec2024 06:35:16.701] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_2
+[10Dec2024 06:35:29.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 06:35:44.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 06:35:44.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 06:36:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Junior Summoner]
+[10Dec2024 06:39:12.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:39:12.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
