@@ -2419,6 +2419,7 @@
       "bread": "2024-12-09 05:31:16 +0000",
       "golden_apple": "2024-12-09 05:32:33 +0000",
       "rotten_flesh": "2024-12-09 06:22:19 +0000",
+      "melon_slice": "2024-12-10 07:14:24 +0000",
       "golden_carrot": "2024-12-10 02:11:04 +0000",
       "cooked_chicken": "2024-12-09 06:33:49 +0000",
       "cooked_salmon": "2024-12-09 06:35:22 +0000",
@@ -5186,6 +5187,30 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-10 07:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2024-12-10 06:58:09 +0000"
@@ -5198,9 +5223,57 @@
     },
     "done": false
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-10 07:07:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
       "dark_blacksmith_0": "2024-12-10 06:58:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2024-12-10 07:13:37 +0000"
     },
     "done": true
   },
