@@ -134,6 +134,7 @@
       "clover_patch": "2024-12-10 05:09:28 +0000",
       "old_growth_woodland": "2024-12-09 04:46:36 +0000",
       "mediterranean_forest": "2024-12-09 23:04:32 +0000",
+      "coniferous_forest": "2024-12-10 05:14:01 +0000",
       "dryland": "2024-12-09 08:18:46 +0000",
       "redwood_forest": "2024-12-09 04:52:03 +0000",
       "rocky_rainforest": "2024-12-10 05:03:34 +0000",
@@ -4607,6 +4608,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-10 05:22:25 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/acacia_table": {
     "criteria": {
       "has_planks": "2024-12-10 04:32:22 +0000"
@@ -4739,6 +4746,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-10 05:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-10 05:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-10 04:32:22 +0000"
@@ -4817,6 +4836,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-10 05:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-10 04:32:18 +0000"
@@ -4862,6 +4887,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-10 04:16:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-10 05:22:25 +0000"
     },
     "done": true
   },

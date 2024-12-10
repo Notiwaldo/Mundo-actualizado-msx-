@@ -134,6 +134,7 @@
       "clover_patch": "2024-12-10 05:09:31 +0000",
       "old_growth_woodland": "2024-12-09 04:46:04 +0000",
       "mediterranean_forest": "2024-12-09 23:04:48 +0000",
+      "coniferous_forest": "2024-12-10 05:14:02 +0000",
       "dryland": "2024-12-09 21:53:39 +0000",
       "redwood_forest": "2024-12-09 05:26:21 +0000",
       "rocky_rainforest": "2024-12-09 22:25:06 +0000",
@@ -2146,6 +2147,7 @@
       "minecraft:cave_spider": "2024-12-09 05:26:38 +0000",
       "minecraft:silverfish": "2024-12-09 22:47:51 +0000",
       "minecraft:stray": "2024-12-10 04:42:57 +0000",
+      "minecraft:vex": "2024-12-10 05:17:56 +0000",
       "minecraft:zombie": "2024-12-09 07:12:59 +0000"
     },
     "done": false
@@ -4412,6 +4414,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-10 05:19:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-10 04:44:35 +0000"
@@ -4430,6 +4438,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 05:15:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/black_sandstone": {
     "criteria": {
       "has_sand": "2024-12-10 05:07:32 +0000"
@@ -4439,6 +4453,12 @@
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2024-12-10 04:33:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-10 05:14:09 +0000"
     },
     "done": true
   },
