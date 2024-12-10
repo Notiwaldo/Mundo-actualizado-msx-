@@ -1088,3 +1088,24 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 03:31:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> JOTO
 [10Dec2024 03:32:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> cuando no esta osvi no hay lag ajajajaja
 [10Dec2024 03:32:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> que gei
+[10Dec2024 03:32:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> la neta jajaja
+[10Dec2024 03:33:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Postmortal]
+[10Dec2024 03:33:13.120] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 03:33:18.392] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 03:33:18.404] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 03:39:07.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.659680996295606,0.0,8.59022678632573
+[10Dec2024 03:39:07.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.843635632387873,0.0,8.941561528051352
+[10Dec2024 03:39:07.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.022587314103021,0.0,9.29545417178224
+[10Dec2024 03:39:07.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -4.538287825945531,0.0,8.95690164204143
+[10Dec2024 03:39:07.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -4.789063151141249,0.0,9.245205103654826
+[10Dec2024 03:39:07.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.196692491772069,0.0,9.651769339814564
+[10Dec2024 03:39:07.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -5.0244801447900045,0.0,9.543479461349762
+[10Dec2024 03:39:07.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -5.2411300416447375,0.0,9.851640392184436
+[10Dec2024 03:39:07.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.366127248257158,0.0,10.01036986264944
+[10Dec2024 03:39:07.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.531082011807484,0.0,10.37111902570723
+[10Dec2024 03:39:07.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.6917530714084705,0.0,10.733883582299768
+[10Dec2024 03:39:07.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -5.43580815045118,0.0,10.168983526687043
+[10Dec2024 03:39:07.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -5.606061124498183,0.0,10.49427631172739
+[10Dec2024 03:39:07.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.8483421676592116,0.0,11.098533909754678
+[10Dec2024 03:39:42.630] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 03:39:46.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.39184569211784037
