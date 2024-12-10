@@ -4880,9 +4880,39 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-10 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-10 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -4898,9 +4928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-10 05:05:29 +0000"
     },
     "done": true
   },
@@ -4916,6 +4958,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2024-12-10 04:27:05 +0000"
@@ -4928,9 +4982,21 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-10 05:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-10 05:02:27 +0000"
     },
     "done": true
   },
@@ -4943,6 +5009,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -4964,15 +5036,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -5000,6 +5096,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-10 04:43:48 +0000"
@@ -5009,6 +5111,18 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-10 04:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:all_diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -5039,6 +5153,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-10 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
