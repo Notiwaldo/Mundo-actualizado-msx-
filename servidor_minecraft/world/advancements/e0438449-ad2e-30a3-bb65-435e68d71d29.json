@@ -5449,6 +5449,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-10 20:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-10 19:42:20 +0000"
@@ -5458,6 +5464,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-10 19:41:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-10 20:36:03 +0000"
     },
     "done": true
   },

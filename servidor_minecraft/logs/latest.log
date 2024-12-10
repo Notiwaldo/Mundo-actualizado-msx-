@@ -1327,3 +1327,27 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 20:39:13.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10Dec2024 20:39:24.072] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
 [10Dec2024 20:39:24.090] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 20:40:18.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Incendium]
+[10Dec2024 20:40:18.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [We Need to Go Deeper]
+[10Dec2024 20:40:36.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28632ms or 572 ticks behind
+[10Dec2024 20:40:36.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! 9.448776063507935,-1.9215999984741217,-3.3139728940828945
+[10Dec2024 20:40:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Darude - Firestorm]
+[10Dec2024 20:40:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Strange Biomes]
+[10Dec2024 20:42:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Light-Sensitive]
+[10Dec2024 20:42:23.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/59496, l='ServerLevel[world]', x=-10.48, y=84.91, z=-143.08] died: Desert Blaze was slain by LilLeo8451
+[10Dec2024 20:42:28.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[10Dec2024 20:42:58.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15243ms or 304 ticks behind
+[10Dec2024 20:43:17.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4284ms or 85 ticks behind
+[10Dec2024 20:43:36.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Dec2024 20:43:57.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/60856, l='ServerLevel[world]', x=-7.75, y=76.03, z=-110.67] died: Desert Blaze was slain by LilLeo8451
+[10Dec2024 20:44:17.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 lost connection: Disconnected
+[10Dec2024 20:44:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 left the game
+[10Dec2024 20:46:40.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[10Dec2024 20:47:50.273] [Thread-99/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[10Dec2024 20:47:50.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.16.94.70:60625] logged in with entity id 63335 at (-9.630441593195545, 74.0, -106.58826015516642)
+[10Dec2024 20:47:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[10Dec2024 20:48:00.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[10Dec2024 20:48:21.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[10Dec2024 20:48:39.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[10Dec2024 20:48:57.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3817ms or 76 ticks behind
+[10Dec2024 20:49:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Wingin' It]
