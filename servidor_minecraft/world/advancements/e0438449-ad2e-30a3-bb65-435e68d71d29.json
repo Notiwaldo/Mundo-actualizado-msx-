@@ -365,6 +365,7 @@
       "minecraft:creeper": "2024-12-09 05:46:58 +0000",
       "minecraft:evoker": "2024-12-09 23:10:40 +0000",
       "minecraft:phantom": "2024-12-09 06:10:49 +0000",
+      "minecraft:zombified_piglin": "2024-12-10 21:55:38 +0000",
       "minecraft:witch": "2024-12-09 06:49:58 +0000",
       "minecraft:husk": "2024-12-10 06:14:23 +0000",
       "minecraft:cave_spider": "2024-12-09 21:50:07 +0000",
@@ -5253,12 +5254,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-10 21:39:58 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2024-12-10 21:27:23 +0000"
@@ -5334,6 +5329,12 @@
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2024-12-10 21:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-10 21:55:46 +0000"
     },
     "done": true
   },
@@ -5548,6 +5549,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-10 21:55:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-12-10 19:29:57 +0000"
@@ -5605,6 +5612,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 19:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-10 21:55:46 +0000"
     },
     "done": true
   },
