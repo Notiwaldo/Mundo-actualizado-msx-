@@ -1320,3 +1320,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 20:10:19.992] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
 [10Dec2024 20:10:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Nightmare Stalker
 [10Dec2024 20:10:27.562] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 20:35:55.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Splintering II]
+[10Dec2024 20:36:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Ice Bucket Challenge]
+[10Dec2024 20:36:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [A Flaming Sword]
+[10Dec2024 20:36:57.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 6.081942186172345,-2.024424088213692,8.15662155648522
+[10Dec2024 20:39:13.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 20:39:24.072] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 20:39:24.090] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
