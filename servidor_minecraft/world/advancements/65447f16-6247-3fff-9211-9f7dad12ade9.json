@@ -1347,6 +1347,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-09 05:04:37 +0000",
       "cooked_beef": "2024-12-09 05:52:20 +0000",
+      "potato": "2024-12-10 05:45:36 +0000",
       "bread": "2024-12-09 05:32:11 +0000",
       "golden_apple": "2024-12-09 05:31:28 +0000",
       "golden_carrot": "2024-12-09 22:39:08 +0000",
@@ -4261,6 +4262,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 05:48:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2024-12-10 04:34:25 +0000"
@@ -4270,6 +4277,12 @@
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-10 05:53:01 +0000"
     },
     "done": true
   },
@@ -4285,6 +4298,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-10 05:53:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
@@ -4294,6 +4313,12 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-10 04:46:00 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-10 05:51:28 +0000"
     },
     "done": true
   },
@@ -4336,6 +4361,12 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2024-12-10 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 05:53:01 +0000"
     },
     "done": true
   },
@@ -4399,6 +4430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-10 05:45:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
@@ -4408,6 +4445,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2024-12-10 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-10 05:45:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 05:48:31 +0000"
     },
     "done": true
   },
@@ -4531,9 +4580,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-10 05:45:33 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:shakeand_mix": {
     "criteria": {
       "shakeand_mix_0": "2024-12-10 04:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-10 05:48:31 +0000"
     },
     "done": true
   },
@@ -4564,6 +4625,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-10 04:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 05:53:01 +0000"
     },
     "done": true
   },
