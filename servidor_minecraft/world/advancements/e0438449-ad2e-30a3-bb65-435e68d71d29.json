@@ -4618,7 +4618,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-10 06:09:17 +0000",
-      "in_better_spider_dungeon": "2024-12-10 04:16:01 +0000"
+      "in_better_spider_dungeon": "2024-12-10 04:16:01 +0000",
+      "in_better_monster_room": "2024-12-10 08:17:12 +0000"
     },
     "done": false
   },
@@ -5196,6 +5197,48 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-10 07:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-10 08:13:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-10 08:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-10 08:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-10 08:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-10 08:14:38 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-10 08:17:12 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_adoghr_disc": {
+    "criteria": {
+      "0308": "2024-12-10 08:17:53 +0000"
     },
     "done": true
   },
