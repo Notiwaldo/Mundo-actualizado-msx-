@@ -5254,6 +5254,18 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-10 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:05:26 +0000"
@@ -5272,9 +5284,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-10 19:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2024-12-10 19:09:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:57 +0000"
     },
     "done": true
   },
@@ -5287,6 +5329,12 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-10 19:29:57 +0000"
     },
     "done": true
   },
@@ -5326,6 +5374,12 @@
     },
     "done": true
   },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2024-12-10 19:33:44 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 19:09:17 +0000"
@@ -5344,15 +5398,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-10 19:15:13 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2024-12-10 19:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-10 19:25:48 +0000"
     },
     "done": true
   },
@@ -5368,9 +5446,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 19:25:48 +0000"
     },
     "done": true
   },
