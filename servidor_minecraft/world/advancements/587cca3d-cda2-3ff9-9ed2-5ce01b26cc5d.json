@@ -5187,6 +5187,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-10 07:52:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-10 07:13:37 +0000"
@@ -5202,6 +5208,18 @@
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2024-12-10 07:09:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 07:56:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-10 07:52:14 +0000"
     },
     "done": true
   },
@@ -5235,6 +5253,30 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-10 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 07:52:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-10 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-10 07:55:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2024-12-10 07:13:37 +0000"
@@ -5253,9 +5295,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 07:56:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 07:56:10 +0000"
     },
     "done": true
   },
@@ -5280,6 +5334,18 @@
   "another_furniture:recipes/black_sofa": {
     "criteria": {
       "has_wool": "2024-12-10 07:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-10 07:55:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 07:52:14 +0000"
     },
     "done": true
   },
