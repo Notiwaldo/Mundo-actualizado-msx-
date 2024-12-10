@@ -1982,3 +1982,83 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 04:53:57.050] [Server thread/INFO] [tombstone/]: The player chelas has successfully been saved
 [10Dec2024 04:54:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chelas was doomed to fall by Aetherial Glaze
 [10Dec2024 04:54:06.844] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:58:32.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 04:58:32.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 04:59:10.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -10.247663430766806,0.0,-0.5294553432293014
+[10Dec2024 04:59:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -10.586907277690443,0.0,-0.38609297937307474
+[10Dec2024 04:59:10.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -10.931057615634472,0.0,-0.24746673472384373
+[10Dec2024 04:59:10.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -11.240792911578865,0.0,-0.12270311784470778
+[10Dec2024 04:59:10.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -11.519554670544267,0.0,-0.010415865628033316
+[10Dec2024 04:59:10.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -11.770440246966928,0.0,0.09064265868983057
+[10Dec2024 04:59:10.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -11.996237259765621,0.0,0.1815953281665088
+[10Dec2024 04:59:10.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.199454565901078,0.0,0.26345272852699964
+[10Dec2024 04:59:10.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.382350136577998,0.0,0.337124386899859
+[10Dec2024 04:59:10.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.541965090825897,0.0,0.4037278255024148
+[10Dec2024 04:59:10.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.680626168365052,0.0,0.46394689485589424
+[10Dec2024 04:59:10.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.80042424650469,0.0,0.5183204270445003
+[10Dec2024 04:59:10.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.903242520139656,0.0,0.5672489348180534
+[10Dec2024 04:59:10.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -12.990785762726318,0.0,0.6110239321437803
+[10Dec2024 04:59:10.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.064598009640576,0.0,0.6499389765621117
+[10Dec2024 04:59:10.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.131029030103718,0.0,0.6849625156107777
+[10Dec2024 04:59:10.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.190816946936593,0.0,0.7164836999196496
+[10Dec2024 04:59:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.244626070660843,0.0,0.7448527650460619
+[10Dec2024 04:59:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.29305428072962,0.0,0.7703849229834532
+[10Dec2024 04:59:10.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.336639668636963,0.0,0.7933638645183692
+[10Dec2024 04:59:10.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.375866516714495,0.0,0.8140449113519708
+[10Dec2024 04:59:10.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.411170679048837,0.0,0.8326578530090956
+[10Dec2024 04:59:10.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.442944424308052,0.0,0.8494095000567086
+[10Dec2024 04:59:10.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.471540794283783,0.0,0.8644859820002466
+[10Dec2024 04:59:10.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.49727752658032,0.0,0.8780548153899872
+[10Dec2024 04:59:10.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! -13.520440585033612,0.0,0.8902667651171896
+[10Dec2024 04:59:10.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25466ms or 509 ticks behind
+[10Dec2024 04:59:10.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 9.75856328263771,1.2491870787446828,-3.022604098630552
+[10Dec2024 04:59:10.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 5.1285859759525465,0.0,-8.82842019332611
+[10Dec2024 04:59:10.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 5.3948883988844045,0.0,-8.963810835117897
+[10Dec2024 04:59:10.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 5.672159920705553,0.0,-9.072013642478282
+[10Dec2024 04:59:10.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 5.957942175497465,0.0,-9.152460547928627
+[10Dec2024 04:59:10.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 6.2495496115307105,0.0,-9.204456758737138
+[10Dec2024 04:59:10.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 6.54405134341755,0.0,-9.227326919637221
+[10Dec2024 04:59:10.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 6.838241469471086,0.0,-9.22050671670786
+[10Dec2024 04:59:10.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.128718857790545,0.0,-9.183722375851744
+[10Dec2024 04:59:10.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.411858531087091,0.0,-9.117020717987202
+[10Dec2024 04:59:10.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.68384188178743,0.0,-9.020855934437009
+[10Dec2024 04:59:10.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 7.940824059477109,0.0,-8.896212634128574
+[10Dec2024 04:59:10.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 8.179670759564715,0.0,-8.744755111161226
+[10Dec2024 04:59:10.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 8.397881241745836,0.0,-8.5685754698668
+[10Dec2024 04:59:10.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 8.593595750873646,0.0,-8.370019490039908
+[10Dec2024 04:59:10.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 8.765573939182104,0.0,-8.15153652921606
+[10Dec2024 04:59:10.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 8.913032709345089,0.0,-7.915577653139053
+[10Dec2024 04:59:10.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.035669687096515,0.0,-7.664504519427737
+[10Dec2024 04:59:10.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.13349569468528,0.0,-7.400557578616144
+[10Dec2024 04:59:10.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.206857486110039,0.0,-7.125797138677626
+[10Dec2024 04:59:10.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.256281720407742,0.0,-6.842120522468576
+[10Dec2024 04:59:10.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.282450999505272,0.0,-6.551249640530273
+[10Dec2024 04:59:10.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.286234057744423,0.0,-6.254692660420915
+[10Dec2024 04:59:10.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.268550845072696,0.0,-5.9538017175004825
+[10Dec2024 04:59:10.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.23097748323562,0.0,-5.649370860957902
+[10Dec2024 04:59:10.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.175606261984285,0.0,-5.341687794424047
+[10Dec2024 04:59:10.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.104893152577006,0.0,-5.030654620503583
+[10Dec2024 04:59:10.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LilLeo8451) moved too quickly! 9.021588839604647,0.0,-4.715891090552418
+[10Dec2024 04:59:19.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -4.943665936487832,0.0,-9.072951433942876
+[10Dec2024 04:59:19.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.194516310034032,0.0,-9.3754839104339
+[10Dec2024 04:59:19.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.452740318132783,0.0,-9.671139064190129
+[10Dec2024 04:59:19.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.7180341017344745,0.0,-9.95999059736232
+[10Dec2024 04:59:19.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -5.990070062958921,0.0,-10.242160644870523
+[10Dec2024 04:59:19.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.268508574556563,0.0,-10.517807603479696
+[10Dec2024 04:59:19.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.553001604284418,0.0,-10.787124271402263
+[10Dec2024 04:59:19.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -6.8432037217226025,0.0,-11.050322816911716
+[10Dec2024 04:59:19.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -7.138773376636891,0.0,-11.3076338844171
+[10Dec2024 04:59:19.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! -7.439375826468904,0.0,-11.559302336586484
+[10Dec2024 04:59:19.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -0.2664574167594367,1.0,10.230544878119304
+[10Dec2024 05:01:43.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [The Lighthouse]
+[10Dec2024 05:02:27.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Bow for Wizards]
+[10Dec2024 05:03:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Local Brewery]
+[10Dec2024 05:03:46.349] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 05:03:46.374] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 05:03:53.182] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 05:03:53.198] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 05:03:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Lightning Dragon
+[10Dec2024 05:03:57.094] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 05:03:59.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 05:05:29.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Senior Summoner]
+[10Dec2024 05:05:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Diamonds!]

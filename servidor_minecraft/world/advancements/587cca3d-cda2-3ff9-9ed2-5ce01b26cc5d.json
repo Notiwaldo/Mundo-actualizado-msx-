@@ -185,6 +185,7 @@
       "minecraft:wither_skeleton": "2024-12-09 08:46:41 +0000",
       "minecraft:cave_spider": "2024-12-09 05:26:31 +0000",
       "minecraft:stray": "2024-12-10 04:49:47 +0000",
+      "minecraft:vex": "2024-12-10 05:01:53 +0000",
       "minecraft:zombie": "2024-12-08 22:29:47 +0000",
       "minecraft:zombie_villager": "2024-12-09 21:49:14 +0000"
     },
@@ -4951,6 +4952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 05:00:13 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2024-12-10 04:48:11 +0000"
@@ -5002,6 +5009,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-10 04:42:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 05:00:13 +0000"
     },
     "done": true
   },
