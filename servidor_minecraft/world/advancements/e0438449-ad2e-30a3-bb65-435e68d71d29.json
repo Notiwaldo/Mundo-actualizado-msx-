@@ -311,6 +311,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-09 21:55:13 +0000",
       "minecraft:taiga": "2024-12-10 06:06:01 +0000",
       "minecraft:deep_ocean": "2024-12-09 22:42:48 +0000",
+      "minecraft:birch_forest": "2024-12-10 07:32:41 +0000",
       "minecraft:savanna_plateau": "2024-12-10 04:05:00 +0000",
       "minecraft:beach": "2024-12-09 04:55:51 +0000",
       "minecraft:dark_forest": "2024-12-09 21:30:40 +0000",
@@ -5084,6 +5085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 07:25:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2024-12-10 07:02:08 +0000"
@@ -5093,6 +5100,36 @@
   "iceandfire:recipes/combat/ghost_sword": {
     "criteria": {
       "has_item": "2024-12-10 07:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-10 07:25:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-10 07:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-10 07:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 07:25:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-10 07:36:09 +0000"
     },
     "done": true
   },
