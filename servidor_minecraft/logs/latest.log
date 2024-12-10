@@ -1151,3 +1151,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 01:11:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
 [10Dec2024 01:16:44.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:44243] logged in with entity id 3700 at (-88.3068763055607, 64.0, -807.3027639648659)
 [10Dec2024 01:16:44.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[10Dec2024 01:26:59.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Voluntary Exile]
