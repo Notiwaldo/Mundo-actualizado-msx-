@@ -1281,3 +1281,65 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 04:12:44.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! 7.658727682173094,-0.07520089011894981,7.212165299348726
 [10Dec2024 04:12:44.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
 [10Dec2024 04:12:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [The day of the Dead]
+[10Dec2024 04:14:38.708] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 04:14:38.711] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 04:14:38.713] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Dec2024 04:14:38.713] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[10Dec2024 04:14:38.714] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 1
+[10Dec2024 04:14:40.633] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 17214.186ms!
+[10Dec2024 04:14:40.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 2.1252343376423966,-1.323529123855721,-9.872672095190524
+[10Dec2024 04:14:40.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17266ms or 345 ticks behind
+[10Dec2024 04:15:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Cobweb Entanglement]
+[10Dec2024 04:16:01.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Cobweb Entanglement]
+[10Dec2024 04:16:22.322] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1149, y=-24, z=-1542}
+[10Dec2024 04:16:45.936] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:16:45.940] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:16:54.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:16:55.688] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:08.194] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:17:08.212] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:17:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 burned to death
+[10Dec2024 04:17:15.631] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:17.141] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:17:17.167] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:17:26.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Fire Dragon
+[10Dec2024 04:17:28.316] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:53.335] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:17:53.339] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:18:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was impaled on a stalagmite
+[10Dec2024 04:18:02.929] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:18:10.038] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:18:10.041] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:18:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:18:17.333] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:18:23.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/21904, l='ServerLevel[world]', x=34.86, y=63.00, z=-579.89] died, message: 'Beekeeper was sniped by Archer'
+[10Dec2024 04:18:44.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/22018, l='ServerLevel[world]', x=48.43, y=68.00, z=-549.21] died, message: 'Beekeeper was sniped by Archer'
+[10Dec2024 04:18:50.080] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:18:50.105] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:02.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:19:02.602] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:03.775] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:19:33.329] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:19:33.350] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:19:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was turned into KFC by a dragon
+[10Dec2024 04:19:40.684] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:19:51.500] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:19:51.530] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was burnt to a crisp whilst fighting Fire Dragon
+[10Dec2024 04:19:54.983] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:56.518] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:20:14.280] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:20:14.302] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:20:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Fire Dragon
+[10Dec2024 04:20:23.934] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:20:27.439] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:20:27.449] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:20:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:20:35.938] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:21:03.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22321, l='ServerLevel[world]', x=-4.03, y=65.00, z=-511.85] died, message: 'Villager was chopped to bits by Skirmisher'
+[10Dec2024 04:22:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Ice Bucket Challenge]
+[10Dec2024 04:23:49.523] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 04:23:49.571] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 04:23:54.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21908, l='ServerLevel[world]', x=-23.31, y=63.00, z=-574.50] died, message: 'Farmer was slain by Ravager'
+[10Dec2024 04:24:00.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Ravager
+[10Dec2024 04:24:03.407] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

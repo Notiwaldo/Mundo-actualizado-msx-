@@ -9144,3 +9144,144 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 04:13:21.004] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:temple/temple_ruin is being run through DFU (hash 50c4d5c96013857d5845ce5c1b389a591e190334a0692bd9c7b1a28ef630be44), this will cause launch time delays
 [10Dec2024 04:13:22.672] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
 [10Dec2024 04:13:26.102] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[10Dec2024 04:13:38.792] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[10Dec2024 04:13:48.311] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[10Dec2024 04:13:48.350] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[10Dec2024 04:13:54.283] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[10Dec2024 04:13:54.905] [Worker-Main-11/DEBUG] [ModernFix/]: Structure mvs:other_decoration/villager_statue is being run through DFU (hash c435c4ba194410e94790292e4efeb50cb49d669733c8aee2d77fe03cf65dbb9e), this will cause launch time delays
+[10Dec2024 04:13:56.142] [Worker-Main-11/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_01 is being run through DFU (hash e174e253dc9ebfecc92a85e194a8cda7121592ed4303f47201d0cae4e948b6e7), this will cause launch time delays
+[10Dec2024 04:14:02.106] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[10Dec2024 04:14:07.913] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_02 is being run through DFU (hash db967c19903859dbf7585d92b75bec650ed35eedb93f04d52b6493b7a93eb1fa), this will cause launch time delays
+[10Dec2024 04:14:08.298] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[10Dec2024 04:14:38.708] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 04:14:38.711] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 04:14:38.713] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Dec2024 04:14:38.713] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[10Dec2024 04:14:38.714] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 1
+[10Dec2024 04:14:40.117] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[10Dec2024 04:14:40.633] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 17214.186ms!
+[10Dec2024 04:14:40.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 2.1252343376423966,-1.323529123855721,-9.872672095190524
+[10Dec2024 04:14:40.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17266ms or 345 ticks behind
+[10Dec2024 04:14:41.612] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 04:14:41.680] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 04:14:41.804] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_01 is being run through DFU (hash f1654765854fa332de1ee5ca1121166c19dcceb49cdf937a789033199835de49), this will cause launch time delays
+[10Dec2024 04:14:46.853] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_02 is being run through DFU (hash e1c2b300e5ab313dab6165888e7bc6d970c0852c23c583bfd48c547d207a3029), this will cause launch time delays
+[10Dec2024 04:14:47.298] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:dead_tree/dead_tree is being run through DFU (hash 9585ef70a3f32a532b053de69f69cc04123c7b6a83a19aec3b09346dcc00ff2a), this will cause launch time delays
+[10Dec2024 04:14:47.949] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[10Dec2024 04:14:49.640] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[10Dec2024 04:14:51.006] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[10Dec2024 04:14:51.487] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[10Dec2024 04:14:51.505] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[10Dec2024 04:14:51.523] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[10Dec2024 04:14:51.540] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[10Dec2024 04:14:51.557] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[10Dec2024 04:14:51.576] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[10Dec2024 04:14:51.592] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[10Dec2024 04:14:51.612] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[10Dec2024 04:14:51.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[10Dec2024 04:14:51.676] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[10Dec2024 04:14:51.726] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[10Dec2024 04:14:51.770] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[10Dec2024 04:15:01.992] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_06 is being run through DFU (hash f1d53644703d518b5268e140eebe3bef6d450610d126983900dce702abf35b53), this will cause launch time delays
+[10Dec2024 04:15:07.080] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[10Dec2024 04:15:07.327] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[10Dec2024 04:15:11.099] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[10Dec2024 04:15:20.864] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[10Dec2024 04:15:21.455] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 04:15:21.481] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 04:15:21.502] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Dec2024 04:15:23.785] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[10Dec2024 04:15:46.815] [Worker-Main-9/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fox_hut is being run through DFU (hash 7b64e8d448ac700db3150c4895bead839d2e7503b016da58b8d955de7d57df9c), this will cause launch time delays
+[10Dec2024 04:15:47.543] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_02 is being run through DFU (hash 6c98c195438c0b2323313d3570c3dd65a6e6b8954d97180f326060e8061c0164), this will cause launch time delays
+[10Dec2024 04:15:53.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Cobweb Entanglement]
+[10Dec2024 04:16:00.382] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[10Dec2024 04:16:00.397] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[10Dec2024 04:16:00.410] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[10Dec2024 04:16:00.422] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/connector_long is being run through DFU (hash cd4e2d42c6a45f47a5bc7d083d4238837b961e311c14ead5005014460f957768), this will cause launch time delays
+[10Dec2024 04:16:00.442] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/grave1 is being run through DFU (hash 81c63b0f7828b9e3fddcfc35cdcacffadfff2fcb44fd3164c35e159d8012faa8), this will cause launch time delays
+[10Dec2024 04:16:00.470] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/bell is being run through DFU (hash ed90f7bd607015da6eff5078ec5aed8f2b4f250a6d6997c0a3876650f89f82bd), this will cause launch time delays
+[10Dec2024 04:16:00.517] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[10Dec2024 04:16:01.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Cobweb Entanglement]
+[10Dec2024 04:16:05.208] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[10Dec2024 04:16:10.953] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[10Dec2024 04:16:12.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:16:12.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:16:22.322] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1149, y=-24, z=-1542}
+[10Dec2024 04:16:25.329] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[10Dec2024 04:16:45.936] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:16:45.940] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:16:54.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:16:54.301] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1173, y:70, z:-1434, dim:minecraft:overworld]
+[10Dec2024 04:16:55.688] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:08.194] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:17:08.212] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:17:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 burned to death
+[10Dec2024 04:17:14.185] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:-1182, y:68, z:-1409, dim:minecraft:overworld]
+[10Dec2024 04:17:15.631] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:17.141] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:17:17.167] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:17:26.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Fire Dragon
+[10Dec2024 04:17:26.933] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1182, y:68, z:-1407, dim:minecraft:overworld]
+[10Dec2024 04:17:28.316] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:17:53.335] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:17:53.339] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:18:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was impaled on a stalagmite
+[10Dec2024 04:18:01.723] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:-1179, y:29, z:-1403, dim:minecraft:overworld]
+[10Dec2024 04:18:02.929] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:18:10.038] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:18:10.041] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:18:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:18:16.036] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1156, y:77, z:-1440, dim:minecraft:overworld]
+[10Dec2024 04:18:17.333] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:18:23.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/21904, l='ServerLevel[world]', x=34.86, y=63.00, z=-579.89] died, message: 'Beekeeper was sniped by Archer'
+[10Dec2024 04:18:38.663] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[10Dec2024 04:18:40.854] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[10Dec2024 04:18:40.855] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md7d690f$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[10Dec2024 04:18:44.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/22018, l='ServerLevel[world]', x=48.43, y=68.00, z=-549.21] died, message: 'Beekeeper was sniped by Archer'
+[10Dec2024 04:18:50.080] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:18:50.105] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:02.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:19:02.598] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1164, y:71, z:-1438, dim:minecraft:overworld]
+[10Dec2024 04:19:02.602] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:03.775] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:19:33.329] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:19:33.350] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:19:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was turned into KFC by a dragon
+[10Dec2024 04:19:39.442] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:-1161, y:63, z:-1388, dim:minecraft:overworld]
+[10Dec2024 04:19:40.684] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:19:51.500] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:19:51.530] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was burnt to a crisp whilst fighting Fire Dragon
+[10Dec2024 04:19:54.969] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1168, y:58, z:-1414, dim:minecraft:overworld]
+[10Dec2024 04:19:54.983] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:19:56.518] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:20:14.280] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[10Dec2024 04:20:14.302] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[10Dec2024 04:20:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Fire Dragon
+[10Dec2024 04:20:22.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:-1151, y:65, z:-1412, dim:minecraft:overworld]
+[10Dec2024 04:20:23.934] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:20:27.439] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 04:20:27.449] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 04:20:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ burned to death
+[10Dec2024 04:20:34.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-1144, y:65, z:-1410, dim:minecraft:overworld]
+[10Dec2024 04:20:35.938] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:21:03.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22321, l='ServerLevel[world]', x=-4.03, y=65.00, z=-511.85] died, message: 'Villager was chopped to bits by Skirmisher'
+[10Dec2024 04:21:12.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 04:21:12.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 04:22:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Ice Bucket Challenge]
+[10Dec2024 04:22:51.521] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:outcast_villager/graveyard/main1 is being run through DFU (hash 894cb9e1465dbc8f3399f332bf462c20658231822c8927a8c37e37eeab1d2137), this will cause launch time delays
+[10Dec2024 04:22:51.625] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:outcast_villager/tower/grassy_small2 is being run through DFU (hash 194710411999831d4e1cabf46562485c4da6b0f2ae6b05811d7f70592ec598b1), this will cause launch time delays
+[10Dec2024 04:22:51.659] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/connector_short is being run through DFU (hash 03023e516957bb7870e8e74e5607c589d967f265c47a2191a41259870951ef04), this will cause launch time delays
+[10Dec2024 04:22:58.669] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/statue1 is being run through DFU (hash af1abe5f10f08c778adc376828f18423f08c69e59e05ecdbb14b700b1be1f811), this will cause launch time delays
+[10Dec2024 04:23:27.034] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[10Dec2024 04:23:31.344] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[10Dec2024 04:23:32.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[10Dec2024 04:23:49.523] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 04:23:49.571] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 04:23:54.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21908, l='ServerLevel[world]', x=-23.31, y=63.00, z=-574.50] died, message: 'Farmer was slain by Ravager'
+[10Dec2024 04:23:57.684] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 04:24:00.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Ravager
+[10Dec2024 04:24:00.655] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-7, y:63, z:-583, dim:minecraft:overworld]
+[10Dec2024 04:24:03.407] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 04:24:06.445] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[10Dec2024 04:24:06.854] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
