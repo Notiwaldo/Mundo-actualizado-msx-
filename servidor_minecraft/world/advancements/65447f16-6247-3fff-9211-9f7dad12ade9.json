@@ -4712,6 +4712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 19:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-10 19:12:43 +0000"
@@ -4727,6 +4733,18 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-10 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 19:20:18 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2024-12-10 19:20:32 +0000"
     },
     "done": true
   },

@@ -1216,3 +1216,17 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 19:14:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Dread Scuttler
 [10Dec2024 19:14:30.692] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [10Dec2024 19:16:53.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[10Dec2024 19:17:17.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8322ms or 166 ticks behind
+[10Dec2024 19:17:27.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Take Aim]
+[10Dec2024 19:17:39.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7810ms or 156 ticks behind
+[10Dec2024 19:17:59.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[10Dec2024 19:19:04.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/14828, l='ServerLevel[world]', x=-304.23, y=21.80, z=-3332.71]
+[10Dec2024 19:19:04.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/14829, l='ServerLevel[world]', x=-304.23, y=21.80, z=-3332.71]
+[10Dec2024 19:19:04.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/14830, l='ServerLevel[world]', x=-304.23, y=21.80, z=-3332.71]
+[10Dec2024 19:19:04.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/14831, l='ServerLevel[world]', x=-304.23, y=21.80, z=-3332.71]
+[10Dec2024 19:19:04.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/14832, l='ServerLevel[world]', x=-304.23, y=21.80, z=-3332.71]
+[10Dec2024 19:20:32.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Can Someone Ventilate]
+[10Dec2024 19:22:59.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[10Dec2024 19:23:05.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 19:23:17.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[10Dec2024 19:23:34.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind

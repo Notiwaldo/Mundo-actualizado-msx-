@@ -5260,6 +5260,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2024-12-10 19:09:34 +0000"
@@ -5272,9 +5284,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-10 19:14:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
       "has_item": "2024-12-10 19:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-10 19:14:43 +0000"
     },
     "done": true
   },
@@ -5290,6 +5320,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 19:09:17 +0000"
@@ -5302,6 +5338,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-10 19:16:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:05:26 +0000"
@@ -5311,6 +5365,12 @@
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-10 19:14:43 +0000"
     },
     "done": true
   },
