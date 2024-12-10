@@ -5072,5 +5072,11 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-10 06:55:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

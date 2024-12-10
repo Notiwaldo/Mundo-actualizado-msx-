@@ -15218,3 +15218,35 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 06:46:49.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
 [10Dec2024 06:49:12.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 06:49:12.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:51:42.261] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 06:51:42.294] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 06:53:19.174] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 06:53:19.392] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 06:53:30.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[10Dec2024 06:53:30.513] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:14, y:68, z:-692, dim:minecraft:overworld]
+[10Dec2024 06:53:30.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 lost connection: Disconnected
+[10Dec2024 06:53:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 left the game
+[10Dec2024 06:53:33.175] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 06:53:33.331] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 06:53:33.346] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 06:53:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Nightmare Stalker
+[10Dec2024 06:53:39.330] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:5, y:69, z:-692, dim:minecraft:overworld]
+[10Dec2024 06:53:54.177] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 06:54:06.928] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 06:54:06.939] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 06:54:12.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:54:12.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:54:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[10Dec2024 06:54:13.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:66, y:59, z:-658, dim:minecraft:overworld]
+[10Dec2024 06:54:14.501] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 06:54:28.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/126204, l='ServerLevel[world]', x=-78.53, y=-256.00, z=-837.90] died, message: 'Villager was killed'
+[10Dec2024 06:54:44.722] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 06:54:44.731] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 06:54:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[10Dec2024 06:54:56.384] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:57, y:59, z:-663, dim:minecraft:overworld]
+[10Dec2024 06:54:57.853] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 06:55:15.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Fighting Nightmares]
+[10Dec2024 06:58:09.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Dark Forging]
+[10Dec2024 06:58:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Dark Blacksmith]
+[10Dec2024 06:59:12.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:59:12.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

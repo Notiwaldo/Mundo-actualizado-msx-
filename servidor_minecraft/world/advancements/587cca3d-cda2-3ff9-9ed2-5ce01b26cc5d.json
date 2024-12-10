@@ -5186,5 +5186,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2024-12-10 06:58:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2024-12-10 06:58:21 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2024-12-10 06:58:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
