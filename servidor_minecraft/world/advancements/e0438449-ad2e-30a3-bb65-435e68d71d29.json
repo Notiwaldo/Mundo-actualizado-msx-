@@ -134,6 +134,7 @@
       "highland": "2024-12-10 05:31:18 +0000",
       "clover_patch": "2024-12-10 05:09:28 +0000",
       "old_growth_woodland": "2024-12-09 04:46:36 +0000",
+      "field": "2024-12-10 06:08:10 +0000",
       "orchard": "2024-12-10 05:24:20 +0000",
       "lavender_forest": "2024-12-10 05:34:30 +0000",
       "mediterranean_forest": "2024-12-09 23:04:32 +0000",
@@ -141,6 +142,7 @@
       "dryland": "2024-12-09 08:18:46 +0000",
       "redwood_forest": "2024-12-09 04:52:03 +0000",
       "seasonal_orchard": "2024-12-10 05:36:42 +0000",
+      "dune_beach": "2024-12-10 05:59:49 +0000",
       "seasonal_forest": "2024-12-10 05:42:56 +0000",
       "rocky_rainforest": "2024-12-10 05:03:34 +0000",
       "volcanic_plains": "2024-12-10 04:28:20 +0000",
@@ -304,6 +306,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-09 21:55:13 +0000",
+      "minecraft:taiga": "2024-12-10 06:06:01 +0000",
       "minecraft:deep_ocean": "2024-12-09 22:42:48 +0000",
       "minecraft:savanna_plateau": "2024-12-10 04:05:00 +0000",
       "minecraft:beach": "2024-12-09 04:55:51 +0000",
@@ -312,6 +315,7 @@
       "minecraft:river": "2024-12-09 04:04:37 +0000",
       "minecraft:lukewarm_ocean": "2024-12-09 08:26:30 +0000",
       "minecraft:stony_shore": "2024-12-10 04:03:19 +0000",
+      "minecraft:cold_ocean": "2024-12-10 06:05:53 +0000",
       "minecraft:forest": "2024-12-09 04:07:00 +0000",
       "minecraft:lush_caves": "2024-12-09 22:23:08 +0000",
       "minecraft:desert": "2024-12-09 08:20:49 +0000",
@@ -319,7 +323,8 @@
       "minecraft:jungle": "2024-12-09 08:31:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-09 22:57:05 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 04:41:38 +0000",
-      "minecraft:savanna": "2024-12-09 08:14:02 +0000"
+      "minecraft:savanna": "2024-12-09 08:14:02 +0000",
+      "minecraft:plains": "2024-12-10 05:59:42 +0000"
     },
     "done": false
   },
@@ -4621,6 +4626,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 06:00:41 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2024-12-10 04:22:11 +0000"
@@ -4642,6 +4653,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-10 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 06:00:41 +0000"
     },
     "done": true
   },
@@ -4744,6 +4761,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-10 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 06:00:41 +0000"
     },
     "done": true
   },
@@ -4921,6 +4944,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 06:00:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-10 04:20:15 +0000"
@@ -4930,6 +4959,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-10 05:14:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-10 06:00:41 +0000"
     },
     "done": true
   },
