@@ -3146,3 +3146,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 06:30:40.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved wrongly! 0.30153929480593433
 [10Dec2024 06:34:52.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [10Dec2024 06:36:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Junior Summoner]
+[10Dec2024 06:46:24.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[10Dec2024 06:46:24.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[10Dec2024 06:46:26.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Disconnected
+[10Dec2024 06:46:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
+[10Dec2024 06:46:41.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:48115] logged in with entity id 123914 at (60.948995517634714, 59.0, -658.6275959082029)
+[10Dec2024 06:46:41.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[10Dec2024 06:46:49.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:36701] logged in with entity id 123934 at (62.85709486245119, 59.0, -657.442770691426)
+[10Dec2024 06:46:49.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game

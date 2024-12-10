@@ -4868,9 +4868,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_juice": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_melon_slice": "2024-12-10 04:27:45 +0000"
+      "tamed_animal": "2024-12-10 04:07:16 +0000"
     },
     "done": true
   },
@@ -4880,93 +4880,9 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
-      "potion": "2024-12-10 05:03:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2024-12-10 04:27:45 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/diamond_basic_shield": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-10 04:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/copper_tower_shield": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2024-12-10 05:05:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-10 04:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
+      "has_log": "2024-12-10 04:15:40 +0000"
     },
     "done": true
   },
@@ -4976,45 +4892,21 @@
     },
     "done": false
   },
-  "supplementaries:recipes/wrench": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+      "wheat": "2024-12-10 04:27:05 +0000"
     },
     "done": true
   },
-  "mythicmounts:summoning_staff": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_pearl": "2024-12-10 05:02:42 +0000"
+      "has_melon_slice": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bowfor_wizards": {
-    "criteria": {
-      "bowfor_wizards_0": "2024-12-10 05:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-10 04:07:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
+      "has_melon": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
@@ -5024,57 +4916,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-10 05:00:13 +0000"
-    },
-    "done": true
-  },
-  "immersive_melodies:misc/instruments": {
-    "criteria": {
-      "has_item": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-12-10 06:36:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/diamond_knife": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
+      "has_melon": "2024-12-10 04:27:45 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/copper_basic_shield": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+      "has_book": "2024-12-10 04:41:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
+      "has_book": "2024-12-10 04:41:30 +0000"
     },
     "done": true
   },
@@ -5102,9 +4964,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/diamond_tower_shield": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
+      "bestiary": "2024-12-10 04:42:39 +0000"
     },
     "done": true
   },
@@ -5114,9 +4976,177 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/rotten_egg": {
+  "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
-      "bestiary": "2024-12-10 04:42:39 +0000"
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-10 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 05:00:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-10 05:00:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2024-12-10 05:02:27 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-10 05:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-10 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-10 05:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -5132,9 +5162,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_bow": "2024-12-10 05:00:13 +0000"
+      "has_diamond": "2024-12-10 05:05:54 +0000"
     },
     "done": true
   },
@@ -5144,45 +5174,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-10 04:27:45 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:recipes/redstone/copper_button": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 04:48:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-10 06:29:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "has_log": "2024-12-10 04:15:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-10 04:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2024-12-10 05:05:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
-    "criteria": {
-      "has_item": "2024-12-10 04:48:11 +0000"
+      "junior_summoner_0": "2024-12-10 06:36:07 +0000"
     },
     "done": true
   },
