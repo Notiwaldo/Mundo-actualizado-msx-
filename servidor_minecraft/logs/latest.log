@@ -1264,3 +1264,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 19:37:16.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
 [10Dec2024 19:37:33.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [10Dec2024 19:37:52.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[10Dec2024 19:40:49.225] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 19:40:49.230] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 19:40:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ couldn't take Pyromancer's heat
+[10Dec2024 19:40:56.532] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -5260,9 +5260,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:21 +0000"
     },
     "done": true
   },
@@ -5308,6 +5326,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2024-12-10 19:09:34 +0000"
@@ -5323,6 +5353,12 @@
   "spartanshields:recipes/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 19:09:17 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-10 19:39:50 +0000"
     },
     "done": true
   },
@@ -5344,6 +5380,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-10 19:15:13 +0000"
@@ -5359,6 +5407,24 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-10 19:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:21 +0000"
     },
     "done": true
   },
@@ -5379,6 +5445,18 @@
       "in_temple_taiga": "2024-12-10 19:33:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-10 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-10 19:41:50 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
@@ -5422,6 +5500,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-10 19:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-10 19:34:06 +0000"
@@ -5437,6 +5527,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
     },
     "done": true
   },
@@ -5464,9 +5560,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-10 19:42:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-10 19:41:50 +0000"
     },
     "done": true
   },
