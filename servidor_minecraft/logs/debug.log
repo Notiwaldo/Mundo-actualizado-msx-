@@ -24415,3 +24415,518 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 23:24:40.194] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
 [10Dec2024 23:24:41.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
 [10Dec2024 23:24:46.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12995ms or 259 ticks behind
+[10Dec2024 23:24:53.399] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[10Dec2024 23:24:53.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:25:11.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 23:25:11.226] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 23:25:11.255] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 23:25:11.285] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 23:25:12.028] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 23:25:12.065] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 23:25:14.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[10Dec2024 23:25:14.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 23:25:15.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 23:25:15.186] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:25:17.126] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 23:25:17.159] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 23:25:19.242] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:25:20.825] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:25:21.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20097ms or 401 ticks behind
+[10Dec2024 23:25:22.174] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:25:29.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 23:25:41.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[10Dec2024 23:25:59.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[10Dec2024 23:26:12.077] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[10Dec2024 23:26:20.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6246ms or 124 ticks behind
+[10Dec2024 23:26:22.197] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:26:28.865] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[10Dec2024 23:26:31.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 23:26:31.370] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[10Dec2024 23:26:32.007] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[10Dec2024 23:26:32.014] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[10Dec2024 23:26:32.035] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[10Dec2024 23:26:32.108] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[10Dec2024 23:26:32.160] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[10Dec2024 23:26:32.227] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[10Dec2024 23:26:32.782] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[10Dec2024 23:26:33.379] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[10Dec2024 23:26:33.383] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[10Dec2024 23:26:33.388] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[10Dec2024 23:26:48.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal4
+[10Dec2024 23:26:49.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13707ms or 274 ticks behind
+[10Dec2024 23:26:51.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 23:26:54.144] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[10Dec2024 23:26:58.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:27:00.652] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 23:27:00.913] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:27:00.949] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 23:27:01.916] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Dec2024 23:27:04.957] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Dec2024 23:27:10.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:27:17.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12928ms or 258 ticks behind
+[10Dec2024 23:27:36.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4632ms or 92 ticks behind
+[10Dec2024 23:27:48.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 23:27:50.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[10Dec2024 23:27:54.661] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:27:59.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
+[10Dec2024 23:28:11.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:28:11.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 23:28:30.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16774ms or 335 ticks behind
+[10Dec2024 23:28:50.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4762ms or 95 ticks behind
+[10Dec2024 23:29:00.661] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 23:29:00.875] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:29:07.817] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:29:08.351] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[10Dec2024 23:29:08.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[10Dec2024 23:29:11.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[10Dec2024 23:29:12.370] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[10Dec2024 23:29:12.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7435ms or 148 ticks behind
+[10Dec2024 23:29:15.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -9.518110134317396,0.36809686001799946,-3.62593245111384
+[10Dec2024 23:29:16.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:29:18.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 23:29:19.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 23:29:19.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 23:29:19.217] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 23:29:19.248] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 23:29:21.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:29:22.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[10Dec2024 23:29:24.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/135793, l='ServerLevel[world]', x=-74.63, y=-256.00, z=-835.31] died, message: 'Villager was killed'
+[10Dec2024 23:29:25.226] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 23:29:25.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[10Dec2024 23:29:25.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 23:29:26.610] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 23:29:27.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[10Dec2024 23:29:28.229] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/lamp_chest
+[10Dec2024 23:29:28.409] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 23:29:28.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 23:29:28.442] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 23:29:28.444] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 23:29:28.466] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 23:29:28.478] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 23:29:28.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 23:29:28.500] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 23:29:28.502] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 23:29:28.509] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 23:29:28.518] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 23:29:28.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 23:29:28.533] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 23:29:28.566] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 23:29:28.588] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:29:28.621] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 23:29:28.637] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 23:29:28.644] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 23:29:28.651] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 23:29:28.663] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 23:29:28.668] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 23:29:28.672] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 23:29:28.708] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 23:29:28.718] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 23:29:28.720] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 23:29:28.725] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 23:29:28.727] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 23:29:28.733] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 23:29:28.738] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 23:29:28.745] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 23:29:35.659] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:29:37.564] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[10Dec2024 23:29:38.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[10Dec2024 23:29:42.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14682ms or 293 ticks behind
+[10Dec2024 23:29:43.727] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[10Dec2024 23:29:43.766] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:29:49.470] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:29:49.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:29:49.707] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[10Dec2024 23:29:53.408] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[10Dec2024 23:29:53.991] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:29:54.347] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 23:29:55.944] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[10Dec2024 23:29:57.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[10Dec2024 23:29:58.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[10Dec2024 23:29:59.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:30:01.484] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[10Dec2024 23:30:04.723] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 23:30:04.775] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[10Dec2024 23:30:07.499] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[10Dec2024 23:30:10.318] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 23:30:15.875] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:30:16.302] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[10Dec2024 23:30:16.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18957ms or 379 ticks behind
+[10Dec2024 23:30:17.171] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[10Dec2024 23:30:17.297] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[10Dec2024 23:30:17.424] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[10Dec2024 23:30:17.541] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[10Dec2024 23:30:17.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[10Dec2024 23:30:17.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[10Dec2024 23:30:17.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[10Dec2024 23:30:21.876] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 23:30:21.880] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 23:30:21.919] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:30:21.931] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 23:30:21.935] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 23:30:22.654] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 23:30:22.671] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:30:22.854] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[10Dec2024 23:30:22.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[10Dec2024 23:30:22.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[10Dec2024 23:30:22.860] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[10Dec2024 23:30:22.860] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[10Dec2024 23:30:24.080] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 23:30:31.013] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[10Dec2024 23:30:34.962] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[10Dec2024 23:30:35.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:30:42.725] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[10Dec2024 23:30:42.758] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[10Dec2024 23:30:42.821] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[10Dec2024 23:30:42.823] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[10Dec2024 23:30:42.833] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[10Dec2024 23:30:42.866] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 23:30:42.883] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:30:43.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 23:30:43.393] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 23:30:43.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 23:30:43.404] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 23:30:43.445] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 23:30:43.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 23:30:43.470] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 23:30:43.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 23:30:43.484] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 23:30:43.590] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:30:44.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[10Dec2024 23:30:44.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:30:45.649] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[10Dec2024 23:30:46.155] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/crossroad_01
+[10Dec2024 23:30:52.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20714ms or 414 ticks behind
+[10Dec2024 23:30:55.215] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 23:30:55.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[10Dec2024 23:30:56.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:30:56.527] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[10Dec2024 23:30:58.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:31:02.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 23:31:02.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:31:02.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 23:31:02.428] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 23:31:02.445] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 23:31:02.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 23:31:03.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[10Dec2024 23:31:03.163] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:31:05.733] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:31:08.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[10Dec2024 23:31:16.249] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 23:31:16.264] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 23:31:16.277] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[10Dec2024 23:31:16.279] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[10Dec2024 23:31:17.538] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:31:18.094] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[10Dec2024 23:31:18.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:31:22.933] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 23:31:22.941] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 23:31:22.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:31:23.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 23:31:23.081] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 23:31:23.087] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 23:31:23.798] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 23:31:27.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -0.2237076955199484,6.5,-7.652269260427943
+[10Dec2024 23:31:29.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21856ms or 437 ticks behind
+[10Dec2024 23:31:36.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 8.596167711828443,2.252203340253729,-4.881847821306565
+[10Dec2024 23:31:46.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -8.260922754435612,-1.127890238205481,5.714237871033788
+[10Dec2024 23:31:56.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12097ms or 241 ticks behind
+[10Dec2024 23:32:07.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[10Dec2024 23:32:07.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[10Dec2024 23:32:39.185] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[10Dec2024 23:32:39.192] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[10Dec2024 23:32:45.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Lifestealer
+[10Dec2024 23:32:45.213] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-557, y:78, z:3909, dim:minecraft:overworld]
+[10Dec2024 23:32:46.510] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 23:32:47.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Dec2024 23:32:53.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[10Dec2024 23:32:53.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[10Dec2024 23:32:53.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[10Dec2024 23:32:53.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[10Dec2024 23:32:53.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[10Dec2024 23:32:53.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[10Dec2024 23:32:53.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[10Dec2024 23:32:53.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:32:53.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 23:32:53.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 23:32:53.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 23:32:54.394] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:33:05.854] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[10Dec2024 23:33:05.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[10Dec2024 23:33:05.959] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[10Dec2024 23:33:06.011] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[10Dec2024 23:33:06.052] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[10Dec2024 23:33:06.092] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [weaponmaster_ydm, betterdungeons, kuma_api, animation_overhaul, ancient_elements, playeranimator, palladiumcore, slashblade, connectivity, stalwart_dungeons, incendium, sophisticatedcore, xaeroworldmap, modernfix, citadel, alexsmobs, yungsapi, mixinextras, kambrik, sophisticatedbackpacks, medievalend, takesapillage, medieval_buildings, balm, immersive_armors, carryon, projectile_damage, cloth_config, sound_physics_remastered, supplementaries, sodiumdynamiclights, embeddium, rubidium, embeddiumplus, structure_gel, farmersdelight, repurposed_structures, ambientsounds, morebows, gml, transparent, eeeabsmobs, amplified_nether, born_in_chaos_v1, lionfishapi, eyesinthedarkness, mr_tidal_towns, bountiful, cataclysm, curios, patchouli, rightclickharvest, oculus, collective, commongroovylibrary, cerbons_api, yungsextras, bettervillage, tombstone, eatinganimation, deeperdarker, architectury, aiimprovements, cupboard, betterendisland, monolib, more_bows_and_arrows, framework, mr_animated_doors, bettermineshafts, playerrevive, soulsweapons, mowziesmobs, geckolib, cave_dweller, wi_zoom, tameablebeasts, easymagic, ash_api, jei, graveyard, commonnetworking, attributefix, conjurer_illager, libraryferret, goblintraders, caelus, waystones, wardrobe, fallingleaves, structory, fabledweaponry, comforts, myserveriscompatible, opf, glitchcore, sereneseasons, better_totem_of_undying, iceandfire, farsight_view, bosses_of_mass_destruction, terralith, mythicmounts, puzzlesaccessapi, dungeons_arise_seven_seas, friendsandfoes, dungeons_arise, sons_of_sins, simplyswords, terrablender, biomesoplenty, radiantgear, moonlight, bettercombat, combatroll, toolbelt, necronomicon, mixinsquared, additionaladditions, shouldersurfing, obscure_tooltips, another_furniture, hoporp, creativecore, watching, spectrelib, vc_gliders, kotlinforforge, paintings, forge, minecraft, sitmod, whisperwoods, notenoughanimations, spartanshields, xaerominimap, securitycraft, irons_spellbooks, entityculling, structory_towers, mvs, appleskin, moremobvariants, ferritecore, mvw, puzzleslib, immersive_melodies, skinrestorer, presencefootsteps]
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bountiful:clipboard_copy' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.093] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sons_of_sins:sons_of_sins' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vc_gliders:main' : Version test of '1.0.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bountiful:update_bounty_criteria' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moremobvariants:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ancient_elements:ancient_elements' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kambrik:test_msg' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toolbelt:general' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'slashblade:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[10Dec2024 23:33:06.094] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[10Dec2024 23:33:06.114] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.114] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.114] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.115] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.115] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soulsweapons:messages' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.115] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bountiful:play_sound_on_client' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tameablebeasts:main' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.117] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.10' from client : ACCEPTED
+[10Dec2024 23:33:06.117] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.117] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.118] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '3.0.5' from client : ACCEPTED
+[10Dec2024 23:33:06.118] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paintings:paintingchannelnetwork' : Version test of '1.1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.119] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'opf:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.119] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.119] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.119] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.120] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.120] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[10Dec2024 23:33:06.120] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[10Dec2024 23:33:06.121] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.121] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.121] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.121] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.122] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bountiful:select_bounty' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.122] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.8.0' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sitmod:sitmod' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mythicmounts:messages' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eyesinthedarkness:main' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Dec2024 23:33:06.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[10Dec2024 23:33:06.128] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[10Dec2024 23:33:06.128] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.128] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.163] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[10Dec2024 23:33:06.199] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[10Dec2024 23:33:06.199] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.199] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[10Dec2024 23:33:06.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 6
+[10Dec2024 23:33:06.321] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[10Dec2024 23:33:06.388] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[10Dec2024 23:33:06.440] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[10Dec2024 23:33:06.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.551] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[10Dec2024 23:33:06.590] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[10Dec2024 23:33:06.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[10Dec2024 23:33:06.692] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[10Dec2024 23:33:06.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[10Dec2024 23:33:06.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 16
+[10Dec2024 23:33:06.818] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[10Dec2024 23:33:06.843] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[10Dec2024 23:33:06.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:06.892] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:06.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[10Dec2024 23:33:06.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[10Dec2024 23:33:06.979] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[10Dec2024 23:33:07.004] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 24
+[10Dec2024 23:33:07.028] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config whisperwoods-server.toml' to 'fml:handshake' sequence 25
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.033] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.069] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paintings-server.toml' to 'fml:handshake' sequence 26
+[10Dec2024 23:33:07.069] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[10Dec2024 23:33:07.069] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.069] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.070] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.114] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[10Dec2024 23:33:07.138] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[10Dec2024 23:33:07.164] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toolbelt-server.toml' to 'fml:handshake' sequence 29
+[10Dec2024 23:33:07.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 30
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.228] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.229] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[10Dec2024 23:33:07.229] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.229] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.265] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 31
+[10Dec2024 23:33:07.269] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[10Dec2024 23:33:07.270] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.270] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.311] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.335] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config eyesinthedarkness-server.toml' to 'fml:handshake' sequence 32
+[10Dec2024 23:33:07.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[10Dec2024 23:33:07.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.388] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[10Dec2024 23:33:07.467] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[10Dec2024 23:33:07.467] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.467] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.512] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 34
+[10Dec2024 23:33:07.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 35
+[10Dec2024 23:33:07.547] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[10Dec2024 23:33:07.547] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.547] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.586] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 36
+[10Dec2024 23:33:07.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[10Dec2024 23:33:07.620] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.621] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.663] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[10Dec2024 23:33:07.663] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.663] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.705] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[10Dec2024 23:33:07.705] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Dec2024 23:33:07.705] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Dec2024 23:33:07.784] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[10Dec2024 23:33:07.859] [Thread-241/DEBUG] [SkinRestorer/]: Fetching Notiwaldo_35's skin
+[10Dec2024 23:33:08.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:44835] logged in with entity id 137070 at (-66.45227205038253, 67.0, -832.5235519408014)
+[10Dec2024 23:33:08.187] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@287e80b9 into net.minecraft.network.Connection@684bc58
+[10Dec2024 23:33:08.188] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 542 classes
+[10Dec2024 23:33:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[10Dec2024 23:33:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Horror Under the Mantle]
+[10Dec2024 23:33:37.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 23:33:37.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 23:33:38.824] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 23:33:38.876] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 23:33:38.937] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 23:33:39.498] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Dec2024 23:33:39.569] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 23:33:39.584] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 23:33:39.589] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 23:33:39.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 23:33:39.794] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 23:34:01.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[10Dec2024 23:34:05.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 23:34:08.924] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 23:34:08.939] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Dec2024 23:34:13.197] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 23:34:13.253] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 23:34:22.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6000ms or 120 ticks behind
+[10Dec2024 23:34:23.730] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[10Dec2024 23:34:24.298] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[10Dec2024 23:34:27.269] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 23:34:42.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[10Dec2024 23:34:45.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 23:34:57.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -5.3944827420733645,0.0,8.89154110454632
+[10Dec2024 23:34:57.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -5.601962847537777,0.0,9.233523454721137
+[10Dec2024 23:34:57.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -5.80944295300219,0.0,9.575505804895954
+[10Dec2024 23:34:57.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.0169230584666025,0.0,9.917488155070771
+[10Dec2024 23:34:57.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.224403163931015,0.0,10.259470505245588
+[10Dec2024 23:34:57.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.431883269395428,0.0,10.601452855420405
+[10Dec2024 23:34:57.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.63936337485984,0.0,10.943435205595222
+[10Dec2024 23:34:57.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.846843480324253,0.0,11.285417555770039
+[10Dec2024 23:34:57.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.054323585788666,0.0,11.627399905944856
+[10Dec2024 23:34:57.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.261803691253078,0.0,11.969382256119673
+[10Dec2024 23:34:58.416] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:34:58.530] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:35:00.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[10Dec2024 23:35:00.703] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[10Dec2024 23:35:01.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[10Dec2024 23:35:02.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[10Dec2024 23:35:05.197] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[10Dec2024 23:35:05.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[10Dec2024 23:35:06.016] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 23:35:06.020] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 23:35:08.591] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:35:10.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber

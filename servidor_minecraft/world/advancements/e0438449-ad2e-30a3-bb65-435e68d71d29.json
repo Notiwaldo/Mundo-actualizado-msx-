@@ -5075,6 +5075,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2024-12-10 23:27:49 +0000",
       "charm_collector_4": "2024-12-10 06:45:20 +0000",
       "charm_collector_3": "2024-12-10 06:45:20 +0000"
     },
@@ -6044,6 +6045,18 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-10 22:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 23:27:14 +0000"
     },
     "done": true
   },
