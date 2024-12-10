@@ -132,6 +132,7 @@
       "rocky_shrubland": "2024-12-09 04:55:48 +0000",
       "scrubland": "2024-12-09 04:03:33 +0000",
       "old_growth_woodland": "2024-12-09 04:46:36 +0000",
+      "mediterranean_forest": "2024-12-09 23:04:32 +0000",
       "dryland": "2024-12-09 08:18:46 +0000",
       "redwood_forest": "2024-12-09 04:52:03 +0000",
       "grassland": "2024-12-09 22:34:49 +0000",
@@ -334,6 +335,7 @@
       "minecraft:magma_cube": "2024-12-09 08:41:14 +0000",
       "minecraft:spider": "2024-12-09 04:05:13 +0000",
       "minecraft:creeper": "2024-12-09 05:46:58 +0000",
+      "minecraft:evoker": "2024-12-09 23:10:40 +0000",
       "minecraft:phantom": "2024-12-09 06:10:49 +0000",
       "minecraft:witch": "2024-12-09 06:49:58 +0000",
       "minecraft:cave_spider": "2024-12-09 21:50:07 +0000",
@@ -4242,87 +4244,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
+      "blaze_rod": "2024-12-09 22:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
+      "has_item": "2024-12-09 22:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
+      "has_blaze_rod": "2024-12-09 22:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
+      "has_blaze_rod": "2024-12-09 22:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
+      "location0": "2024-12-09 22:25:59 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-09 23:03:46 +0000"
-    },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-09 22:27:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2024-12-09 22:39:17 +0000"
     },
     "done": true
   },
@@ -4332,15 +4286,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_prismarine_shard": "2024-12-09 22:52:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_helmet": {
-    "criteria": {
-      "has_item": "2024-12-09 23:03:46 +0000"
+      "has_melon_slice": "2024-12-09 22:39:17 +0000"
     },
     "done": true
   },
@@ -4350,93 +4298,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-09 22:22:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-09 23:03:46 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_shutter": {
-    "criteria": {
-      "has_slab": "2024-12-09 22:43:53 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_flower_box": {
-    "criteria": {
-      "has_slab": "2024-12-09 22:50:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-09 23:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shutter": {
-    "criteria": {
-      "has_slab": "2024-12-09 22:50:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-09 22:39:17 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/dragon_staff": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_item": "2024-12-09 22:22:22 +0000"
+      "has_melon": "2024-12-09 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-09 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:43:53 +0000"
     },
     "done": true
   },
@@ -4452,51 +4334,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
-    "criteria": {
-      "has_sea_serpent_scales_purple": "2024-12-09 23:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2024-12-09 22:39:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/oak_flower_box": {
     "criteria": {
       "has_slab": "2024-12-09 22:43:53 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2024-12-09 22:52:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-09 22:52:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_bench": {
-    "criteria": {
-      "has_slab": "2024-12-09 22:50:38 +0000"
     },
     "done": true
   },
@@ -4506,27 +4346,117 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_purple_leggings": {
-    "criteria": {
-      "has_item": "2024-12-09 23:03:46 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-09 22:43:53 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "supplementaries:recipes/blackboard": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-09 22:52:49 +0000"
+      "minecraft:wooden_slabs": "2024-12-09 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-09 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2024-12-09 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-09 22:52:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-09 22:52:33 +0000"
     },
     "done": true
   },
@@ -4542,33 +4472,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackboard": {
+  "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
-      "minecraft:wooden_slabs": "2024-12-09 22:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-09 22:39:17 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-09 22:25:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2024-12-09 23:03:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-09 22:22:22 +0000"
+      "has_prismarine_crystals": "2024-12-09 22:52:39 +0000"
     },
     "done": true
   },
@@ -4578,15 +4484,117 @@
     },
     "done": true
   },
-  "supplementaries:recipes/jar": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "minecraft:wooden_slabs": "2024-12-09 22:43:53 +0000"
+      "killed_fire_dragon": "2024-12-09 22:52:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "has_sandstone": "2024-12-09 22:43:56 +0000"
+      "killed_fire_dragon": "2024-12-09 23:03:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 23:09:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 23:03:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 23:03:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-09 23:03:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 23:03:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-09 23:03:46 +0000"
     },
     "done": true
   },
@@ -4602,11 +4610,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_blaze_rod": "2024-12-09 22:22:22 +0000"
+      "killed_evoker": "2024-12-09 23:10:40 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
