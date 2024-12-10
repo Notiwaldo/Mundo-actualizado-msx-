@@ -135,12 +135,16 @@
       "clover_patch": "2024-12-10 05:09:31 +0000",
       "old_growth_woodland": "2024-12-09 04:46:04 +0000",
       "orchard": "2024-12-10 05:24:48 +0000",
+      "lavender_forest": "2024-12-10 05:35:35 +0000",
       "mediterranean_forest": "2024-12-09 23:04:48 +0000",
       "coniferous_forest": "2024-12-10 05:14:02 +0000",
       "dryland": "2024-12-09 21:53:39 +0000",
       "redwood_forest": "2024-12-09 05:26:21 +0000",
+      "seasonal_orchard": "2024-12-10 05:36:40 +0000",
+      "seasonal_forest": "2024-12-10 05:43:16 +0000",
       "rocky_rainforest": "2024-12-09 22:25:06 +0000",
       "volcanic_plains": "2024-12-09 22:22:39 +0000",
+      "pumpkin_patch": "2024-12-10 05:41:20 +0000",
       "grassland": "2024-12-09 22:34:51 +0000",
       "rainforest": "2024-12-09 22:23:59 +0000",
       "ominous_woods": "2024-12-10 05:23:10 +0000"
@@ -2151,7 +2155,8 @@
       "minecraft:silverfish": "2024-12-09 22:47:51 +0000",
       "minecraft:stray": "2024-12-10 04:42:57 +0000",
       "minecraft:vex": "2024-12-10 05:17:56 +0000",
-      "minecraft:zombie": "2024-12-09 07:12:59 +0000"
+      "minecraft:zombie": "2024-12-09 07:12:59 +0000",
+      "minecraft:zombie_villager": "2024-12-10 05:37:30 +0000"
     },
     "done": false
   },
@@ -4237,6 +4242,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2024-12-10 05:37:56 +0000",
+      "charm_collector_3": "2024-12-10 05:37:56 +0000"
+    },
+    "done": false
+  },
   "morebows:recipes/iron_bow": {
     "criteria": {
       "has_bow": "2024-12-10 04:44:35 +0000"
@@ -4258,6 +4270,12 @@
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 05:33:58 +0000"
     },
     "done": true
   },
@@ -4291,9 +4309,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-10 05:40:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 05:35:06 +0000"
     },
     "done": true
   },
@@ -4306,6 +4336,12 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2024-12-10 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 05:33:58 +0000"
     },
     "done": true
   },
@@ -4399,6 +4435,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-10 05:35:06 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/diamond_bow": {
     "criteria": {
       "has_bow": "2024-12-10 04:44:35 +0000"
@@ -4423,6 +4465,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-10 05:35:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 05:33:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-10 04:44:35 +0000"
@@ -4435,9 +4489,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-10 05:33:58 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-10 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 05:33:58 +0000"
     },
     "done": true
   },
@@ -4477,6 +4543,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 05:35:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-10 05:04:45 +0000"
@@ -4492,6 +4564,18 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-10 04:15:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-10 05:35:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 05:35:06 +0000"
     },
     "done": true
   },

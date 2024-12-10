@@ -11990,3 +11990,410 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 05:37:17.699] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
 [10Dec2024 05:37:24.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
 [10Dec2024 05:37:24.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 05:37:38.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[10Dec2024 05:37:42.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[10Dec2024 05:37:42.416] [Server thread/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/bottom is being run through DFU (hash 97b1362524df31daf2c9d4d3d217e7450138ef51b084f315d0da48e9e923770f), this will cause launch time delays
+[10Dec2024 05:37:54.235] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[10Dec2024 05:37:55.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Dark Creator]
+[10Dec2024 05:37:55.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[10Dec2024 05:38:10.535] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[10Dec2024 05:38:10.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[10Dec2024 05:38:14.864] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[10Dec2024 05:38:20.513] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[10Dec2024 05:38:21.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 0.2818844048543383
+[10Dec2024 05:38:21.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 0.3516579647780418
+[10Dec2024 05:38:24.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:38:24.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:38:24.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.7272345032492353
+[10Dec2024 05:38:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.929973475867314
+[10Dec2024 05:38:24.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of chelas) moved wrongly! 1.7475084053447176
+[10Dec2024 05:38:26.081] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[10Dec2024 05:38:37.123] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/bee_dome
+[10Dec2024 05:38:41.161] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[10Dec2024 05:38:41.575] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[10Dec2024 05:38:45.071] [Worker-Main-12/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/obelisk1 is being run through DFU (hash b0c411d6714d76984aa5d96ac05a159f008fce055481f1e5463e3f04b13ce685), this will cause launch time delays
+[10Dec2024 05:38:58.870] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[10Dec2024 05:38:59.280] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[10Dec2024 05:39:02.448] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[10Dec2024 05:39:05.192] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[10Dec2024 05:39:06.819] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[10Dec2024 05:39:09.806] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[10Dec2024 05:39:12.151] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[10Dec2024 05:39:16.311] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/crossroad_02 is being run through DFU (hash aa9284af350447def1b5cfabc57b3373afe2271bcb3269c4f6a8c793f41b6f21), this will cause launch time delays
+[10Dec2024 05:39:23.596] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 05:39:27.336] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/fountain1
+[10Dec2024 05:39:28.291] [Worker-Main-12/DEBUG] [ModernFix/]: Structure hopo:portal8 is being run through DFU (hash 2c9437842d1ef069d3bd8710696a7e4b3e5ae28e25adcbad4d6d2de170dfeb27), this will cause launch time delays
+[10Dec2024 05:39:28.687] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[10Dec2024 05:39:28.704] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[10Dec2024 05:39:28.719] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[10Dec2024 05:39:28.738] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[10Dec2024 05:39:28.750] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[10Dec2024 05:39:28.759] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[10Dec2024 05:39:28.769] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[10Dec2024 05:39:28.788] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[10Dec2024 05:39:28.801] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[10Dec2024 05:39:28.810] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[10Dec2024 05:39:28.821] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[10Dec2024 05:39:28.857] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[10Dec2024 05:39:29.271] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[10Dec2024 05:39:29.405] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[10Dec2024 05:39:40.591] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[10Dec2024 05:39:47.051] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[10Dec2024 05:39:47.735] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[10Dec2024 05:39:52.734] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[10Dec2024 05:39:52.766] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[10Dec2024 05:39:52.791] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[10Dec2024 05:39:52.805] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[10Dec2024 05:39:52.847] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Dec2024 05:39:52.895] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Dec2024 05:39:52.917] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[10Dec2024 05:39:52.955] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[10Dec2024 05:39:53.584] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[10Dec2024 05:39:53.634] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[10Dec2024 05:39:53.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 05:39:53.666] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[10Dec2024 05:40:07.151] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[10Dec2024 05:40:07.381] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[10Dec2024 05:40:07.400] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/graveyard/main1
+[10Dec2024 05:40:07.414] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[10Dec2024 05:40:07.448] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/barn1
+[10Dec2024 05:40:07.459] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[10Dec2024 05:40:07.491] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[10Dec2024 05:40:09.226] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_13
+[10Dec2024 05:40:11.167] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[10Dec2024 05:40:11.229] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[10Dec2024 05:40:20.098] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[10Dec2024 05:40:37.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Best Friends Forever]
+[10Dec2024 05:40:39.000] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[10Dec2024 05:40:39.703] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 05:40:39.705] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_1
+[10Dec2024 05:40:39.706] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:selenite_crystal_2 is being run through DFU (hash 32afb3977433b5856846bad9287a022b6f573d68c9349c6e0530f665a3ca5df4), this will cause launch time delays
+[10Dec2024 05:40:39.942] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_scarlet_crystal_2 is being run through DFU (hash e179bfb565aeecff74f570a4bb2d7bd2248d650feee38d78c72101bde7f272a2), this will cause launch time delays
+[10Dec2024 05:40:39.943] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:scarlet_crystal_3
+[10Dec2024 05:40:39.950] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:nocturnal_crystal_2 is being run through DFU (hash ababb8c0ea54292ec13cd3b691dad53cd64fcfeca30e0c53baf60adb5b67034e), this will cause launch time delays
+[10Dec2024 05:40:41.426] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_verdant_viridium_crystal_2
+[10Dec2024 05:40:41.450] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_2
+[10Dec2024 05:40:41.451] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_1
+[10Dec2024 05:40:41.777] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:big_selenite_crystal_2 is being run through DFU (hash 36e8d16df7807f8a28ea41bf38337a900e7487f7e87ed013d4b007248b7145a0), this will cause launch time delays
+[10Dec2024 05:40:42.104] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_1
+[10Dec2024 05:40:42.482] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 05:40:42.752] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 05:40:44.247] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:topaz_crystal_2 is being run through DFU (hash 4b1c7defc68b8159819f51d096d23ca4541bc496d2c84a789489093d7eea2bbe), this will cause launch time delays
+[10Dec2024 05:40:44.591] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Dec2024 05:41:04.504] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[10Dec2024 05:41:11.076] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[10Dec2024 05:41:14.905] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[10Dec2024 05:41:15.316] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[10Dec2024 05:41:15.347] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[10Dec2024 05:41:21.469] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[10Dec2024 05:41:21.488] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[10Dec2024 05:41:23.714] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[10Dec2024 05:41:54.151] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[10Dec2024 05:41:56.070] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[10Dec2024 05:41:57.711] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[10Dec2024 05:41:57.719] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[10Dec2024 05:41:57.735] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[10Dec2024 05:41:57.747] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 05:42:15.026] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Dec2024 05:42:15.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Dec2024 05:42:15.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Dec2024 05:42:15.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Dec2024 05:42:15.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Dec2024 05:42:15.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Dec2024 05:42:15.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Dec2024 05:42:15.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Dec2024 05:42:15.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Dec2024 05:42:15.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Dec2024 05:42:15.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Dec2024 05:42:15.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[10Dec2024 05:42:15.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Dec2024 05:42:15.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[10Dec2024 05:42:15.437] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[10Dec2024 05:42:15.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Dec2024 05:42:15.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Dec2024 05:42:15.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Dec2024 05:42:15.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Dec2024 05:42:15.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Dec2024 05:42:15.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Dec2024 05:42:15.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Dec2024 05:42:15.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Dec2024 05:42:15.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Dec2024 05:42:15.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Dec2024 05:42:15.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Dec2024 05:42:15.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Dec2024 05:42:22.009] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[10Dec2024 05:42:22.036] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[10Dec2024 05:42:22.097] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[10Dec2024 05:42:22.131] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[10Dec2024 05:42:22.137] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[10Dec2024 05:42:22.138] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[10Dec2024 05:42:22.139] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[10Dec2024 05:42:31.087] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[10Dec2024 05:42:31.397] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[10Dec2024 05:42:33.427] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[10Dec2024 05:42:33.608] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[10Dec2024 05:42:34.707] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin1 is being run through DFU (hash 589fb81c88c9c85987be4f08b32f3db6f8c46543df0909c1370825b061463ec6), this will cause launch time delays
+[10Dec2024 05:42:34.730] [Worker-Main-9/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/circle_tall is being run through DFU (hash 88a7a1210eaf5551f7111dfad9b78f468974aa21bd2fcd94af9b887aaae121e9), this will cause launch time delays
+[10Dec2024 05:42:34.790] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[10Dec2024 05:42:44.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[10Dec2024 05:42:45.237] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:nocturnal_crystal_3
+[10Dec2024 05:42:45.239] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:topaz_crystal_1
+[10Dec2024 05:42:45.260] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
+[10Dec2024 05:42:54.715] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[10Dec2024 05:43:00.872] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[10Dec2024 05:43:14.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[10Dec2024 05:43:14.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Dec2024 05:43:14.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Dec2024 05:43:14.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Dec2024 05:43:23.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:43:23.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:43:27.179] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/barn
+[10Dec2024 05:43:34.842] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_2
+[10Dec2024 05:43:35.150] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[10Dec2024 05:43:49.051] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_1
+[10Dec2024 05:43:49.052] [Worker-Main-9/DEBUG] [ModernFix/]: Structure ancient_elements:small_scarlet_crystal_1 is being run through DFU (hash 524ef24f64aa53c3dcc50c13781359ba401da7e383aa4b362b2a4b989fe66e4d), this will cause launch time delays
+[10Dec2024 05:44:22.822] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:22.829] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=990, z=1073200}"
+}
+[10Dec2024 05:44:22.831] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 13 extra bytes: 
+[10Dec2024 05:44:22.832] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[12, 116, -90, 94, -125, -5, -31, 107, -93, 31, -14, -28, -103]"
+]
+[10Dec2024 05:44:22.834] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundContainerClosePacket  id 12 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:22.835] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133967_": 116
+}
+[10Dec2024 05:44:22.835] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 12 data of 11 extra bytes: 
+[10Dec2024 05:44:22.836] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-90, 94, -125, -5, -31, 107, -93, 31, -14, -28, -103]"
+]
+[10Dec2024 05:44:23.870] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:23.871] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=948, z=1073200}"
+}
+[10Dec2024 05:44:23.876] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 46 extra bytes: 
+[10Dec2024 05:44:23.877] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\s\"ZB.xn> KUS$Yn;o"
+]
+[10Dec2024 05:44:23.877] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:23.881] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 266486639
+}
+[10Dec2024 05:44:23.881] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
+[10Dec2024 05:44:23.882] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\s\"ZB.xn> KUS$Yn;o=Dp^1{&+/,0/5"
+]
+[10Dec2024 05:44:23.886] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:23.887] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 75
+}
+[10Dec2024 05:44:23.888] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 139 extra bytes: 
+[10Dec2024 05:44:23.888] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "US$Yn;o=Dp^1{&+/,0/523.ip.gl.ply.gg"
+]
+[10Dec2024 05:44:23.892] [Netty Epoll Server IO #1/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007b43f6cc1168.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md7d690f$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23361!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md7d690f$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23361!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10Dec2024 05:44:23.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:23.952] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=812, z=1073200}"
+}
+[10Dec2024 05:44:23.953] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 45 extra bytes: 
+[10Dec2024 05:44:23.953] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-!?#}/H3{G2 6;*x"
+]
+[10Dec2024 05:44:24.264] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:24.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=969, z=1073200}"
+}
+[10Dec2024 05:44:24.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 05:44:24.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[108, -76, -125, -36, 23, -106, -112, 71, 70, 52, 110]"
+]
+[10Dec2024 05:44:24.277] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:24.277] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=913, z=1073200}"
+}
+[10Dec2024 05:44:24.277] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 118 extra bytes: 
+[10Dec2024 05:44:24.278] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "?J^7O)qIuokX<jf pXT'+S[|:W&+/,0/523"
+]
+[10Dec2024 05:44:24.502] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:24.503] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=895, z=1073200}"
+}
+[10Dec2024 05:44:24.504] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 05:44:24.504] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[56, 46, 42, -52, -3, -12, 54, -53, -16, -124, 9]"
+]
+[10Dec2024 05:44:25.299] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:25.300] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=995, z=1073200}"
+}
+[10Dec2024 05:44:25.300] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 125 extra bytes: 
+[10Dec2024 05:44:25.301] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RiUff5:1&? `C7.qFM&+/,0/523.ip.gl."
+]
+[10Dec2024 05:44:25.397] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:25.398] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=798, z=1073200}"
+}
+[10Dec2024 05:44:25.398] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 14 extra bytes: 
+[10Dec2024 05:44:25.399] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-24, 97, -22, 4, 32, 117, 22, 78, 111, -60, -45, 46, 126, 18]"
+]
+[10Dec2024 05:44:25.742] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:25.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=798, z=1073200}"
+}
+[10Dec2024 05:44:25.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 73 extra bytes: 
+[10Dec2024 05:44:25.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=+:G>.dF] C)Z1r!9Qw)|y&+/,0"
+]
+[10Dec2024 05:44:29.859] [Worker-Main-12/DEBUG] [ModernFix/]: Structure ancient_elements:floating_island_big is being run through DFU (hash bd1c0cb5844971a296f59d1c758c3973d0a301e30c0965c62b9648d84c0f7a7b), this will cause launch time delays
+[10Dec2024 05:44:36.118] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[10Dec2024 05:44:44.182] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:44.184] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=848, z=1122352}"
+}
+[10Dec2024 05:44:44.184] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[10Dec2024 05:44:44.185] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-67, -115, 62, 19, 85, -28, -94, 69, -42, 75, 48]"
+]
+[10Dec2024 05:44:44.510] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:44.511] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=901, z=905264}"
+}
+[10Dec2024 05:44:44.513] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 40 extra bytes: 
+[10Dec2024 05:44:44.513] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",AXUr{~sdCcx\"J,H\"h/"
+]
+[10Dec2024 05:44:44.844] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:44.845] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=867, z=856112}"
+}
+[10Dec2024 05:44:44.845] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 45 extra bytes: 
+[10Dec2024 05:44:44.845] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">(S$=0[-qdCt?8,0"
+]
+[10Dec2024 05:44:44.846] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Dec2024 05:44:44.846] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1017066,
+  "f_133799_": "BlockPos{x=10504281, y=184, z=20071379}"
+}
+[10Dec2024 05:44:44.846] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 33 extra bytes: 
+[10Dec2024 05:44:44.846] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[-qdCt?8,0"
+]
+[10Dec2024 05:44:47.953] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[10Dec2024 05:44:53.505] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[10Dec2024 05:45:00.611] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[10Dec2024 05:45:02.727] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:floating_island_small
+[10Dec2024 05:45:05.578] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[10Dec2024 05:45:05.594] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[10Dec2024 05:45:05.610] [Worker-Main-12/DEBUG] [ModernFix/]: Structure mvs:well/well_lower is being run through DFU (hash 54b9c3d718e6a0a7addb5729dbdf662b3209ba713c9dda971cc79e599e3d0273), this will cause launch time delays
+[10Dec2024 05:45:05.628] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[10Dec2024 05:45:05.676] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[10Dec2024 05:45:05.680] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[10Dec2024 05:45:05.694] [Worker-Main-12/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[10Dec2024 05:45:06.082] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Dec2024 05:45:06.190] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Dec2024 05:45:06.212] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[10Dec2024 05:45:06.232] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[10Dec2024 05:45:06.241] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[10Dec2024 05:45:06.243] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[10Dec2024 05:45:06.243] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[10Dec2024 05:45:06.267] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[10Dec2024 05:45:06.295] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[10Dec2024 05:45:06.331] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[10Dec2024 05:45:10.444] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[10Dec2024 05:45:29.360] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:floating_islands
+[10Dec2024 05:46:01.275] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[10Dec2024 05:47:08.337] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal1
+[10Dec2024 05:47:22.346] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[10Dec2024 05:47:22.386] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[10Dec2024 05:47:35.984] [pool-5-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry]] from pos BlockPos{x=-4821, y=94, z=-507}
+[10Dec2024 05:47:45.547] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[10Dec2024 05:47:58.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/barn
