@@ -25155,3 +25155,36 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [10Dec2024 23:53:43.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146867, l='ServerLevel[world]', x=-74.63, y=-256.00, z=-835.31] died, message: 'Villager was killed'
 [10Dec2024 23:56:00.613] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
 [10Dec2024 23:56:00.638] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 23:56:07.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Nightmare Stalker
+[10Dec2024 23:56:07.219] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-396, y:14, z:-268, dim:minecraft:overworld]
+[10Dec2024 23:56:09.070] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 23:56:17.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[10Dec2024 23:57:11.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 23:57:11.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 23:58:15.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[10Dec2024 23:58:15.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[10Dec2024 23:58:15.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:58:15.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 23:58:15.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 23:58:17.890] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_1
+[10Dec2024 23:58:17.891] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_cerulean_crystal_2
+[10Dec2024 23:58:17.893] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_1
+[10Dec2024 23:58:42.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[10Dec2024 23:58:42.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[10Dec2024 23:58:43.073] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[10Dec2024 23:58:43.074] [Worker-Main-81/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
+[10Dec2024 23:58:51.853] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[10Dec2024 23:58:51.895] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[10Dec2024 23:58:59.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 fell from a high place
+[10Dec2024 23:58:59.004] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-438, y:-9, z:-288, dim:minecraft:overworld]
+[10Dec2024 23:59:00.573] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Dec2024 23:59:39.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[10Dec2024 23:59:39.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[10Dec2024 23:59:40.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[10Dec2024 23:59:40.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[11Dec2024 00:00:05.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Full Moon in a Pocket]
+[11Dec2024 00:00:39.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[11Dec2024 00:00:39.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[11Dec2024 00:02:10.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:02:10.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:05:44.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Masquerade]
