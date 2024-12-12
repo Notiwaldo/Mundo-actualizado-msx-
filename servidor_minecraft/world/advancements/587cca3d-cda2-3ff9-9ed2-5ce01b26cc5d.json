@@ -7242,6 +7242,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-12 21:04:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
@@ -7338,6 +7344,12 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_adoghr_disc": {
+    "criteria": {
+      "0308": "2024-12-12 20:58:10 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2024-12-12 20:30:26 +0000"
@@ -7353,6 +7365,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
     },
     "done": true
   },
@@ -7383,6 +7401,12 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2024-12-12 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
     },
     "done": true
   },
@@ -7422,6 +7446,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-12 19:52:32 +0000"
@@ -7431,6 +7461,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-12 21:01:41 +0000"
     },
     "done": true
   },

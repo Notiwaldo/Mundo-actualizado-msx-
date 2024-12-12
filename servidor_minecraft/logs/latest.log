@@ -3133,3 +3133,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [12Dec2024 20:39:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Flowers of the Savanna]
 [12Dec2024 20:42:42.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Iron, but dark]
 [12Dec2024 20:48:18.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/36107, l='ServerLevel[world]', x=-417.30, y=13.00, z=2296.25] died: Brog the Bulwark was slain by Dire Hound Leader
+[12Dec2024 21:01:16.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Dec2024 21:04:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Cover Me with Diamonds]
