@@ -2656,3 +2656,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [12Dec2024 19:54:53.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:48673] logged in with entity id 13944 at (-67.65917641533083, 62.0, -2.0912202536327484)
 [12Dec2024 19:54:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
 [12Dec2024 19:54:56.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[12Dec2024 19:55:36.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[12Dec2024 19:56:37.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=80, z=-120} BlockPos{x=-31, y=79, z=-120}
+[12Dec2024 20:04:50.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[12Dec2024 20:15:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Rotten to the Core]
+[12Dec2024 20:15:37.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.30116160361217226
+[12Dec2024 20:15:37.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.40408937075699214
+[12Dec2024 20:15:37.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 1.010582169481495
+[12Dec2024 20:15:37.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 1.6189825455253413
+[12Dec2024 20:15:37.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.4242847748588474
+[12Dec2024 20:15:37.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.25738894291646375
+[12Dec2024 20:15:38.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.3266426662801223
+[12Dec2024 20:15:38.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.43001625629904083
+[12Dec2024 20:15:38.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 1.0369121517129543
+[12Dec2024 20:15:38.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.27415988194377405
+[12Dec2024 20:15:38.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5
