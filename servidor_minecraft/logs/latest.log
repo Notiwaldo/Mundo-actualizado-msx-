@@ -3139,3 +3139,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [12Dec2024 21:11:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
 [12Dec2024 21:12:04.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=63, z=-974} BlockPos{x=302, y=64, z=-974}
 [12Dec2024 21:26:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Horror of the Depths]
+[12Dec2024 21:36:01.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Timed out
+[12Dec2024 21:36:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
+[12Dec2024 21:36:02.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
