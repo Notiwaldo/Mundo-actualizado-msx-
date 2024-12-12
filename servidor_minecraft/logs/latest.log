@@ -2652,3 +2652,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "(k#'g93=</p23.ip.gl.ply.gg#0."
 ]
+[12Dec2024 19:52:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Deceived Hopes]
+[12Dec2024 19:54:53.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:48673] logged in with entity id 13944 at (-67.65917641533083, 62.0, -2.0912202536327484)
+[12Dec2024 19:54:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[12Dec2024 19:54:56.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
