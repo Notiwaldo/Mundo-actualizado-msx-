@@ -11067,3 +11067,93 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [12Dec2024 20:32:46.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
 [12Dec2024 20:34:42.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 20:34:42.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:36:58.457] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:36:58.472] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:37:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Pillager
+[12Dec2024 20:37:04.571] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-380, y:-11, z:2339, dim:minecraft:overworld]
+[12Dec2024 20:37:05.981] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:37:06.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 20:37:07.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[12Dec2024 20:37:10.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 20:37:10.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 20:37:10.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 20:37:10.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 20:37:10.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 20:37:10.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 20:37:10.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 20:37:10.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 20:37:10.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 20:37:10.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 20:37:10.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 20:37:10.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 20:37:10.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 20:37:10.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 20:37:10.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 20:37:10.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 20:37:10.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 20:37:10.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 20:37:10.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 20:37:10.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 20:37:10.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 20:37:10.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 20:37:10.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 20:37:10.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 20:37:10.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 20:37:11.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[12Dec2024 20:37:11.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[12Dec2024 20:37:11.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[12Dec2024 20:37:11.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[12Dec2024 20:37:11.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[12Dec2024 20:37:11.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[12Dec2024 20:37:11.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[12Dec2024 20:37:11.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[12Dec2024 20:37:11.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[12Dec2024 20:37:11.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[12Dec2024 20:37:11.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[12Dec2024 20:37:11.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[12Dec2024 20:37:12.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[12Dec2024 20:37:12.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 20:37:14.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12Dec2024 20:37:15.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[12Dec2024 20:37:15.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 20:37:15.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 20:37:15.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[12Dec2024 20:37:15.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector2
+[12Dec2024 20:37:15.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/villager/vagabond
+[12Dec2024 20:37:25.086] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:37:25.107] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:37:34.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Vindicator
+[12Dec2024 20:37:34.143] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-376, y:-11, z:2343, dim:minecraft:overworld]
+[12Dec2024 20:37:35.517] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:37:36.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 20:37:36.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[12Dec2024 20:38:05.597] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:38:05.631] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:38:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Vindicator
+[12Dec2024 20:38:12.534] [Server thread/DEBUG] [tombstone/]: A new grave of the player Notiwaldo_35 was created at position [x:-375, y:-11, z:2340, dim:minecraft:overworld]
+[12Dec2024 20:38:13.844] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:38:14.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 20:38:14.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[12Dec2024 20:38:20.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 20:38:22.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[12Dec2024 20:38:23.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 20:38:23.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 20:38:23.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[12Dec2024 20:38:23.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector2
+[12Dec2024 20:38:23.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/villager/vagabond
+[12Dec2024 20:39:44.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 20:39:44.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:39:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Flowers of the Savanna]
+[12Dec2024 20:41:30.313] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Notiwaldo_35'/1273, l='ServerLevel[world]', x=-71.50, y=64.00, z=-843.50]]
+[12Dec2024 20:42:42.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Iron, but dark]
+[12Dec2024 20:44:15.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[12Dec2024 20:44:44.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 20:44:44.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:45:26.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[12Dec2024 20:48:18.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/36107, l='ServerLevel[world]', x=-417.30, y=13.00, z=2296.25] died: Brog the Bulwark was slain by Dire Hound Leader
+[12Dec2024 20:48:27.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[12Dec2024 20:49:44.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 20:49:44.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:54:44.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 20:54:44.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 20:56:53.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber

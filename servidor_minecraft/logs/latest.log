@@ -3117,3 +3117,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [12Dec2024 20:32:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Taking from the Dead]
+[12Dec2024 20:36:58.457] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:36:58.472] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:37:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Pillager
+[12Dec2024 20:37:05.981] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:37:14.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12Dec2024 20:37:25.086] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:37:25.107] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:37:34.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Vindicator
+[12Dec2024 20:37:35.517] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:38:05.597] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[12Dec2024 20:38:05.631] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[12Dec2024 20:38:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 was slain by Corrupted Vindicator
+[12Dec2024 20:38:13.844] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[12Dec2024 20:39:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Flowers of the Savanna]
+[12Dec2024 20:42:42.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Iron, but dark]
+[12Dec2024 20:48:18.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/36107, l='ServerLevel[world]', x=-417.30, y=13.00, z=2296.25] died: Brog the Bulwark was slain by Dire Hound Leader
