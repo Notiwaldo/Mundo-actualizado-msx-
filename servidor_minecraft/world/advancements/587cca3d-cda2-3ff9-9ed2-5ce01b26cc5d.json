@@ -195,6 +195,7 @@
       "minecraft:cave_spider": "2024-12-09 05:26:31 +0000",
       "minecraft:piglin": "2024-12-11 04:43:58 +0000",
       "minecraft:stray": "2024-12-10 04:49:47 +0000",
+      "minecraft:silverfish": "2024-12-13 04:22:08 +0000",
       "minecraft:vex": "2024-12-10 05:01:53 +0000",
       "minecraft:zombie": "2024-12-08 22:29:47 +0000",
       "minecraft:drowned": "2024-12-10 20:25:29 +0000",
@@ -7188,85 +7189,91 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_baked_potato": "2024-12-12 18:39:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_baked_potato": "2024-12-12 18:39:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_stone_slab": "2024-12-12 18:50:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_kelp": "2024-12-12 19:41:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_kelp": "2024-12-12 19:41:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "has_kelp": "2024-12-12 19:41:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
+      "deceived_hopes_0": "2024-12-12 19:52:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "supplementaries:recipes/globe_sepia": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 21:11:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+      "has_antique_ink": "2024-12-12 19:59:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
     },
@@ -7278,9 +7285,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "has_sign": "2024-12-12 20:41:39 +0000"
+      "corruption": "2024-12-12 20:30:26 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2024-12-12 20:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-12 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
     },
     "done": true
   },
@@ -7290,39 +7315,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2024-12-12 18:39:55 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-12-12 21:04:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2024-12-12 20:41:39 +0000"
     },
     "done": true
   },
@@ -7332,9 +7327,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-12 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-12 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-12 20:41:39 +0000"
     },
     "done": true
   },
@@ -7362,27 +7417,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-12 19:41:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2024-12-12 20:32:18 +0000"
     },
     "done": true
   },
@@ -7398,63 +7435,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-12-12 18:50:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
     },
     "done": true
   },
-  "additionaladditions:obtain_adoghr_disc": {
-    "criteria": {
-      "0308": "2024-12-12 20:58:10 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-12 20:30:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_flower_box": {
-    "criteria": {
-      "has_slab": "2024-12-12 20:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-12 19:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-12 19:41:49 +0000"
     },
     "done": true
   },
@@ -7470,27 +7459,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2024-12-12 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_bench": {
-    "criteria": {
-      "has_slab": "2024-12-12 20:59:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-12 20:43:12 +0000"
     },
     "done": true
   },
@@ -7500,51 +7471,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_shutter": {
-    "criteria": {
-      "has_slab": "2024-12-12 20:59:44 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2024-12-12 19:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2024-12-12 21:01:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
     },
     "done": true
   },
@@ -7560,51 +7489,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/dark_iron": {
-    "criteria": {
-      "dark_iron": "2024-12-12 20:42:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2024-12-12 18:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-12 20:28:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-12 20:34:31 +0000"
     },
     "done": true
   },
@@ -7614,15 +7501,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-12 20:33:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2024-12-12 20:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-12 20:43:12 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_adoghr_disc": {
+    "criteria": {
+      "0308": "2024-12-12 20:58:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-12 20:59:44 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-12 21:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-12 21:04:02 +0000"
     },
     "done": true
   },
