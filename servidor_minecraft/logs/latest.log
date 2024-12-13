@@ -1397,3 +1397,32 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 05:13:45.254] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,nocubesbettergrindstone:nocubesbettergrindstone] rejected their client side version number
 [13Dec2024 05:13:45.255] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [13Dec2024 05:13:45.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e865780[id=<null>,name=LilLeo8451,properties={},legacy=false] (/127.16.94.70:36679) lost connection: Connection closed - mismatched mod channel list
+[13Dec2024 05:19:52.374] [Thread-67/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Dec2024 05:19:52.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.16.94.70:56419] logged in with entity id 12414 at (-72.96443895042701, 64.0, -800.3310922249883)
+[13Dec2024 05:19:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[13Dec2024 05:25:20.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 05:25:35.707] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[13Dec2024 05:25:46.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14843, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
+[13Dec2024 05:27:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> ten gay
+[13Dec2024 05:27:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> ando viendo lo de la skin
+[13Dec2024 05:27:43.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> pa que le pongas contraseña a tu cofre
+[13Dec2024 05:28:03.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 05:29:31.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Eye of The Storm]
+[13Dec2024 05:33:19.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: Skin changed]
+[13Dec2024 05:33:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Hide and Seek]
+[13Dec2024 05:34:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: No skin changes]
+[13Dec2024 05:34:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: Skin changed]
+[13Dec2024 05:34:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: No skin changes]
+[13Dec2024 05:36:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: Skin changed]
+[13Dec2024 05:38:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: Skin changed]
+[13Dec2024 05:38:20.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19396, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
+[13Dec2024 05:38:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LilLeo8451: No skin changes]
+[13Dec2024 05:38:53.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13Dec2024 05:39:14.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[13Dec2024 05:40:21.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20185, l='ServerLevel[world]', x=-74.63, y=-256.00, z=-835.31] died, message: 'Villager was killed'
+[13Dec2024 05:41:46.303] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[13Dec2024 05:41:46.378] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[13Dec2024 05:41:52.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Zombie Bruiser
+[13Dec2024 05:41:54.176] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 05:43:03.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[13Dec2024 05:43:12.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
