@@ -8034,6 +8034,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-13 21:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-13 20:57:27 +0000"
@@ -8169,6 +8175,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-13 20:57:27 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/tame_a_glare": {
+    "criteria": {
+      "friendsandfoes:tame_a_glare": "2024-12-13 21:33:21 +0000"
     },
     "done": true
   },

@@ -1515,3 +1515,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 21:33:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Grumpy and Cute]
 [13Dec2024 21:35:03.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [13Dec2024 21:35:41.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Into Darkness]
+[13Dec2024 21:37:06.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[13Dec2024 21:37:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[13Dec2024 21:43:35.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
