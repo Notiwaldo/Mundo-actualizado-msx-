@@ -1834,3 +1834,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 22:41:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
 [13Dec2024 22:41:01.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [13Dec2024 22:41:41.453] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 22:53:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Cosmic Discoverer]
+[13Dec2024 22:58:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [A Throwaway Joke]
+[13Dec2024 22:58:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Voluntary Exile]
