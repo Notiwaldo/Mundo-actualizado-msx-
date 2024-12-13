@@ -873,3 +873,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "-)G?>x.?yh5f/8j9/@'$#0=<"
 ]
+[13Dec2024 19:33:51.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:39127] logged in with entity id 2472 at (-77.35102632987889, 55.0, -826.2831165221943)
+[13Dec2024 19:33:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[13Dec2024 19:34:12.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[13Dec2024 19:34:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[13Dec2024 19:35:06.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:34065] logged in with entity id 2821 at (-80.21252585521052, 55.0, -826.1533647483822)
+[13Dec2024 19:35:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[13Dec2024 19:35:21.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[13Dec2024 19:35:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[13Dec2024 19:36:13.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.11.21.44:52843] logged in with entity id 3163 at (-80.5, 63.0, -806.5)
+[13Dec2024 19:36:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
