@@ -7033,77 +7033,71 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "bestiary": "2024-12-12 20:15:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "crafting_table": "2024-12-12 20:19:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_item": "2024-12-12 20:24:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_spire_armor_trim_smithing_template": "2024-12-12 20:26:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_smithing_trim_template": "2024-12-12 20:26:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "acacia_blossom": "2024-12-12 20:39:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_any_ingredient": "2024-12-12 20:57:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_tomato": "2024-12-12 20:57:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_tomato": "2024-12-12 20:57:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_tomato": "2024-12-12 20:57:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
+      "has_cactus": "2024-12-12 21:03:36 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 21:35:44 +0000"
-    },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
@@ -7135,12 +7129,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-12 20:57:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
@@ -7153,21 +7141,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2024-12-12 20:57:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2024-12-12 21:34:39 +0000"
     },
     "done": true
   },
@@ -7186,12 +7162,6 @@
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2024-12-12 20:19:28 +0000"
     },
     "done": true
   },
@@ -7225,18 +7195,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2024-12-12 21:03:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2024-12-12 20:15:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
@@ -7255,51 +7213,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2024-12-12 20:26:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2024-12-12 20:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-12 20:26:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2024-12-12 20:57:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2024-12-12 20:57:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-12 20:24:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2024-12-12 21:26:05 +0000"
     },
     "done": true
   },
@@ -7312,6 +7228,18 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-12 21:12:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2024-12-12 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-12-12 21:34:39 +0000"
     },
     "done": true
   },

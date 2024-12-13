@@ -1386,3 +1386,14 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [13Dec2024 05:03:17.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [13Dec2024 05:03:17.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 05:05:04.303] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 05:05:04.303] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 05:09:47.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.140.185.179:52197] logged in with entity id 8696 at (326.28923528830114, 64.0, -979.7877796114336)
+[13Dec2024 05:09:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[13Dec2024 05:13:42.486] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,nocubesbettergrindstone:nocubesbettergrindstone] rejected their client side version number
+[13Dec2024 05:13:42.488] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[13Dec2024 05:13:42.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45927ef4[id=<null>,name=LilLeo8451,properties={},legacy=false] (/127.16.94.70:56985) lost connection: Connection closed - mismatched mod channel list
+[13Dec2024 05:13:42.532] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 05:13:45.254] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,nocubesbettergrindstone:nocubesbettergrindstone] rejected their client side version number
+[13Dec2024 05:13:45.255] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[13Dec2024 05:13:45.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e865780[id=<null>,name=LilLeo8451,properties={},legacy=false] (/127.16.94.70:36679) lost connection: Connection closed - mismatched mod channel list
