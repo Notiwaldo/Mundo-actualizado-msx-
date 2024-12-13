@@ -7723,6 +7723,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:14:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-13 21:08:27 +0000"
+    },
+    "done": true
+  },
   "simplyswords:emberblade": {
     "criteria": {
       "requirement": "2024-12-13 20:56:54 +0000"

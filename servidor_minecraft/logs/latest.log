@@ -1476,3 +1476,38 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 21:04:30.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8818ms or 176 ticks behind
 [13Dec2024 21:06:00.165] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
 [13Dec2024 21:06:00.196] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[13Dec2024 21:06:06.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Lightning Dragon
+[13Dec2024 21:06:07.788] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 21:07:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Alex's Caves]
+[13Dec2024 21:07:38.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [It Belongs in a Museum]
+[13Dec2024 21:07:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> perro
+[13Dec2024 21:07:53.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> ya encontraste una de esas di?
+[13Dec2024 21:08:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> nomas me meti como a una cabala
+[13Dec2024 21:08:04.376] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[13Dec2024 21:08:04.389] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[13Dec2024 21:08:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[13Dec2024 21:08:13.005] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 21:08:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> vabaña
+[13Dec2024 21:08:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> ptm me agarras a medio chingdazo pues
+[13Dec2024 21:08:33.763] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[13Dec2024 21:08:33.781] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[13Dec2024 21:08:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Nightmare Stalker
+[13Dec2024 21:08:54.521] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 21:11:12.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[13Dec2024 21:11:34.463] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[13Dec2024 21:11:34.492] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[13Dec2024 21:11:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was struck with lightning by Lightning Dragon
+[13Dec2024 21:11:41.464] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 21:12:02.069] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[13Dec2024 21:12:02.093] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[13Dec2024 21:12:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was energized by a dragon
+[13Dec2024 21:12:09.390] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 21:12:17.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13Dec2024 21:14:38.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 21:16:30.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[13Dec2024 21:17:29.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Mother of Dragons]
+[13Dec2024 21:19:38.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4377ms or 87 ticks behind
+[13Dec2024 21:20:20.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Once Upon a Cave]
+[13Dec2024 21:23:45.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 21:23:47.770] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains]] from pos BlockPos{x=-2731, y=71, z=-2005}
+[13Dec2024 21:24:04.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
