@@ -7717,6 +7717,18 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_savanna": "2024-12-13 20:55:16 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2024-12-13 20:56:54 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-13 20:06:37 +0000"
