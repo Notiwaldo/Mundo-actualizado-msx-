@@ -1837,3 +1837,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 22:53:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Cosmic Discoverer]
 [13Dec2024 22:58:07.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [A Throwaway Joke]
 [13Dec2024 22:58:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Voluntary Exile]
+[13Dec2024 23:01:42.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[13Dec2024 23:02:54.355] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[13Dec2024 23:02:54.371] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[13Dec2024 23:03:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Nightmare Stalker
+[13Dec2024 23:03:04.085] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13Dec2024 23:03:35.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[13Dec2024 23:03:35.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[13Dec2024 23:04:32.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:56105] logged in with entity id 96877 at (-77.77471513462012, 64.0, -842.3370062508111)
+[13Dec2024 23:04:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
