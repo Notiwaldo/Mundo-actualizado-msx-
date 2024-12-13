@@ -895,3 +895,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 19:59:11.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:50783] logged in with entity id 8787 at (-54.606932253738606, 76.24918707874468, -740.6441350632871)
 [13Dec2024 19:59:11.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
 [13Dec2024 20:03:22.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[13Dec2024 20:06:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Tools of the Trade]
+[13Dec2024 20:07:22.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 20:10:09.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 20:11:45.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12036, l='ServerLevel[world]', x=-78.53, y=-256.00, z=-837.90] died, message: 'Villager was killed'
+[13Dec2024 20:12:07.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.173.55.174:58529] logged in with entity id 12115 at (-2816.367822908424, 1.0, -1669.7295714331663)
+[13Dec2024 20:12:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[13Dec2024 20:12:10.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Dec2024 20:12:32.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6598ms or 131 ticks behind
+[13Dec2024 20:12:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> ya pasa la contraseña narizon cabron
+[13Dec2024 20:12:49.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[13Dec2024 20:12:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> si nomas quieres jugar solo create un mundo y ahi juegas gay
+[13Dec2024 20:13:07.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Dec2024 20:13:24.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[13Dec2024 20:13:41.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[13Dec2024 20:13:59.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[13Dec2024 20:14:23.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
