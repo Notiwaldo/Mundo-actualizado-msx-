@@ -2028,3 +2028,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 05:54:50.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.28892767944410025
 [13Dec2024 05:54:50.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.7301111674943002
 [13Dec2024 05:54:50.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2520471022483264
+[13Dec2024 05:55:04.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Gone Bananas!]
+[13Dec2024 05:55:13.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13Dec2024 05:58:12.404] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 06:03:19.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Enchanter]
+[13Dec2024 06:05:55.109] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 06:07:38.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.267292453551363
+[13Dec2024 06:07:38.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6822699729405883
+[13Dec2024 06:10:01.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.28328594909345384
+[13Dec2024 06:10:01.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ZEUS_PHASMA_) moved wrongly! 0.7181525614343514
+[13Dec2024 06:10:52.774] [Worker-Main-82/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[13Dec2024 06:11:06.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[13Dec2024 06:11:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Switcharoo!]
+[13Dec2024 06:11:14.558] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
