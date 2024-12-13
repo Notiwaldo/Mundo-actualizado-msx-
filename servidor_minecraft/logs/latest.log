@@ -1521,3 +1521,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 21:48:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Deceived Hopes]
 [13Dec2024 21:51:35.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:34445] logged in with entity id 63563 at (-72.50404976856004, 55.0, -823.2265292791732)
 [13Dec2024 21:51:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[13Dec2024 21:57:42.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[13Dec2024 21:59:08.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68275, l='ServerLevel[world]', x=-78.53, y=-256.00, z=-837.90] died, message: 'Villager was killed'
+[13Dec2024 22:01:20.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/63046, l='ServerLevel[world]', x=-2662.58, y=-20.00, z=-1503.04] died: Brog the Bulwark was slain by ZEUS_PHASMA_
