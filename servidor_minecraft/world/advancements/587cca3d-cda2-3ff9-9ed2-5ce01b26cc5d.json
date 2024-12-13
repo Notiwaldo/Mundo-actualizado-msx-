@@ -7555,15 +7555,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-13 06:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-13 05:14:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-13 06:17:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
     "criteria": {
       "has_block": "2024-12-13 05:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-13 06:17:26 +0000"
     },
     "done": true
   },
@@ -7609,6 +7627,24 @@
     },
     "done": true
   },
+  "morebows:recipes/ender_bow": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 06:21:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2024-12-13 06:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-13 06:17:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-13 05:14:28 +0000"
@@ -7618,6 +7654,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2024-12-13 05:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-13 06:17:45 +0000"
     },
     "done": true
   },

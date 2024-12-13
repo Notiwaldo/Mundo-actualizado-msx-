@@ -2169,6 +2169,7 @@
       "minecraft:pillager": "2024-12-09 22:31:56 +0000",
       "minecraft:blaze": "2024-12-10 20:42:23 +0000",
       "minecraft:skeleton": "2024-12-09 05:48:08 +0000",
+      "minecraft:ghast": "2024-12-13 06:18:38 +0000",
       "minecraft:hoglin": "2024-12-09 08:31:48 +0000",
       "minecraft:vindicator": "2024-12-09 22:39:43 +0000",
       "minecraft:spider": "2024-12-09 06:27:27 +0000",
@@ -6500,6 +6501,12 @@
     },
     "done": true
   },
+  "soulsweapons:trickweapon": {
+    "criteria": {
+      "weapon": "2024-12-13 06:11:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-13 06:07:50 +0000"
@@ -6545,6 +6552,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-13 06:07:50 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-13 06:18:45 +0000"
     },
     "done": true
   },

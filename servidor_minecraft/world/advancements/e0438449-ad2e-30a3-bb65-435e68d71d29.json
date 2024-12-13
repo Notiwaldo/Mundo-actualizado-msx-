@@ -6214,6 +6214,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_jungle": "2024-12-13 06:14:56 +0000",
       "in_outpost_snowy": "2024-12-11 02:58:45 +0000"
     },
     "done": false
