@@ -11366,3 +11366,159 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 06:56:56.685] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
 [13Dec2024 06:57:24.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 06:57:24.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:58:52.665] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[13Dec2024 06:58:59.366] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[13Dec2024 06:59:01.894] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[13Dec2024 06:59:04.382] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[13Dec2024 06:59:09.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[13Dec2024 06:59:10.668] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[13Dec2024 06:59:16.084] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[13Dec2024 06:59:18.088] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[13Dec2024 06:59:18.253] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[13Dec2024 06:59:24.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73081, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
+[13Dec2024 06:59:24.872] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_01
+[13Dec2024 06:59:25.037] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[13Dec2024 06:59:25.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[13Dec2024 06:59:25.054] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[13Dec2024 06:59:25.071] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[13Dec2024 06:59:25.086] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[13Dec2024 06:59:32.300] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[13Dec2024 06:59:32.763] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[13Dec2024 06:59:32.994] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[13Dec2024 07:00:20.094] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2641, y=-3, z=-1129} at Coffin with:graveyard:chests/crypt_loot
+[13Dec2024 07:00:20.391] [pool-5-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch]] from pos BlockPos{x=-2613, y=76, z=-1141}
+[13Dec2024 07:00:21.051] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[13Dec2024 07:00:21.352] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2613, y=76, z=-1141} but found not block entity block Block{minecraft:air} at location
+[13Dec2024 07:00:21.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2613, y=76, z=-1141}
+[13Dec2024 07:00:21.695] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal6
+[13Dec2024 07:00:29.242] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[13Dec2024 07:00:29.515] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[13Dec2024 07:00:29.546] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[13Dec2024 07:00:29.547] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[13Dec2024 07:00:33.862] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[13Dec2024 07:01:32.205] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[13Dec2024 07:01:34.277] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[13Dec2024 07:01:35.479] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[13Dec2024 07:01:35.492] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[13Dec2024 07:01:35.942] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[13Dec2024 07:01:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Big Boy]
+[13Dec2024 07:02:24.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:02:24.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:02:58.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[13Dec2024 07:02:59.792] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[13Dec2024 07:03:02.305] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[13Dec2024 07:03:07.167] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[13Dec2024 07:03:10.271] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[13Dec2024 07:03:10.279] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[13Dec2024 07:03:14.802] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[13Dec2024 07:03:17.743] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[13Dec2024 07:03:21.403] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue1
+[13Dec2024 07:03:22.326] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[13Dec2024 07:03:27.446] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[13Dec2024 07:03:32.549] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[13Dec2024 07:03:44.978] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2799, y=11, z=-1286} at Chest with:minecraft:chests/abandoned_mineshaft
+[13Dec2024 07:03:51.213] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:irongolemboss at BlockPos{x=-2813, y=29, z=-1188} at Chest with:betterdungeons:zombie_dungeon/chests/common
+[13Dec2024 07:03:54.789] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[13Dec2024 07:03:55.273] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[13Dec2024 07:03:56.029] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[13Dec2024 07:04:02.404] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[13Dec2024 07:04:02.996] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[13Dec2024 07:04:12.926] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[13Dec2024 07:04:13.654] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[13Dec2024 07:04:13.659] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[13Dec2024 07:04:13.664] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[13Dec2024 07:04:13.680] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[13Dec2024 07:04:13.689] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[13Dec2024 07:04:13.704] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[13Dec2024 07:04:13.709] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[13Dec2024 07:04:13.711] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[13Dec2024 07:04:13.714] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[13Dec2024 07:04:13.716] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[13Dec2024 07:04:14.067] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[13Dec2024 07:04:17.342] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[13Dec2024 07:04:20.845] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Dec2024 07:04:20.875] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[13Dec2024 07:04:20.907] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[13Dec2024 07:04:20.932] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Dec2024 07:04:20.970] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[13Dec2024 07:04:21.021] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[13Dec2024 07:04:21.462] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[13Dec2024 07:04:21.799] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[13Dec2024 07:04:24.100] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[13Dec2024 07:04:34.409] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[13Dec2024 07:04:34.600] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_02
+[13Dec2024 07:04:35.340] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[13Dec2024 07:04:35.414] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Dec2024 07:04:48.737] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[13Dec2024 07:04:48.995] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[13Dec2024 07:04:57.009] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[13Dec2024 07:05:01.423] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[13Dec2024 07:05:04.903] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[13Dec2024 07:05:13.037] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[13Dec2024 07:05:15.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 07:05:21.645] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[13Dec2024 07:05:29.575] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[13Dec2024 07:05:35.814] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[13Dec2024 07:05:36.796] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[13Dec2024 07:05:36.899] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[13Dec2024 07:05:36.914] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[13Dec2024 07:05:36.928] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[13Dec2024 07:05:36.939] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[13Dec2024 07:05:37.049] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[13Dec2024 07:05:37.062] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[13Dec2024 07:05:37.076] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[13Dec2024 07:05:37.087] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[13Dec2024 07:05:46.428] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 07:05:52.773] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[13Dec2024 07:05:54.345] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[13Dec2024 07:05:57.336] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[13Dec2024 07:06:01.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_good_loot
+[13Dec2024 07:06:03.613] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[13Dec2024 07:06:13.193] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[13Dec2024 07:06:18.879] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2989, y=0, z=-1537} at Chest with:graveyard:chests/crypt_loot
+[13Dec2024 07:06:28.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77573, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
+[13Dec2024 07:06:33.612] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[13Dec2024 07:06:39.576] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[13Dec2024 07:06:42.385] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2692, y=-17, z=-1534} at Sarcophagus with:graveyard:chests/crypt_loot
+[13Dec2024 07:06:44.377] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_05
+[13Dec2024 07:06:44.595] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_11
+[13Dec2024 07:06:50.932] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[13Dec2024 07:06:50.961] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[13Dec2024 07:06:50.991] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[13Dec2024 07:06:57.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[13Dec2024 07:07:07.320] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[13Dec2024 07:07:07.346] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[13Dec2024 07:07:07.360] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[13Dec2024 07:07:07.388] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[13Dec2024 07:07:07.413] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[13Dec2024 07:07:07.578] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[13Dec2024 07:07:07.752] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[13Dec2024 07:07:07.784] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[13Dec2024 07:07:07.938] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[13Dec2024 07:07:07.960] [Worker-Main-74/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[13Dec2024 07:07:08.388] [Worker-Main-74/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[13Dec2024 07:07:08.418] [Worker-Main-74/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[13Dec2024 07:07:08.450] [Worker-Main-74/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[13Dec2024 07:07:08.595] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[13Dec2024 07:07:08.721] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[13Dec2024 07:07:08.832] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[13Dec2024 07:07:19.253] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[13Dec2024 07:07:22.814] [Worker-Main-74/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/t1 is being run through DFU (hash dd4d7992afe57f89e6cd1c96b176094e2c81e461de8c9fc51476567ec6703ab4), this will cause launch time delays
+[13Dec2024 07:07:27.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:07:27.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:07:30.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13Dec2024 07:07:34.602] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[13Dec2024 07:07:40.941] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-3089, y=-4, z=-1570} at Coffin with:graveyard:chests/crypt_loot
+[13Dec2024 07:07:44.567] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[13Dec2024 07:07:44.596] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[13Dec2024 07:07:44.624] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[13Dec2024 07:07:49.691] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/obelisk1
+[13Dec2024 07:07:50.764] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[13Dec2024 07:07:50.802] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[13Dec2024 07:07:54.679] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[13Dec2024 07:07:54.689] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[13Dec2024 07:07:54.697] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower
+[13Dec2024 07:07:58.381] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[13Dec2024 07:08:00.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[13Dec2024 07:08:01.061] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[13Dec2024 07:08:07.910] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
