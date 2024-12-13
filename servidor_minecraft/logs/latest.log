@@ -2229,3 +2229,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 23:28:31.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> tipico de maricones
 [13Dec2024 23:29:31.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=66, z=-1000} BlockPos{x=270, y=64, z=-1002}
 [13Dec2024 23:30:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Your First Receptacle]
+[13Dec2024 23:36:49.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13Dec2024 23:37:13.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[13Dec2024 23:37:15.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
