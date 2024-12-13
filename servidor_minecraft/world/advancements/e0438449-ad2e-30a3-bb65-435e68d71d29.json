@@ -8052,6 +8052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-13 21:07:29 +0000"
@@ -8064,15 +8070,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2024-12-13 21:23:18 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-13 20:57:27 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-13 21:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2024-12-13 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
     },
     "done": true
   },
@@ -8121,6 +8157,12 @@
   "eeeabsmobs:eeeabsmobs/kill_nameless_guardian": {
     "criteria": {
       "requirement": "2024-12-13 20:55:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
     },
     "done": true
   },
@@ -8220,6 +8262,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-13 20:49:45 +0000"
@@ -8242,6 +8290,12 @@
     "criteria": {
       "has_netherite_ingot": "2024-12-13 20:57:27 +0000",
       "has_the_recipe": "2024-12-13 20:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:25:12 +0000"
     },
     "done": true
   },
