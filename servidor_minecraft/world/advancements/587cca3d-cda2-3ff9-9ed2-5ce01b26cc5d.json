@@ -7555,5 +7555,17 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-13 04:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-13 04:59:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
