@@ -7585,6 +7585,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-12-13 05:46:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
     "criteria": {
       "has_block": "2024-12-13 05:06:52 +0000"
