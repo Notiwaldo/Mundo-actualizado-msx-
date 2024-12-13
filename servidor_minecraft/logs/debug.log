@@ -10874,3 +10874,378 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 06:36:37.585] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_verdant_viridium_crystal_1
 [13Dec2024 06:36:37.587] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_topaz_crystal_1
 [13Dec2024 06:36:37.631] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_nocturnal_crystal_1
+[13Dec2024 06:36:41.240] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:big_selenite_crystal_1
+[13Dec2024 06:36:41.241] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_3
+[13Dec2024 06:36:41.241] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_scarlet_crystal_2
+[13Dec2024 06:36:41.305] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_scarlet_crystal_2
+[13Dec2024 06:36:41.306] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:verdant_viridium_crystal_2
+[13Dec2024 06:36:41.306] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_selenite_crystal_1
+[13Dec2024 06:36:41.307] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:small_topaz_crystal_2
+[13Dec2024 06:36:41.337] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:south_cerulean_crystal_2
+[13Dec2024 06:36:52.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4465ms or 89 ticks behind
+[13Dec2024 06:36:59.481] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Dec2024 06:36:59.509] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[13Dec2024 06:36:59.529] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[13Dec2024 06:37:00.615] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[13Dec2024 06:37:02.729] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[13Dec2024 06:37:02.960] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Dec2024 06:37:53.086] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[13Dec2024 06:37:53.108] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[13Dec2024 06:37:53.163] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[13Dec2024 06:37:53.190] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[13Dec2024 06:37:53.240] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Dec2024 06:37:53.264] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Dec2024 06:37:53.294] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[13Dec2024 06:37:53.313] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[13Dec2024 06:37:53.486] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[13Dec2024 06:38:33.440] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/barn1
+[13Dec2024 06:38:33.529] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[13Dec2024 06:38:33.620] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[13Dec2024 06:38:33.660] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[13Dec2024 06:38:33.695] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[13Dec2024 06:38:33.723] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[13Dec2024 06:38:38.948] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[13Dec2024 06:38:39.063] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 06:38:39.253] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[13Dec2024 06:38:43.908] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 06:38:44.782] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[13Dec2024 06:38:44.800] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[13Dec2024 06:38:49.406] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[13Dec2024 06:38:49.799] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[13Dec2024 06:38:54.219] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[13Dec2024 06:38:54.261] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Dec2024 06:38:54.550] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[13Dec2024 06:38:54.903] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[13Dec2024 06:38:58.871] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[13Dec2024 06:39:05.585] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-1581, y=4, z=-943} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 06:39:06.664] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[13Dec2024 06:39:07.270] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[13Dec2024 06:39:10.231] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[13Dec2024 06:39:12.737] [Worker-Main-83/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-1587, y=10, z=-1087} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 06:39:13.725] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[13Dec2024 06:39:19.570] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 06:39:20.652] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[13Dec2024 06:39:21.654] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[13Dec2024 06:39:21.685] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[13Dec2024 06:39:21.724] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[13Dec2024 06:39:21.758] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[13Dec2024 06:39:23.383] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[13Dec2024 06:39:25.507] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[13Dec2024 06:39:29.997] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[13Dec2024 06:39:33.351] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos BlockPos{x=-1499, y=68, z=-1125}
+[13Dec2024 06:39:33.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[13Dec2024 06:39:34.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[13Dec2024 06:39:34.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[13Dec2024 06:39:34.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[13Dec2024 06:39:34.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[13Dec2024 06:39:34.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[13Dec2024 06:39:41.209] [Worker-Main-83/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[13Dec2024 06:39:43.620] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[13Dec2024 06:39:45.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[13Dec2024 06:39:45.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 1.4490662495500146
+[13Dec2024 06:39:46.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 1.4585214023506978
+[13Dec2024 06:39:47.386] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_13
+[13Dec2024 06:39:52.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
+[13Dec2024 06:39:52.275] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[13Dec2024 06:39:58.851] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[13Dec2024 06:39:59.266] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[13Dec2024 06:40:04.105] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[13Dec2024 06:40:04.121] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[13Dec2024 06:40:04.137] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[13Dec2024 06:40:04.154] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[13Dec2024 06:40:04.825] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[13Dec2024 06:40:04.827] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[13Dec2024 06:40:08.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[13Dec2024 06:40:08.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[13Dec2024 06:40:08.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[13Dec2024 06:40:08.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[13Dec2024 06:40:08.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[13Dec2024 06:40:08.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[13Dec2024 06:40:08.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[13Dec2024 06:40:08.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[13Dec2024 06:40:08.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[13Dec2024 06:40:08.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[13Dec2024 06:40:08.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[13Dec2024 06:40:08.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[13Dec2024 06:40:08.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[13Dec2024 06:40:08.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[13Dec2024 06:40:08.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[13Dec2024 06:40:08.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[13Dec2024 06:40:08.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[13Dec2024 06:40:08.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[13Dec2024 06:40:08.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[13Dec2024 06:40:08.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[13Dec2024 06:40:08.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[13Dec2024 06:40:08.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[13Dec2024 06:40:08.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[13Dec2024 06:40:08.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[13Dec2024 06:40:08.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[13Dec2024 06:40:08.299] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[13Dec2024 06:40:08.408] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[13Dec2024 06:40:11.383] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[13Dec2024 06:40:18.196] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[13Dec2024 06:40:18.232] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[13Dec2024 06:40:18.237] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[13Dec2024 06:40:18.244] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[13Dec2024 06:40:18.247] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[13Dec2024 06:40:18.254] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[13Dec2024 06:40:21.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Dec2024 06:40:26.993] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/crossroad_02
+[13Dec2024 06:40:31.481] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[13Dec2024 06:40:42.313] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[13Dec2024 06:40:51.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.25188419342202906
+[13Dec2024 06:40:51.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6385465967150594
+[13Dec2024 06:40:57.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[13Dec2024 06:41:06.663] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[13Dec2024 06:41:06.956] [Worker-Main-74/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[13Dec2024 06:41:12.123] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[13Dec2024 06:41:15.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -8.201823001928688,-1.0,5.837676396994311
+[13Dec2024 06:41:15.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -8.657664737876757,-1.0,6.24029845193877
+[13Dec2024 06:41:15.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -9.114940214437183,-1.0,6.6432347404308985
+[13Dec2024 06:41:15.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -9.63991650772823,-1.0,6.932600254274121
+[13Dec2024 06:41:15.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -10.20111815824339,-1.0,7.161196310959667
+[13Dec2024 06:41:15.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -10.785019400493866,-1.0,7.343270318694522
+[13Dec2024 06:41:15.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -11.385431554006573,-1.0,7.473496832708179
+[13Dec2024 06:41:15.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -11.996089476137286,0.0,7.559342168591002
+[13Dec2024 06:41:15.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -12.611553970561772,0.0,7.579743830072857
+[13Dec2024 06:41:15.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.228907948793449,0.0,7.558326312757345
+[13Dec2024 06:41:15.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.847272952137928,-0.07683200149536162,7.51453218665165
+[13Dec2024 06:41:15.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.206950856389767,-0.2274534586630068,7.487865418972206
+[13Dec2024 06:41:15.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.5543757706223,-0.4489423104376016,7.47387331537243
+[13Dec2024 06:41:15.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.890873468040581,-0.7384922093173572,7.47118447752473
+[13Dec2024 06:41:15.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -15.21759989748125,-1.0,7.4810453421634975
+[13Dec2024 06:41:15.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -15.770998849953912,-1.0,7.59949337416424
+[13Dec2024 06:41:15.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -16.32913591013744,-1.0,7.772526667151169
+[13Dec2024 06:41:15.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -16.889808237289344,-1.0768320014953616,7.974767444979307
+[13Dec2024 06:41:15.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.216015252378156,-1.2274534586630068,8.093947864215124
+[13Dec2024 06:41:15.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.53312910824843,-1.4489423104376016,8.211198376419134
+[13Dec2024 06:41:15.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.842133684493774,-1.7384922093173572,8.326727797482363
+[13Dec2024 06:41:15.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.1439064049614,-2.0,8.440722349422003
+[13Dec2024 06:41:15.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.675051639130515,-2.0,8.652036806434126
+[13Dec2024 06:41:15.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -19.24844102310476,-2.0,8.745613882322914
+[13Dec2024 06:41:15.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -19.844434409382075,-2.0,8.776192033002644
+[13Dec2024 06:41:15.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -20.45252274661675,-2.0,8.773060714866233
+[13Dec2024 06:41:15.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -21.067082850961242,-2.0,8.75356763796367
+[13Dec2024 06:41:15.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -21.657946024089597,-2.0,8.852791393825555
+[13Dec2024 06:41:15.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.2361294417899,-2.0,9.015538159941343
+[13Dec2024 06:41:15.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.807528175167818,-2.0768320014953616,9.212274822331892
+[13Dec2024 06:41:15.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -23.139474676366717,-2.227453458663007,9.328510099137475
+[13Dec2024 06:41:15.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -23.461707006097413,-2.4489423104376016,9.443134133246303
+[13Dec2024 06:41:15.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -23.51089198462887,-2.738492209317357,9.556321261076846
+[13Dec2024 06:41:15.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -23.537094416058835,-2.0,9.668226955851424
+[13Dec2024 06:41:15.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -23.822486059381617,-2.0,9.87767856998994
+[13Dec2024 06:41:15.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -24.237217751928256,-2.0,10.099406065363155
+[13Dec2024 06:41:15.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -24.721156726052413,-2.0,10.327702140030397
+[13Dec2024 06:41:15.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -25.242127136704084,-2.0,10.55951293051453
+[13Dec2024 06:41:15.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -25.78291233071468,-2.0,10.793204375356481
+[13Dec2024 06:41:15.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -26.334300020236242,-2.0,11.027902120848921
+[13Dec2024 06:41:15.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -26.89136089371482,-2.0768320014953616,11.263138317756102
+[13Dec2024 06:41:15.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -27.21563549194775,-2.227453458663007,11.399973927883593
+[13Dec2024 06:41:15.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -27.51089198462887,-2.4489423104376016,11.532969339778447
+[13Dec2024 06:41:15.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -27.51089198462887,-2.738492209317357,11.66254006279064
+[13Dec2024 06:41:15.499] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[13Dec2024 06:41:15.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[13Dec2024 06:41:15.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.49979867944193757
+[13Dec2024 06:41:16.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.9864146408237957
+[13Dec2024 06:41:16.683] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[13Dec2024 06:41:16.864] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[13Dec2024 06:41:20.317] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-1833, y=-21, z=-1088} at Coffin with:graveyard:chests/crypt_loot
+[13Dec2024 06:41:20.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:horse_pen
+[13Dec2024 06:41:20.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -9.058252448827488,-2.5510576895623984,3.881402717209312
+[13Dec2024 06:41:20.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -9.66798551562033,-2.5510576895623984,3.876501139442098
+[13Dec2024 06:41:20.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -10.278242828704379,-2.62788969105776,3.871599561674884
+[13Dec2024 06:41:20.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -10.633179480298395,-2.7785111482254052,3.8711094038981173
+[13Dec2024 06:41:20.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -10.978089571324062,-3.0,3.8698761667510553
+[13Dec2024 06:41:20.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -11.313939859322318,-3.2895498988797556,3.8670107606290003
+[13Dec2024 06:41:20.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -11.64167085220356,-3.5510576895623984,3.863777138084288
+[13Dec2024 06:41:20.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -12.176740791300972,-3.5510576895623984,3.705486607765806
+[13Dec2024 06:41:20.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -12.705845478791161,-3.5510576895623984,3.462497970646382
+[13Dec2024 06:41:20.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.231758279080623,-3.62788969105776,3.174189065276096
+[13Dec2024 06:41:20.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.537443676067824,-3.7785111482254052,3.004091665239912
+[13Dec2024 06:41:20.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.834333864079781,-4.0,2.8365697464842015
+[13Dec2024 06:41:20.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.965257412752862,-4.289549898879756,2.6839400724875304
+[13Dec2024 06:41:20.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -13.993477110165486,-3.5510576895623984,2.54459130274995
+[13Dec2024 06:41:20.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.302450162710556,-3.5510576895623984,2.4087223150895625
+[13Dec2024 06:41:20.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.751033344565712,-3.5510576895623984,2.3571343333303503
+[13Dec2024 06:41:20.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -15.271901321342284,-3.5510576895623984,2.372070290978627
+[13Dec2024 06:41:20.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -15.831447450677842,-3.5510576895623984,2.4226018822596416
+[13Dec2024 06:41:20.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -16.41168948828863,-3.5510576895623984,2.492179987397094
+[13Dec2024 06:41:20.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.003005493785622,-3.62788969105776,2.5719495023524814
+[13Dec2024 06:41:20.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.347490904752703,-3.7785111482254052,2.6188865451861147
+[13Dec2024 06:41:20.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -17.682787009101958,-4.0,2.664998967004749
+[13Dec2024 06:41:20.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.009888089573224,-4.289549898879756,2.7103759917813477
+[13Dec2024 06:41:20.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.32968084753952,-4.644465628671497,2.7550971894568193
+[13Dec2024 06:41:20.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.642956043308004,-5.062158703692944,2.7992335205065046
+[13Dec2024 06:41:20.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -18.95041887694083,-5.540143142246436,2.8428482674844417
+[13Dec2024 06:41:20.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -19.25266393658285,-6.076031407463063,2.886218518604892
+[13Dec2024 06:41:20.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -19.55025578524601,-6.551057689562398,2.9293707283134154
+[13Dec2024 06:41:20.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -20.09602838526098,-6.551057689562398,3.013325998883147
+[13Dec2024 06:41:20.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -20.668074468674376,-6.551057689562398,3.105923743924677
+[13Dec2024 06:41:20.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -21.25417896921772,-6.551057689562398,3.2031459047436783
+[13Dec2024 06:41:20.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -21.847422393705983,-6.551057689562398,3.305042372941216
+[13Dec2024 06:41:20.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.442472005139507,-6.62788969105776,3.4196453664262663
+[13Dec2024 06:41:20.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.788466134886676,-6.778511148225405,3.4876996471082293
+[13Dec2024 06:41:20.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.0,3.4956885659096315
+[13Dec2024 06:41:20.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.289549898879756,3.4956885659096315
+[13Dec2024 06:41:20.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.551057689562398,3.4956885659096315
+[13Dec2024 06:41:20.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.551057689562398,3.4956885659096315
+[13Dec2024 06:41:20.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.551057689562398,3.4956885659096315
+[13Dec2024 06:41:20.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -22.965257412752862,-7.551057689562398,3.4956885659096315
+[13Dec2024 06:41:20.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved too quickly! -14.515758277727173,-5.0,-0.38380739357648963
+[13Dec2024 06:41:22.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[13Dec2024 06:41:22.963] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/desert_house
+[13Dec2024 06:41:34.054] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[13Dec2024 06:41:35.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[13Dec2024 06:41:39.358] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[13Dec2024 06:41:39.769] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[13Dec2024 06:41:39.949] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[13Dec2024 06:41:40.403] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[13Dec2024 06:41:43.089] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-1901, y=-48, z=-1161} at Chest with:graveyard:chests/crypt_loot
+[13Dec2024 06:41:43.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62184, l='ServerLevel[world]', x=-78.53, y=-256.00, z=-837.90] died, message: 'Villager was killed'
+[13Dec2024 06:41:47.111] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-1853, y=239, z=-963} at Chest with:dungeons_arise:chests/small_blimp/small_blimp_treasure
+[13Dec2024 06:41:59.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Dec2024 06:42:01.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:42:01.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:42:18.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Dec2024 06:42:22.712] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[13Dec2024 06:42:22.743] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[13Dec2024 06:42:22.757] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[13Dec2024 06:42:23.744] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[13Dec2024 06:42:25.667] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[13Dec2024 06:42:40.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 06:42:43.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[13Dec2024 06:42:43.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[13Dec2024 06:42:43.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[13Dec2024 06:42:43.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[13Dec2024 06:43:08.077] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[13Dec2024 06:43:08.148] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[13Dec2024 06:43:08.848] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[13Dec2024 06:43:08.952] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[13Dec2024 06:43:08.981] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[13Dec2024 06:43:18.782] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 06:43:39.067] [Worker-Main-82/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-1999, y=14, z=-851} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 06:43:39.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[13Dec2024 06:43:39.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[13Dec2024 06:43:39.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[13Dec2024 06:43:39.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[13Dec2024 06:43:39.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[13Dec2024 06:43:39.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[13Dec2024 06:43:39.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[13Dec2024 06:43:39.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[13Dec2024 06:43:39.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[13Dec2024 06:43:39.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[13Dec2024 06:43:39.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[13Dec2024 06:43:41.455] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[13Dec2024 06:43:52.262] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Dec2024 06:43:52.318] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[13Dec2024 06:43:52.358] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[13Dec2024 06:43:54.398] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[13Dec2024 06:43:56.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Dec2024 06:43:58.213] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[13Dec2024 06:43:58.245] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[13Dec2024 06:43:58.555] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[13Dec2024 06:43:58.757] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_03
+[13Dec2024 06:43:58.858] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[13Dec2024 06:44:03.122] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[13Dec2024 06:44:03.134] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[13Dec2024 06:44:05.056] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[13Dec2024 06:44:05.072] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[13Dec2024 06:44:05.086] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[13Dec2024 06:44:05.104] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[13Dec2024 06:44:05.118] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[13Dec2024 06:44:05.139] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[13Dec2024 06:44:05.156] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[13Dec2024 06:44:05.176] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[13Dec2024 06:44:05.207] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[13Dec2024 06:44:05.226] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[13Dec2024 06:44:05.244] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[13Dec2024 06:44:05.258] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[13Dec2024 06:44:07.574] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[13Dec2024 06:44:07.576] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[13Dec2024 06:44:07.796] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[13Dec2024 06:44:07.810] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[13Dec2024 06:44:07.831] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[13Dec2024 06:44:12.620] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[13Dec2024 06:44:13.738] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[13Dec2024 06:44:13.750] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[13Dec2024 06:44:13.783] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[13Dec2024 06:44:14.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[13Dec2024 06:44:14.795] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[13Dec2024 06:44:15.895] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[13Dec2024 06:44:15.928] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[13Dec2024 06:44:17.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[13Dec2024 06:44:17.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[13Dec2024 06:44:17.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[13Dec2024 06:44:17.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[13Dec2024 06:44:17.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[13Dec2024 06:44:17.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[13Dec2024 06:44:17.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[13Dec2024 06:44:17.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[13Dec2024 06:44:20.009] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[13Dec2024 06:44:22.340] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-2311, y=-29, z=-1130} at Coffin with:graveyard:chests/crypt_loot
+[13Dec2024 06:45:25.900] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[13Dec2024 06:45:33.248] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[13Dec2024 06:45:39.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[13Dec2024 06:45:42.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[13Dec2024 06:45:42.293] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[13Dec2024 06:45:42.312] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Dec2024 06:45:42.339] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[13Dec2024 06:45:42.373] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[13Dec2024 06:45:43.124] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[13Dec2024 06:45:43.327] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[13Dec2024 06:45:44.412] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[13Dec2024 06:45:47.584] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[13Dec2024 06:45:48.635] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[13Dec2024 06:45:53.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Dec2024 06:45:55.438] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_09
+[13Dec2024 06:45:56.064] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[13Dec2024 06:45:58.656] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[13Dec2024 06:45:58.967] [Worker-Main-74/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_05 is being run through DFU (hash a70a81d21a9536ad233a7ffa18269984bf80d09c83ab2107258681f999a20798), this will cause launch time delays
+[13Dec2024 06:46:01.128] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[13Dec2024 06:46:01.579] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[13Dec2024 06:46:01.582] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[13Dec2024 06:46:01.628] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[13Dec2024 06:46:01.635] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[13Dec2024 06:46:02.802] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 06:46:03.213] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[13Dec2024 06:46:03.578] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[13Dec2024 06:46:05.166] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[13Dec2024 06:46:05.204] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[13Dec2024 06:46:05.794] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[13Dec2024 06:46:05.799] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[13Dec2024 06:46:05.808] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[13Dec2024 06:46:05.859] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[13Dec2024 06:46:05.863] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[13Dec2024 06:46:05.890] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[13Dec2024 06:46:06.089] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[13Dec2024 06:46:06.107] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[13Dec2024 06:46:06.124] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[13Dec2024 06:46:07.293] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[13Dec2024 06:46:08.555] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[13Dec2024 06:46:08.998] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[13Dec2024 06:46:09.393] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[13Dec2024 06:46:11.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.5035147306412
+[13Dec2024 06:46:11.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 1.037786336057252
+[13Dec2024 06:46:11.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 1.5391888038493562
+[13Dec2024 06:46:11.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.556512789837825
+[13Dec2024 06:46:11.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dinnerbone (vehicle of ZEUS_PHASMA_) moved wrongly! 0.953954409420021
+[13Dec2024 06:46:12.080] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[13Dec2024 06:46:12.444] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[13Dec2024 06:46:12.658] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[13Dec2024 06:46:14.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 06:46:14.418] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[13Dec2024 06:46:14.602] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[13Dec2024 06:46:19.296] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[13Dec2024 06:46:19.489] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[13Dec2024 06:46:20.522] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[13Dec2024 06:46:22.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[13Dec2024 06:46:22.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[13Dec2024 06:46:22.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[13Dec2024 06:46:22.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[13Dec2024 06:46:22.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[13Dec2024 06:46:22.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[13Dec2024 06:46:22.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[13Dec2024 06:46:22.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[13Dec2024 06:46:22.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[13Dec2024 06:46:22.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[13Dec2024 06:46:22.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
