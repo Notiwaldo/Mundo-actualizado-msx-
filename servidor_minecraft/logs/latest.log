@@ -1528,3 +1528,305 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 22:16:00.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [13Dec2024 22:16:19.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [13Dec2024 22:16:55.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[13Dec2024 22:21:25.043] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:25.056] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=905, z=1073200}"
+}
+[13Dec2024 22:21:25.060] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 98 extra bytes: 
+[13Dec2024 22:21:25.061] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1S-~49lot usJh7K{w.1 G2B,3&+/,0/5"
+]
+[13Dec2024 22:21:25.063] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:25.077] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 16178
+}
+[13Dec2024 22:21:25.078] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 92 extra bytes: 
+[13Dec2024 22:21:25.102] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "49lot usJh7K{w.1 G2B,3&+/,0/5"
+]
+[13Dec2024 22:21:25.117] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSignUpdatePacket  id 46 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:25.134] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134645_": "BlockPos{x=27106304, y=0, z=5246976}",
+  "f_134646_": [
+    "",
+    "\u0000\u001d\u0000\u0017\u0000\u0018\u0000\u000b",
+    "",
+    "\u0001\u0000"
+  ],
+  "f_276680_": true
+}
+[13Dec2024 22:21:25.140] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 46 data of 88 extra bytes: 
+[13Dec2024 22:21:25.141] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& g_66C|)DLC~3Fwy"
+]
+[13Dec2024 22:21:25.145] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:25.151] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[13Dec2024 22:21:25.152] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 86 extra bytes: 
+[13Dec2024 22:21:25.156] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& g_66C|)DLC~3Fwy"
+]
+[13Dec2024 22:21:25.156] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007878ff219220.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md618073$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md618073$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23387!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13Dec2024 22:21:26.481] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:26.483] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=853, z=1073200}"
+}
+[13Dec2024 22:21:26.484] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[13Dec2024 22:21:26.485] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-86, -110, 37, -63, 85, 19, 127, -91, -123, -23, 125]"
+]
+[13Dec2024 22:21:27.483] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:27.488] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=959, z=1073200}"
+}
+[13Dec2024 22:21:27.489] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 75 extra bytes: 
+[13Dec2024 22:21:27.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|=B],!W}{[x nXitag*lTc_&+/,0"
+]
+[13Dec2024 22:21:27.583] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:27.584] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=890, z=1073200}"
+}
+[13Dec2024 22:21:27.584] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 134 extra bytes: 
+[13Dec2024 22:21:27.585] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "t:3=mpEhd%xak yf=6,Hi:FA~6&+/,0/523.ip.gl.ply.gg"
+]
+[13Dec2024 22:21:27.585] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:27.587] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 62593801
+}
+[13Dec2024 22:21:27.587] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 172 extra bytes: 
+[13Dec2024 22:21:27.588] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "yf=6,Hi:FA~6&+/,0/523.ip.gl.ply.gg+3&"
+]
+[13Dec2024 22:21:27.588] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:27.590] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134206_": true,
+  "f_134207_": true
+}
+[13Dec2024 22:21:27.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 204 extra bytes: 
+[13Dec2024 22:21:27.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "f=6,Hi:FA~6&+/,0/523.ip.gl.ply.gg+3& k;1yn=yruV"
+]
+[13Dec2024 22:21:27.778] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:27.779] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=934, z=1073200}"
+}
+[13Dec2024 22:21:27.781] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[13Dec2024 22:21:27.781] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[47, -47, 124, 91, -114, -4, -121, -46, 52, 48, 71]"
+]
+[13Dec2024 22:21:28.818] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:28.820] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=916, z=1073200}"
+}
+[13Dec2024 22:21:28.820] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 50 extra bytes: 
+[13Dec2024 22:21:28.821] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\p^I4*tFi'!d;$ N|IUj+9"
+]
+[13Dec2024 22:21:29.234] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:29.235] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=890, z=1073200}"
+}
+[13Dec2024 22:21:29.235] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 122 extra bytes: 
+[13Dec2024 22:21:29.238] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "pcrJuMx1^_% i$a\\zZwzptF</&+/,0/523.ip."
+]
+[13Dec2024 22:21:29.238] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundKeepAlivePacket  id 18 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:29.239] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134092_": -7643047944573024438
+}
+[13Dec2024 22:21:29.239] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 18 data of 216 extra bytes: 
+[13Dec2024 22:21:29.239] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "uMx1^_% i$a\\zZwzptF</&+/,0/523.ip.l.ply.gg+3&$ "
+]
+[13Dec2024 22:21:29.261] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:29.262] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1007, z=1073200}"
+}
+[13Dec2024 22:21:29.262] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[13Dec2024 22:21:29.263] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[116, 2, 76, -99, 46, -25, 75, 72, 79, -50, -50]"
+]
+[13Dec2024 22:21:30.392] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:30.394] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=900, z=1073200}"
+}
+[13Dec2024 22:21:30.395] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[13Dec2024 22:21:30.395] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-15, 64, -19, 84, 89, 44, -69, 81, 1, 74, 14]"
+]
+[13Dec2024 22:21:33.307] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Dec2024 22:21:33.325] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Dec2024 22:21:33.325] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Dec2024 22:21:33.325] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Dec2024 22:21:33.326] [Worker-Main-49/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Dec2024 22:21:46.253] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:46.258] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=933, z=1122352}"
+}
+[13Dec2024 22:21:46.258] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 132 extra bytes: 
+[13Dec2024 22:21:46.259] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~RtTKIkzNV z6Dl#5YyjbV@r>Jk2+/,0/5#'<23.i"
+]
+[13Dec2024 22:21:47.577] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:47.578] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=768, z=905264}"
+}
+[13Dec2024 22:21:47.581] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 108 extra bytes: 
+[13Dec2024 22:21:47.581] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "kD<vkah=28fj<5+$@0/g'9,3"
+]
+[13Dec2024 22:21:47.582] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:47.584] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": 1.0765743788285808E22,
+  "f_134186_": -1.0097072989575987E17,
+  "f_134187_": -1.9411887893062E-299,
+  "f_134188_": 7.486278E-9,
+  "f_134189_": 3.066566E-5
+}
+[13Dec2024 22:21:47.586] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 106 extra bytes: 
+[13Dec2024 22:21:47.587] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "fj<5+$@0/g'9,3k#(/L23."
+]
+[13Dec2024 22:21:47.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:StatusOnly  id 23 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:47.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 0.0,
+  "f_134122_": 0.0,
+  "f_134123_": false,
+  "f_134124_": false,
+  "f_134125_": false
+}
+[13Dec2024 22:21:47.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 23 data of 104 extra bytes: 
+[13Dec2024 22:21:47.591] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "fj<5+$@0/g'9,3k#(/L23."
+]
+[13Dec2024 22:21:47.873] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:47.874] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=965, z=856112}"
+}
+[13Dec2024 22:21:47.874] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 68 extra bytes: 
+[13Dec2024 22:21:47.875] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#?nvm9ay~pN68,0+/$(k#'g"
+]
+[13Dec2024 22:21:47.875] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundContainerButtonClickPacket  id 10 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Dec2024 22:21:47.876] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133923_": -48,
+  "f_133924_": -80
+}
+[13Dec2024 22:21:47.878] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 10 data of 162 extra bytes: 
+[13Dec2024 22:21:47.879] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~pN68,0+/$(k#'g3=<5/p23.ip.gl.ply.gg#0."
+]
+[13Dec2024 22:23:09.267] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak]] from pos BlockPos{x=-3205, y=74, z=-1691}
+[13Dec2024 22:23:13.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4095ms or 81 ticks behind
+[13Dec2024 22:23:13.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -4.13958214444483,0.16610926093821377,9.203673871109686
+[13Dec2024 22:23:16.010] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3205, y=74, z=-1691} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Dec2024 22:23:16.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3205, y=74, z=-1691}
+[13Dec2024 22:24:55.121] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[13Dec2024 22:25:12.869] [pool-5-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry]] from pos BlockPos{x=-3269, y=75, z=-2053}
+[13Dec2024 22:25:14.834] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3269, y=75, z=-2054} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[13Dec2024 22:25:14.835] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3269, y=75, z=-2054}
+[13Dec2024 22:25:14.835] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3269, y=75, z=-2052} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[13Dec2024 22:25:14.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-3269, y=75, z=-2052}
+[13Dec2024 22:25:14.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3269, y=74, z=-2054} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[13Dec2024 22:25:14.838] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-3269, y=74, z=-2054}
+[13Dec2024 22:25:14.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3269, y=74, z=-2052} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[13Dec2024 22:25:14.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-3269, y=74, z=-2052}
+[13Dec2024 22:25:14.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3269, y=75, z=-2053} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[13Dec2024 22:25:14.849] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3269, y=75, z=-2053}
+[13Dec2024 22:26:22.093] [Server thread/WARN] [dev.gigaherz.eyes.EyesSpawningManager/]: WARNING: Unexpectedly long spawn cycle. It ran for 195.872ms!
+[13Dec2024 22:28:38.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZEUS_PHASMA_) moved too quickly! 4.238495663296362,0.0,-9.079762346622829
+[13Dec2024 22:28:41.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[13Dec2024 22:30:01.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[13Dec2024 22:31:22.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Disconnected
+[13Dec2024 22:31:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
