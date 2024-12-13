@@ -11565,3 +11565,97 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 07:18:29.824] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [13Dec2024 07:18:33.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
 [13Dec2024 07:18:33.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -10.17147267420205,0.5800000131130219,0.0387684801182786
+[13Dec2024 07:18:50.074] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[13Dec2024 07:18:50.106] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[13Dec2024 07:18:51.840] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[13Dec2024 07:18:55.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7527ms or 150 ticks behind
+[13Dec2024 07:19:06.495] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[13Dec2024 07:19:23.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 07:19:34.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2725, y=71, z=-1771} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Dec2024 07:19:34.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-2725, y=71, z=-1771}
+[13Dec2024 07:19:37.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 07:19:55.668] [pool-5-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch]] from pos BlockPos{x=-2907, y=74, z=-1797}
+[13Dec2024 07:19:55.835] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[13Dec2024 07:19:56.218] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 07:19:56.236] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[13Dec2024 07:19:56.254] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[13Dec2024 07:19:56.392] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[13Dec2024 07:19:56.439] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[13Dec2024 07:19:57.634] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[13Dec2024 07:20:04.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 07:20:32.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2907, y=74, z=-1797} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[13Dec2024 07:20:32.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-2907, y=74, z=-1797}
+[13Dec2024 07:20:33.299] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[13Dec2024 07:20:34.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 07:21:04.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [The Guling]
+[13Dec2024 07:21:16.968] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[13Dec2024 07:21:25.683] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[13Dec2024 07:21:26.706] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[13Dec2024 07:21:26.800] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[13Dec2024 07:21:26.836] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[13Dec2024 07:21:26.872] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[13Dec2024 07:21:26.889] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[13Dec2024 07:21:32.230] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[13Dec2024 07:21:32.598] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[13Dec2024 07:21:33.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
+[13Dec2024 07:21:33.593] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[13Dec2024 07:21:35.551] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[13Dec2024 07:21:35.840] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[13Dec2024 07:21:36.412] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[13Dec2024 07:21:36.422] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[13Dec2024 07:21:36.836] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[13Dec2024 07:21:36.850] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[13Dec2024 07:21:36.863] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[13Dec2024 07:21:36.876] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[13Dec2024 07:21:37.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -9.734873523681927,-0.5,2.379882528340204
+[13Dec2024 07:21:37.648] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[13Dec2024 07:21:39.387] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[13Dec2024 07:23:05.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:23:05.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:26:00.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Full Moon in a Pocket]
+[13Dec2024 07:27:29.845] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[13Dec2024 07:27:29.850] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[13Dec2024 07:27:30.596] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[13Dec2024 07:27:31.016] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[13Dec2024 07:27:31.033] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[13Dec2024 07:27:31.250] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[13Dec2024 07:27:31.517] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[13Dec2024 07:27:33.700] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[13Dec2024 07:27:33.701] [Worker-Main-74/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-3052, y=-27, z=-1882} at Coffin with:graveyard:chests/crypt_loot
+[13Dec2024 07:27:33.708] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[13Dec2024 07:27:34.588] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[13Dec2024 07:27:35.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[13Dec2024 07:27:42.107] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[13Dec2024 07:27:42.137] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[13Dec2024 07:27:42.189] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[13Dec2024 07:27:42.216] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[13Dec2024 07:27:42.235] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[13Dec2024 07:27:42.670] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[13Dec2024 07:27:42.683] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[13Dec2024 07:27:42.685] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[13Dec2024 07:27:42.688] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[13Dec2024 07:27:42.793] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[13Dec2024 07:27:42.901] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[13Dec2024 07:27:43.009] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[13Dec2024 07:27:43.272] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[13Dec2024 07:27:43.476] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[13Dec2024 07:27:44.122] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[13Dec2024 07:27:47.411] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[13Dec2024 07:27:47.855] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[13Dec2024 07:27:48.019] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[13Dec2024 07:27:48.041] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[13Dec2024 07:27:48.044] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[13Dec2024 07:27:49.331] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[13Dec2024 07:27:49.345] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[13Dec2024 07:27:49.440] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[13Dec2024 07:27:54.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
+[13Dec2024 07:28:11.732] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[13Dec2024 07:28:11.905] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[13Dec2024 07:28:12.253] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[13Dec2024 07:28:12.619] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[13Dec2024 07:28:13.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -0.9676768878734947,0.0,-10.05206915057056
+[13Dec2024 07:28:13.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[13Dec2024 07:28:14.489] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[13Dec2024 07:28:14.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:28:14.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:28:19.280] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
