@@ -883,3 +883,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 19:35:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
 [13Dec2024 19:36:13.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.11.21.44:52843] logged in with entity id 3163 at (-80.5, 63.0, -806.5)
 [13Dec2024 19:36:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[13Dec2024 19:43:42.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Dec2024 19:43:43.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4858, l='ServerLevel[world]', x=-202.50, y=51.00, z=-719.50]
+[13Dec2024 19:45:31.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:50325] logged in with entity id 5062 at (-80.21252585521052, 55.0, -826.1533647483822)
+[13Dec2024 19:45:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[13Dec2024 19:48:19.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 19:49:48.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5722, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
