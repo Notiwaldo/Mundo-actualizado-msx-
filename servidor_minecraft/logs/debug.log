@@ -17881,3 +17881,47 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 04:32:49.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
 [14Dec2024 04:34:08.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 04:34:08.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:37:59.413] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 04:37:59.416] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 04:38:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 burned to death
+[14Dec2024 04:38:09.416] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:-154, y:35, z:-234, dim:minecraft:the_nether]
+[14Dec2024 04:38:09.418] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 04:38:11.958] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 04:39:08.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:39:08.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:41:17.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[14Dec2024 04:41:50.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 04:43:28.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/211324, l='ServerLevel[world]', x=-74.63, y=-256.00, z=-835.31] died, message: 'Villager was killed'
+[14Dec2024 04:44:08.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:44:08.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:44:25.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[14Dec2024 04:44:25.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[14Dec2024 04:44:25.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[14Dec2024 04:44:25.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[14Dec2024 04:44:25.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[14Dec2024 04:44:25.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[14Dec2024 04:44:25.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[14Dec2024 04:44:25.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[14Dec2024 04:44:25.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[14Dec2024 04:44:25.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[14Dec2024 04:44:25.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[14Dec2024 04:44:25.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[14Dec2024 04:44:25.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[14Dec2024 04:44:25.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[14Dec2024 04:44:25.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[14Dec2024 04:44:25.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[14Dec2024 04:45:01.119] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[14Dec2024 04:45:01.125] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[14Dec2024 04:45:01.126] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[14Dec2024 04:45:01.128] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[14Dec2024 04:45:01.128] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[14Dec2024 04:45:01.129] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[14Dec2024 04:45:01.131] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[14Dec2024 04:45:01.133] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[14Dec2024 04:45:01.134] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[14Dec2024 04:45:01.136] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[14Dec2024 04:45:01.136] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[14Dec2024 04:45:10.850] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[14Dec2024 04:45:10.936] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[14Dec2024 04:46:24.863] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/nether_well
+[14Dec2024 04:47:10.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle
