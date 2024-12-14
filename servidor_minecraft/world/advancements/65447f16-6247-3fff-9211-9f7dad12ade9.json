@@ -6889,6 +6889,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 05:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-14 05:30:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2024-12-14 05:19:54 +0000"
@@ -6913,9 +6925,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-14 05:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-14 04:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 05:33:35 +0000"
     },
     "done": true
   },
