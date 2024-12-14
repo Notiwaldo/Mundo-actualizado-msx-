@@ -8892,9 +8892,21 @@
     },
     "done": true
   },
+  "ancient_elements:absolute_zero": {
+    "criteria": {
+      "absolute_zero": "2024-12-14 08:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-14 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-14 08:38:37 +0000"
     },
     "done": true
   },
