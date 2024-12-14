@@ -1367,6 +1367,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-09 05:04:37 +0000",
       "cooked_beef": "2024-12-09 05:52:20 +0000",
+      "baked_potato": "2024-12-14 06:20:30 +0000",
       "porkchop": "2024-12-11 05:49:39 +0000",
       "apple": "2024-12-11 04:08:02 +0000",
       "potato": "2024-12-10 05:45:36 +0000",
@@ -6135,7 +6136,8 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
-      "draugr": "2024-12-11 04:17:30 +0000"
+      "draugr": "2024-12-11 04:17:30 +0000",
+      "bluemoon_great": "2024-12-14 06:26:09 +0000"
     },
     "done": false
   },
@@ -7211,6 +7213,108 @@
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2024-12-14 05:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-14 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_greatsword": "2024-12-14 06:26:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-14 06:14:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-14 06:20:24 +0000"
     },
     "done": true
   },
