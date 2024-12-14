@@ -1943,3 +1943,72 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "u{}?L7=@L gK<+Wa*:;[*CQ8E&+/"
 ]
+[14Dec2024 04:06:57.487] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:57.489] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=885, z=1122352}"
+}
+[14Dec2024 04:06:57.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 62 extra bytes: 
+[14Dec2024 04:06:57.491] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "J^v4mguewYWk8( G%H!]x(\\O:"
+]
+[14Dec2024 04:06:57.492] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:57.493] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": -4.194313577098605E303,
+  "f_134186_": 2.6017265007208363E210,
+  "f_134187_": 8.72166320384779E-269,
+  "f_134188_": 3.5049676E-27,
+  "f_134189_": 1.1193031E18
+}
+[14Dec2024 04:06:57.498] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 151 extra bytes: 
+[14Dec2024 04:06:57.499] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(\\O:2+/,0/5#'<23.ip.gl.ply.gg"
+]
+[14Dec2024 04:06:57.499] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatPacket  id 5 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:57.568] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ServerboundChatPacket[message=�:��\u00002�+�/�,�0̨̩�\t�\u0013�\n�\u0014\u0000�\u0000�\u0000/\u00005�\u0012\u0000\n�#�'\u0000<�\u0007�\u0011\u0000\u0005\u0013\u0001\u0013\u0002\u0013\u0003\u0001\u0000\u0000�\u0000\u0000\u0000\u0014\u0000\u0012\u0000\u0000\u000f23.ip.gl.p, timeStamp=+247691596-05-11T14:06:10.176Z, salt=360569445166350346, signature=null, lastSeenMessages=Update[offset=10, acknowledged={11}]]"
+[14Dec2024 04:06:57.569] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 5 data of 99 extra bytes: 
+[14Dec2024 04:06:57.570] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& A;KUS&22]y1nDlRU"
+]
+[14Dec2024 04:06:57.571] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerActionPacket  id 29 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:57.575] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134267_": "BlockPos{x=6029408, y=-1280, z=102400}",
+  "f_134268_": "north",
+  "f_134269_": "START_DESTROY_BLOCK",
+  "f_237981_": 1
+}
+[14Dec2024 04:06:57.579] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 29 data of 87 extra bytes: 
+[14Dec2024 04:06:57.582] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& A;KUS&22]y1nDlRU"
+]
+[14Dec2024 04:06:58.028] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:58.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=945, z=905264}"
+}
+[14Dec2024 04:06:58.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[14Dec2024 04:06:58.032] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[65, -108, 2, 68, 75, -104, -77, -3, 113, 28, 86]"
+]
+[14Dec2024 04:06:58.324] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Dec2024 04:06:58.325] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=843, z=856112}"
+}
+[14Dec2024 04:06:58.326] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 37 extra bytes: 
+[14Dec2024 04:06:58.327] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5AIUp8,0"
+]
