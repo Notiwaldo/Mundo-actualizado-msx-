@@ -8010,6 +8010,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-14 05:38:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2024-12-14 05:13:06 +0000"
