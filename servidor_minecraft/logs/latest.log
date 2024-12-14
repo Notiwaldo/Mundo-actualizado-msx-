@@ -1614,3 +1614,17 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 03:11:55.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> puto adair hijo de la verga, ya exploro todo el cabron
 [14Dec2024 03:12:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> banealo
 [14Dec2024 03:13:44.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[14Dec2024 03:15:31.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14Dec2024 03:15:56.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10572ms or 211 ticks behind
+[14Dec2024 03:16:10.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[14Dec2024 03:16:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[14Dec2024 03:17:07.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notiwaldo_35[/127.114.115.247:57455] logged in with entity id 189886 at (-76.72683267300302, 64.0, -840.3884949414435)
+[14Dec2024 03:17:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 joined the game
+[14Dec2024 03:18:04.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 03:19:56.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 lost connection: Disconnected
+[14Dec2024 03:19:56.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 left the game
+[14Dec2024 03:23:15.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LilLeo8451[/127.11.21.44:59915] logged in with entity id 191077 at (-80.32032963039659, 64.0, -805.7257013161856)
+[14Dec2024 03:23:15.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 joined the game
+[14Dec2024 03:24:01.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/191181, l='ServerLevel[world]', x=-74.63, y=-256.00, z=-835.31] died, message: 'Villager was killed'
+[14Dec2024 03:25:17.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> ando minando con camas en el nether jajaja
+[14Dec2024 03:26:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> ahuevo, al cabo tenemos lana infinita
