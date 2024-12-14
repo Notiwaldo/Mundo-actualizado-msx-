@@ -18381,3 +18381,54 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 04:57:32.736] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
 [14Dec2024 04:57:32.870] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
 [14Dec2024 04:57:32.898] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[14Dec2024 04:59:08.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[14Dec2024 04:59:09.925] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[14Dec2024 04:59:09.938] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[14Dec2024 04:59:09.962] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[14Dec2024 04:59:10.068] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[14Dec2024 04:59:10.391] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[14Dec2024 04:59:12.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[14Dec2024 04:59:20.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:59:21.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:59:22.653] [Server thread/DEBUG] [ModernFix/]: Structure stalwart_dungeons:awful_dungeon is being run through DFU (hash ff93f06c1dc570003bb756524522d5e2c3003bac7b21db6a3118ad9a737e2397), this will cause launch time delays
+[14Dec2024 04:59:27.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[14Dec2024 04:59:27.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[14Dec2024 04:59:27.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[14Dec2024 04:59:27.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[14Dec2024 04:59:29.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[14Dec2024 04:59:57.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 04:59:57.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 05:00:32.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14Dec2024 05:00:39.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle
+[14Dec2024 05:00:45.126] [Worker-Main-403/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-428, y=40, z=-955} at Chest with:minecraft:chests/bastion_other
+[14Dec2024 05:00:52.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14Dec2024 05:01:17.906] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 05:01:18.033] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 05:01:38.778] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[14Dec2024 05:01:38.788] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[14Dec2024 05:02:33.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[14Dec2024 05:02:33.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[14Dec2024 05:04:26.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:04:26.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:05:20.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/220461, l='ServerLevel[world]', x=-192.88, y=56.00, z=-792.86] died: Headless Warrior was slain by LilLeo8451
+[14Dec2024 05:06:23.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/220784, l='ServerLevel[world]', x=-199.65, y=57.00, z=-752.41] died: Desert Blaze was slain by LilLeo8451
+[14Dec2024 05:06:23.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14Dec2024 05:06:29.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[14Dec2024 05:06:29.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[14Dec2024 05:06:29.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[14Dec2024 05:06:29.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[14Dec2024 05:06:29.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[14Dec2024 05:06:29.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[14Dec2024 05:06:29.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[14Dec2024 05:06:29.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[14Dec2024 05:06:29.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[14Dec2024 05:06:29.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[14Dec2024 05:06:29.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[14Dec2024 05:06:29.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[14Dec2024 05:06:29.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[14Dec2024 05:06:29.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[14Dec2024 05:06:29.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[14Dec2024 05:06:29.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[14Dec2024 05:06:55.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/221065, l='ServerLevel[world]', x=-189.22, y=57.00, z=-766.26] died: Headless Warrior was slain by LilLeo8451
+[14Dec2024 05:06:56.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/221064, l='ServerLevel[world]', x=-188.75, y=57.00, z=-766.44] died: Headless Warrior was slain by LilLeo8451
+[14Dec2024 05:07:00.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/221063, l='ServerLevel[world]', x=-183.08, y=57.00, z=-768.93] died: Headless Warrior was slain by LilLeo8451
