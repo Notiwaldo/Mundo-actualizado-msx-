@@ -2015,3 +2015,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 04:24:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> como haces las herramientas de nederita?
 [14Dec2024 04:25:43.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14Dec2024 04:25:43.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 04:32:06.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/208086, l='ServerLevel[world]', x=-4.06, y=77.22, z=-104.25] died: Desert Blaze was slain by LilLeo8451
