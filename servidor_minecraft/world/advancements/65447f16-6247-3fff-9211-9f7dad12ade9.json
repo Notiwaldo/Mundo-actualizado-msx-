@@ -6872,21 +6872,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+      "has_item": "2024-12-14 04:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+      "wither_skull": "2024-12-14 04:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-14 05:43:31 +0000"
+      "has_wither_skeleton_skull": "2024-12-14 04:53:52 +0000"
     },
     "done": true
   },
@@ -6896,9 +6896,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_item": "2024-12-14 05:42:41 +0000"
+      "has_blaze_powder": "2024-12-14 05:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-14 05:19:45 +0000"
     },
     "done": true
   },
@@ -6908,15 +6914,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+  "securitycraft:recipes/misc/protecto": {
     "criteria": {
-      "has_item": "2024-12-14 05:42:41 +0000"
+      "has_ender_eye": "2024-12-14 05:19:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+      "has_ender_eye": "2024-12-14 05:19:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 05:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-14 05:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-14 05:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 05:33:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-12-14 05:36:46 +0000"
     },
     "done": true
   },
@@ -6932,117 +6968,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-14 05:19:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-14 05:30:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-14 05:30:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2024-12-14 05:36:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/protecto": {
-    "criteria": {
-      "has_ender_eye": "2024-12-14 05:19:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-14 05:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-14 05:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_wabbajack": {
-    "criteria": {
-      "has_item": "2024-12-14 04:53:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-14 05:40:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-12-14 05:19:54 +0000"
     },
     "done": true
   },
@@ -7052,15 +6980,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-14 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-14 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-14 05:40:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 05:42:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
     },
     "done": true
   },
@@ -7079,6 +7049,84 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
     },
     "done": true
   },
@@ -7118,12 +7166,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
@@ -7136,51 +7178,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2024-12-14 05:33:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-14 04:53:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-14 05:40:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2024-12-14 05:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-14 05:33:35 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2024-12-14 05:44:33 +0000"
     },
     "done": true
   },
@@ -7190,27 +7190,27 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-14 05:42:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 05:42:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-14 05:40:09 +0000"
+      "has_smithing_trim_template": "2024-12-14 05:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-14 04:53:52 +0000"
+      "has_eye_armor_trim_smithing_template": "2024-12-14 05:43:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-14 05:44:33 +0000"
     },
     "done": true
   },

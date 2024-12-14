@@ -8402,6 +8402,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-14 06:02:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/hunter_pistol": {
     "criteria": {
       "has_lost_soul": "2024-12-14 05:24:37 +0000"
@@ -8411,6 +8417,12 @@
   "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
@@ -8459,6 +8471,12 @@
   "soulsweapons:recipes/combat/soul_ingot_boots": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
@@ -8609,6 +8627,12 @@
   "soulsweapons:recipes/decorations/soul_lamp": {
     "criteria": {
       "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
