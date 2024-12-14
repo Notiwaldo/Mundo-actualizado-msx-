@@ -7884,11 +7884,29 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-14 02:20:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-14 02:20:56 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2024-12-14 02:01:51 +0000"
     },
     "done": false
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-14 02:20:56 +0000"
+    },
+    "done": true
   },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
