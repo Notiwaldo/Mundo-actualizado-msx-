@@ -1509,3 +1509,37 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 08:29:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
 [14Dec2024 08:29:38.240] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [14Dec2024 08:29:43.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[14Dec2024 08:30:02.108] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:30:02.112] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:30:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
+[14Dec2024 08:30:08.546] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:30:12.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[14Dec2024 08:30:28.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has completed the challenge [Was that a Shulker?]
+[14Dec2024 08:32:14.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved too quickly! -7.424823417753942,-16.0,-0.8474244892727825
+[14Dec2024 08:32:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> xaero-waypoint:ciudad:C:-1826:63:390:8:false:0:Internal-the-end-waypoints
+[14Dec2024 08:33:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [The City at the End of the Game]
+[14Dec2024 08:34:13.224] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 08:34:13.234] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:34:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Shulker
+[14Dec2024 08:34:27.196] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:34:32.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14Dec2024 08:35:09.988] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 08:35:10.005] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:35:11.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was struck by lightning
+[14Dec2024 08:35:12.010] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:35:15.619] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:35:17.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[14Dec2024 08:35:55.392] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 08:35:55.416] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:35:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 went up in flames
+[14Dec2024 08:35:58.778] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:36:02.076] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:36:02.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[14Dec2024 08:36:25.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[14Dec2024 08:36:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[14Dec2024 08:38:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [The City at the End of the Game]
+[14Dec2024 08:39:13.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/50998, l='ServerLevel[world]', x=-1864.64, y=62.00, z=438.84] died: Agizahr the Archmage was slain by ZEUS_PHASMA_
+[14Dec2024 08:39:36.932] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 08:39:36.936] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:39:44.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was doomed to fall by Aetherial Glaze
+[14Dec2024 08:39:45.628] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -505,6 +505,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-09 04:05:23 +0000",
+      "chorus_fruit": "2024-12-14 08:32:08 +0000",
       "baked_potato": "2024-12-09 04:08:23 +0000",
       "apple": "2024-12-09 05:15:37 +0000",
       "potato": "2024-12-09 04:08:25 +0000",
@@ -8840,6 +8841,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-14 08:20:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2024-12-14 08:30:28 +0000"
     },
     "done": true
   },
