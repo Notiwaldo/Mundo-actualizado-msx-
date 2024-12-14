@@ -1475,3 +1475,37 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 08:16:55.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> xaero-waypoint:Shared Location:S:-2109:54:291:13:false:0:Internal-the-end-waypoints
 [14Dec2024 08:17:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Gravedigger]
 [14Dec2024 08:17:34.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [A Ruined Citadel]
+[14Dec2024 08:19:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> xaero-waypoint:Shared Location:S:-1774:135:132:10:false:0:Internal-the-end-waypoints
+[14Dec2024 08:20:20.827] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:20:20.837] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:20:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Kali the Old using magic
+[14Dec2024 08:20:28.450] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:20:32.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 08:22:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Palette Swap]
+[14Dec2024 08:23:53.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Kali the Old'/40584, l='ServerLevel[world]', x=-2075.50, y=61.00, z=251.50] died: Kali the Old was slain by ZEUS_PHASMA_
+[14Dec2024 08:24:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Hunt and Gather]
+[14Dec2024 08:25:37.577] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:25:37.613] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:25:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Golem using magic
+[14Dec2024 08:25:57.329] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:26:01.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[14Dec2024 08:27:41.629] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:27:41.892] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:27:47.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Ender Guardian
+[14Dec2024 08:27:48.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:27:54.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[14Dec2024 08:28:30.575] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:28:30.644] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:28:36.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
+[14Dec2024 08:28:37.695] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:28:43.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[14Dec2024 08:29:00.770] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:29:00.785] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:29:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Ender Guardian
+[14Dec2024 08:29:08.441] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:29:12.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[14Dec2024 08:29:31.275] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:29:31.279] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:29:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
+[14Dec2024 08:29:38.240] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:29:43.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind

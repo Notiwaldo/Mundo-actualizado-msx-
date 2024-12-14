@@ -8356,6 +8356,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-12-14 08:17:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2024-12-14 08:11:04 +0000"

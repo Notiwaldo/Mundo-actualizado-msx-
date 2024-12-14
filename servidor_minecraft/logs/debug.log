@@ -10204,3 +10204,103 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 08:17:48.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ancient_elements:ceiling_selenite_crystal_2
 [14Dec2024 08:19:01.487] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:sunzi_gate
 [14Dec2024 08:19:01.670] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[14Dec2024 08:19:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> xaero-waypoint:Shared Location:S:-1774:135:132:10:false:0:Internal-the-end-waypoints
+[14Dec2024 08:20:20.827] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:20:20.837] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:20:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Kali the Old using magic
+[14Dec2024 08:20:26.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2069, y:48, z:263, dim:minecraft:the_end]
+[14Dec2024 08:20:28.450] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:20:28.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[14Dec2024 08:20:29.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[14Dec2024 08:20:29.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 08:20:30.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 08:20:30.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[14Dec2024 08:20:30.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Dec2024 08:20:30.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[14Dec2024 08:20:30.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[14Dec2024 08:20:30.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[14Dec2024 08:20:30.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[14Dec2024 08:20:30.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[14Dec2024 08:20:32.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 08:20:38.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 08:20:38.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 08:22:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Palette Swap]
+[14Dec2024 08:22:49.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:shell_globe
+[14Dec2024 08:23:53.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Kali the Old'/40584, l='ServerLevel[world]', x=-2075.50, y=61.00, z=251.50] died: Kali the Old was slain by ZEUS_PHASMA_
+[14Dec2024 08:24:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Hunt and Gather]
+[14Dec2024 08:25:37.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 08:25:37.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 08:25:37.577] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:25:37.613] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:25:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Golem using magic
+[14Dec2024 08:25:56.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2082, y:47, z:280, dim:minecraft:the_end]
+[14Dec2024 08:25:57.329] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:26:00.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 08:26:01.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[14Dec2024 08:27:05.048] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[14Dec2024 08:27:41.629] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:27:41.892] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:27:47.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Ender Guardian
+[14Dec2024 08:27:47.710] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2058, y:39, z:277, dim:minecraft:the_end]
+[14Dec2024 08:27:48.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 08:27:48.960] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:27:49.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[14Dec2024 08:27:49.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[14Dec2024 08:27:49.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[14Dec2024 08:27:49.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 08:27:54.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[14Dec2024 08:28:02.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[14Dec2024 08:28:30.575] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:28:30.644] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:28:36.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
+[14Dec2024 08:28:36.576] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2074, y:39, z:276, dim:minecraft:the_end]
+[14Dec2024 08:28:37.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 08:28:37.695] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:28:43.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[14Dec2024 08:29:00.770] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:29:00.785] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:29:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was slain by Ender Guardian
+[14Dec2024 08:29:07.175] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2075, y:39, z:276, dim:minecraft:the_end]
+[14Dec2024 08:29:08.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 08:29:08.441] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:29:08.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[14Dec2024 08:29:08.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[14Dec2024 08:29:08.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Dec2024 08:29:08.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 08:29:08.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[14Dec2024 08:29:09.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 08:29:09.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 08:29:09.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[14Dec2024 08:29:10.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Dec2024 08:29:10.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[14Dec2024 08:29:10.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[14Dec2024 08:29:10.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[14Dec2024 08:29:10.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[14Dec2024 08:29:10.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[14Dec2024 08:29:11.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 08:29:12.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[14Dec2024 08:29:14.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[14Dec2024 08:29:31.275] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 08:29:31.279] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 08:29:34.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[14Dec2024 08:29:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was killed by Ender Guardian using magic
+[14Dec2024 08:29:36.627] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZEUS_PHASMA_ was created at position [x:-2070, y:31, z:271, dim:minecraft:the_end]
+[14Dec2024 08:29:37.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[14Dec2024 08:29:37.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[14Dec2024 08:29:38.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[14Dec2024 08:29:38.240] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:29:38.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[14Dec2024 08:29:38.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[14Dec2024 08:29:38.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Dec2024 08:29:38.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[14Dec2024 08:29:41.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 08:29:41.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[14Dec2024 08:29:41.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Dec2024 08:29:41.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[14Dec2024 08:29:41.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[14Dec2024 08:29:41.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[14Dec2024 08:29:41.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[14Dec2024 08:29:41.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[14Dec2024 08:29:41.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[14Dec2024 08:29:43.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 08:29:43.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind

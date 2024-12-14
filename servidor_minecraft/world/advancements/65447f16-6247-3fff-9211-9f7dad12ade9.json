@@ -7685,6 +7685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 07:49:36 +0000"
@@ -7715,6 +7721,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2024-12-14 07:49:36 +0000"
@@ -7724,6 +7742,12 @@
   "soulsweapons:gatling_gun": {
     "criteria": {
       "weapon": "2024-12-14 07:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
     },
     "done": true
   },
@@ -7742,6 +7766,12 @@
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2024-12-14 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
     },
     "done": true
   },
@@ -7802,6 +7832,12 @@
   "soulsweapons:recipes/decorations/soul_lamp": {
     "criteria": {
       "has_item": "2024-12-14 07:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:46 +0000"
     },
     "done": true
   },

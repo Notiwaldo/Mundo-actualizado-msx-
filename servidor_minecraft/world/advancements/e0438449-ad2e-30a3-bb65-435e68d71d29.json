@@ -387,6 +387,7 @@
       "minecraft:witch": "2024-12-09 06:49:58 +0000",
       "minecraft:wither_skeleton": "2024-12-11 05:21:02 +0000",
       "minecraft:husk": "2024-12-10 06:14:23 +0000",
+      "minecraft:shulker": "2024-12-14 08:17:09 +0000",
       "minecraft:cave_spider": "2024-12-09 21:50:07 +0000",
       "minecraft:piglin": "2024-12-11 04:46:51 +0000",
       "minecraft:stray": "2024-12-09 21:34:07 +0000",
@@ -8812,15 +8813,63 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-12-14 08:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-12-14 08:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-14 08:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-14 07:55:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-14 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
     },
     "done": true
   },
@@ -8839,6 +8888,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-14 07:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-14 08:20:04 +0000"
     },
     "done": true
   },
