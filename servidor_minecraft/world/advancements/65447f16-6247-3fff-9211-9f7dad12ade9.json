@@ -6681,15 +6681,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "ancient_elements:cosmic_discoverer": {
     "criteria": {
-      "has_log": "2024-12-13 23:46:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-14 00:23:44 +0000"
+      "cosmic_discoverer": "2024-12-13 22:53:38 +0000"
     },
     "done": true
   },
@@ -6699,21 +6693,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-14 00:23:44 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2024-12-13 23:00:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-14 00:00:15 +0000"
     },
     "done": true
   },
@@ -6729,18 +6711,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2024-12-14 00:02:24 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:cosmic_discoverer": {
-    "criteria": {
-      "cosmic_discoverer": "2024-12-13 22:53:38 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-13 23:30:13 +0000"
@@ -6753,9 +6723,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:46:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-13 23:59:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-13 23:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-14 00:00:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-14 00:02:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-14 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-14 00:23:44 +0000"
     },
     "done": true
   },
@@ -6765,11 +6771,77 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_backpack": "2024-12-13 23:59:04 +0000"
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 00:48:37 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

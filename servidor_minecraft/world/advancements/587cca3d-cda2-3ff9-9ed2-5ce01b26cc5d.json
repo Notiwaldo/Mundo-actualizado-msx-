@@ -7755,6 +7755,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2024-12-14 00:39:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-13 23:40:46 +0000"
