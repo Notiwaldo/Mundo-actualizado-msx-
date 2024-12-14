@@ -136,6 +136,7 @@
       "withered_abyss": "2024-12-11 04:47:11 +0000",
       "orchard": "2024-12-10 00:43:53 +0000",
       "coniferous_forest": "2024-12-11 03:30:46 +0000",
+      "dryland": "2024-12-14 00:03:55 +0000",
       "redwood_forest": "2024-12-09 05:27:59 +0000",
       "pasture": "2024-12-11 03:32:00 +0000",
       "fir_clearing": "2024-12-11 04:15:59 +0000",
@@ -1211,6 +1212,7 @@
       "minecraft:cold_ocean": "2024-12-11 03:30:12 +0000",
       "minecraft:forest": "2024-12-08 22:38:14 +0000",
       "minecraft:deep_cold_ocean": "2024-12-11 03:28:06 +0000",
+      "minecraft:desert": "2024-12-14 00:04:24 +0000",
       "minecraft:ocean": "2024-12-11 03:27:34 +0000",
       "minecraft:savanna": "2024-12-08 22:39:59 +0000",
       "minecraft:plains": "2024-12-11 03:36:31 +0000"
@@ -7762,6 +7764,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-13 23:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-14 00:05:22 +0000"
     },
     "done": true
   },
