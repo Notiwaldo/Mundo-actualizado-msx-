@@ -6136,6 +6136,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "lich_bane": "2024-12-14 07:56:29 +0000",
       "draugr": "2024-12-11 04:17:30 +0000",
       "bluemoon_great": "2024-12-14 06:26:09 +0000"
     },

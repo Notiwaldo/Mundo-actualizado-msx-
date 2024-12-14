@@ -765,3 +765,115 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:55:33.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7029ms or 140 ticks behind
 [14Dec2024 07:56:10.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [14Dec2024 07:56:19.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19096, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'
+[14Dec2024 07:57:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has completed the challenge [Great View From Up Here]
+[14Dec2024 07:57:47.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14Dec2024 07:57:49.032] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 07:57:49.153] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 07:57:55.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 0.29563886658115734
+[14Dec2024 07:57:55.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ fell from a high place
+[14Dec2024 07:57:55.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 0.4158173606838318
+[14Dec2024 07:57:55.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 1.5920827840013771
+[14Dec2024 07:57:55.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 1.5920827840013771
+[14Dec2024 07:57:55.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 1.2556839846142793
+[14Dec2024 07:57:55.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 0.8815175253255347
+[14Dec2024 07:57:55.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 0.5444173717330614
+[14Dec2024 07:57:55.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 1.5250361344217254
+[14Dec2024 07:57:55.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved wrongly! 1.5250361344217254
+[14Dec2024 07:57:57.006] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 07:57:58.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.376290872803793,0.0,7.849670686150489
+[14Dec2024 07:57:58.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.584556681846379,0.0,8.187558737155598
+[14Dec2024 07:57:58.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.79187178534994,0.0,8.526370352939978
+[14Dec2024 07:57:58.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -6.997631757994441,0.0,8.866404447969018
+[14Dec2024 07:57:58.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.201356313882343,0.0,9.20787869585294
+[14Dec2024 07:57:58.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.402672306761133,0.0,9.55094482089288
+[14Dec2024 07:57:58.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.601294429262225,0.0,9.895703288069058
+[14Dec2024 07:57:58.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.79701774217483,0.0,10.24221079080823
+[14Dec2024 07:57:58.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! -7.989703775884891,0.0,10.590489944129331
+[14Dec2024 07:58:02.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.2941457989979881,0.0,10.083245439138409
+[14Dec2024 07:58:02.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.38827368004376694,0.0,10.467560429778047
+[14Dec2024 07:58:02.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.48547411936033313,0.0,10.851444242519875
+[14Dec2024 07:58:02.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.5855199873851689,0.0,11.234913567954578
+[14Dec2024 07:58:02.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.6881995342830578,0.0,11.617985681414012
+[14Dec2024 07:58:02.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.7933148668751073,0.0,12.00067843292581
+[14Dec2024 07:58:02.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 0.9006805732165049,0.0,12.38301022327147
+[14Dec2024 07:58:02.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.0107853004747085,0.0,12.764769293836792
+[14Dec2024 07:58:02.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.1246431777205999,0.0,13.145526766229523
+[14Dec2024 07:58:02.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.2430228575988167,0.0,13.524907751271911
+[14Dec2024 07:58:02.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.366489761898947,0.0,13.902591765256204
+[14Dec2024 07:58:02.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.4954366789963842,0.0,14.278313596312785
+[14Dec2024 07:58:02.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.6301211754307587,0.0,14.651856905507117
+[14Dec2024 07:58:02.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.7706850152271727,0.0,15.023053485793127
+[14Dec2024 07:58:11.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [Material From Space]
+[14Dec2024 07:58:19.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16906ms or 338 ticks behind
+[14Dec2024 07:58:42.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[14Dec2024 07:59:00.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Who is Cutting Onions?]
+[14Dec2024 08:00:50.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[14Dec2024 08:00:51.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.841281977808194,0.0,10.22703086191325
+[14Dec2024 08:00:51.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.9048090835647145,0.0,10.621873210974115
+[14Dec2024 08:00:51.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.9681105236522853,0.0,11.016758683515604
+[14Dec2024 08:00:51.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.031205074625632,0.0,11.411683552059174
+[14Dec2024 08:00:51.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.094109635849918,0.0,11.806644465599561
+[14Dec2024 08:00:51.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.156839416752746,0.0,12.2016384082321
+[14Dec2024 08:00:51.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.2194081058189568,0.0,12.596662661917378
+[14Dec2024 08:00:51.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.281828021753199,0.0,12.991714784145245
+[14Dec2024 08:00:51.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.3441102518549997,0.0,13.38679257293137
+[14Dec2024 08:00:51.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.4062685647108992,0.0,13.78189346161929
+[14Dec2024 08:00:51.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.4683115620312037,0.0,14.177015725088836
+[14Dec2024 08:00:51.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.530250775372224,0.0,14.57215722586136
+[14Dec2024 08:00:51.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.5920927931172173,0.0,14.967316625076705
+[14Dec2024 08:00:51.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.653847334828015,0.0,15.362492132890111
+[14Dec2024 08:00:51.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.715523148110151,0.0,15.757682138441453
+[14Dec2024 08:00:51.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.777124315325409,0.0,16.152885776827134
+[14Dec2024 08:00:51.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.8386583010824324,0.0,16.548101684763367
+[14Dec2024 08:00:51.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.9001318235284543,0.0,16.943328635294847
+[14Dec2024 08:00:51.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 2.9615509289960755,0.0,17.338565524161766
+[14Dec2024 08:00:51.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.0229172691672375,0.0,17.733811942400905
+[14Dec2024 08:00:51.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.084236120572996,0.0,18.129066937074867
+[14Dec2024 08:00:51.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.145512232090823,0.0,18.524329650539926
+[14Dec2024 08:00:51.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.2067498777105357,0.0,18.919599310916794
+[14Dec2024 08:00:51.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.267952904022877,0.0,19.31487522351415
+[14Dec2024 08:00:51.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.3291247729594033,0.0,19.71015676310975
+[14Dec2024 08:00:51.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.390264809775772,0.0,20.105443951874236
+[14Dec2024 08:00:51.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.451376197684567,0.0,20.500736224890602
+[14Dec2024 08:00:51.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.512461801577274,0.0,20.89603307373352
+[14Dec2024 08:00:51.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.573524199856138,0.0,21.29133404082023
+[14Dec2024 08:00:51.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.6345657130830205,0.0,21.68663871432625
+[14Dec2024 08:00:51.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.695588429763575,0.0,22.08194672360952
+[14Dec2024 08:00:51.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.756594229553002,0.0,22.47725773509228
+[14Dec2024 08:00:51.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.817584804140779,0.0,22.872571448554538
+[14Dec2024 08:00:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.8785616760474113,0.0,23.267887593798207
+[14Dec2024 08:00:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.939526215541264,0.0,23.66320592764515
+[14Dec2024 08:00:51.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.000479655864183,0.0,24.058526231234964
+[14Dec2024 08:00:51.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.061423106933262,0.0,24.45384830759332
+[14Dec2024 08:00:51.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.122357567674271,0.0,24.849171979443327
+[14Dec2024 08:00:51.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.183283937119995,0.0,25.244497087235743
+[14Dec2024 08:00:51.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.244203024400349,0.0,25.63982348737636
+[14Dec2024 08:00:51.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.3051155577320515,0.0,26.035151050630247
+[14Dec2024 08:00:51.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.366022192510172,0.0,26.430479660686103
+[14Dec2024 08:00:51.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.4269235185900015,0.0,26.825809212863703
+[14Dec2024 08:00:51.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.487820066841778,0.0,27.22113961295082
+[14Dec2024 08:00:51.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.548712315048306,0.0,27.61647077615652
+[14Dec2024 08:00:51.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.609600693214134,0.0,28.0118026261689
+[14Dec2024 08:00:51.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.670481798326136,0.0,28.407135675452594
+[14Dec2024 08:00:51.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.731356357689947,0.0,28.80246980408043
+[14Dec2024 08:00:51.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.792225025880725,0.0,29.19780490411796
+[14Dec2024 08:00:51.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.853088392015707,0.0,29.59314087842415
+[14Dec2024 08:00:51.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.9139469863007434,0.0,29.98847763957218
+[14Dec2024 08:00:51.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 4.974801285920876,0.0,30.383815108877798
+[14Dec2024 08:00:52.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 3.2581433767995804,0.0,20.94691744168864
+[14Dec2024 08:00:58.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.5969728156323981,0.0,10.276501058004953
+[14Dec2024 08:00:58.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Notiwaldo_35) moved too quickly! 1.6583948510358368,0.0,10.671751098076072
+[14Dec2024 08:06:02.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 08:06:02.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 08:06:02.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 08:06:02.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 08:06:02.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Dec2024 08:07:08.046] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 08:07:08.052] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 08:07:14.954] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[14Dec2024 08:07:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 fell from a high place
+[14Dec2024 08:07:21.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[14Dec2024 08:07:22.330] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 08:07:42.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5656ms or 113 ticks behind
+[14Dec2024 08:07:59.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14Dec2024 08:08:18.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
