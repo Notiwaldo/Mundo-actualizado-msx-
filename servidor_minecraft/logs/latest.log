@@ -2706,3 +2706,14 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 07:01:08.808] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
 [14Dec2024 07:01:28.501] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
 [14Dec2024 07:01:28.509] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 07:08:28.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Remote Getaway]
+[14Dec2024 07:08:28.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
+[14Dec2024 07:08:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Remote Getaway]
+[14Dec2024 07:08:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Remote Getaway]
+[14Dec2024 07:09:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> xaero-waypoint:portal a casa:P:-989:57:7:0:false:0:Internal-the-end-waypoints
+[14Dec2024 07:10:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Ender Distancing]
+[14Dec2024 07:10:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Capsid-19]
+[14Dec2024 07:11:11.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Ender Distancing]
+[14Dec2024 07:11:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Capsid-19]
+[14Dec2024 07:11:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Capsid-19]
+[14Dec2024 07:11:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Ender Distancing]

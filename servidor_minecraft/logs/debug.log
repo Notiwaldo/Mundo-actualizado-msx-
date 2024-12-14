@@ -19721,3 +19721,52 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 07:01:08.808] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
 [14Dec2024 07:01:28.501] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
 [14Dec2024 07:01:28.509] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 07:05:52.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:05:52.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:08:22.671] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[14Dec2024 07:08:22.716] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[14Dec2024 07:08:22.725] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[14Dec2024 07:08:22.728] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[14Dec2024 07:08:22.729] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[14Dec2024 07:08:22.731] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[14Dec2024 07:08:22.736] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[14Dec2024 07:08:22.757] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[14Dec2024 07:08:22.898] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[14Dec2024 07:08:22.926] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[14Dec2024 07:08:22.946] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[14Dec2024 07:08:23.030] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[14Dec2024 07:08:23.104] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[14Dec2024 07:08:23.125] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[14Dec2024 07:08:23.143] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[14Dec2024 07:08:23.158] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[14Dec2024 07:08:23.246] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[14Dec2024 07:08:23.325] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Dec2024 07:08:25.980] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[14Dec2024 07:08:26.346] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[14Dec2024 07:08:26.370] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[14Dec2024 07:08:26.375] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[14Dec2024 07:08:26.378] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[14Dec2024 07:08:26.379] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[14Dec2024 07:08:26.569] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[14Dec2024 07:08:26.586] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[14Dec2024 07:08:27.835] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[14Dec2024 07:08:27.851] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[14Dec2024 07:08:27.936] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[14Dec2024 07:08:28.450] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/end_scraps/end_scraps_1
+[14Dec2024 07:08:28.474] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/end_scraps/end_scraps_3
+[14Dec2024 07:08:28.478] [Worker-Main-389/DEBUG] [ModernFix/]: Structure mvs:other_decoration/end_scraps/end_scraps_4 is being run through DFU (hash f36bccf804bdb1322bb16e33cbfbf8f5739a0470eb7671c26dd07f0720bbea79), this will cause launch time delays
+[14Dec2024 07:08:28.528] [Worker-Main-389/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/end_well
+[14Dec2024 07:08:28.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Remote Getaway]
+[14Dec2024 07:08:28.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6006ms or 120 ticks behind
+[14Dec2024 07:08:28.841] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/end_scraps/end_scraps_2
+[14Dec2024 07:08:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Remote Getaway]
+[14Dec2024 07:08:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Remote Getaway]
+[14Dec2024 07:09:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> xaero-waypoint:portal a casa:P:-989:57:7:0:false:0:Internal-the-end-waypoints
+[14Dec2024 07:10:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Ender Distancing]
+[14Dec2024 07:10:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Capsid-19]
+[14Dec2024 07:10:58.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:10:58.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:11:11.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Ender Distancing]
+[14Dec2024 07:11:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Capsid-19]
+[14Dec2024 07:11:13.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Capsid-19]
+[14Dec2024 07:11:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Ender Distancing]
