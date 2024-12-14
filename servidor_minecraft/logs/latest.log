@@ -744,3 +744,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:42:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [A new Hunter in Town]
 [14Dec2024 07:43:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Doomsday]
 [14Dec2024 07:43:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Doomsday]
+[14Dec2024 07:47:30.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[14Dec2024 07:47:49.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 07:47:49.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 07:48:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Big Boy]
+[14Dec2024 07:48:53.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[14Dec2024 07:50:01.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 07:51:57.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14Dec2024 07:53:57.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[14Dec2024 07:54:23.228] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 07:54:23.238] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 07:54:35.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Disconnected
+[14Dec2024 07:54:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
+[14Dec2024 07:54:35.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ was shot by Propulk
+[14Dec2024 07:54:53.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUS_PHASMA_[/127.173.55.174:53097] logged in with entity id 16123 at (-2116.300000011921, 76.43735723148322, -246.30000001192093)
+[14Dec2024 07:54:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ joined the game
+[14Dec2024 07:55:04.504] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 07:55:11.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[14Dec2024 07:55:18.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! 9.883473928740841,0.2987031463477763,3.4623677971532345
+[14Dec2024 07:55:33.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7029ms or 140 ticks behind
+[14Dec2024 07:56:10.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14Dec2024 07:56:19.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19096, l='ServerLevel[world]', x=-79.65, y=-256.00, z=-837.95] died, message: 'Villager was killed'

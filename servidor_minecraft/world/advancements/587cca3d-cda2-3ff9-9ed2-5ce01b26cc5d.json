@@ -141,7 +141,8 @@
       "redwood_forest": "2024-12-09 05:27:59 +0000",
       "pasture": "2024-12-11 03:32:00 +0000",
       "fir_clearing": "2024-12-11 04:15:59 +0000",
-      "prairie": "2024-12-11 03:30:57 +0000"
+      "prairie": "2024-12-11 03:30:57 +0000",
+      "grassland": "2024-12-14 07:47:56 +0000"
     },
     "done": false
   },
@@ -1210,6 +1211,7 @@
       "minecraft:cherry_grove": "2024-12-11 03:42:54 +0000",
       "minecraft:savanna_plateau": "2024-12-08 22:42:06 +0000",
       "minecraft:beach": "2024-12-09 08:20:04 +0000",
+      "minecraft:sparse_jungle": "2024-12-14 07:47:31 +0000",
       "minecraft:river": "2024-12-08 22:38:08 +0000",
       "minecraft:lukewarm_ocean": "2024-12-10 20:19:17 +0000",
       "minecraft:stony_shore": "2024-12-11 03:36:13 +0000",
@@ -1219,6 +1221,7 @@
       "minecraft:desert": "2024-12-14 00:04:24 +0000",
       "minecraft:ocean": "2024-12-11 03:27:34 +0000",
       "minecraft:warm_ocean": "2024-12-14 06:12:02 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-14 07:47:30 +0000",
       "minecraft:meadow": "2024-12-14 01:57:36 +0000",
       "minecraft:savanna": "2024-12-08 22:39:59 +0000",
       "minecraft:plains": "2024-12-11 03:36:31 +0000"
@@ -8276,6 +8279,12 @@
   "simplyswords:hearthflame": {
     "criteria": {
       "requirement": "2024-12-14 07:18:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-14 07:48:26 +0000"
     },
     "done": true
   },

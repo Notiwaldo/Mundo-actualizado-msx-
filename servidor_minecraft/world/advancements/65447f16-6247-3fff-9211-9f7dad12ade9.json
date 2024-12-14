@@ -7642,6 +7642,30 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:blunderbuss": {
     "criteria": {
       "weapon": "2024-12-14 07:43:32 +0000"
@@ -7654,15 +7678,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
       "has_lost_soul": "2024-12-14 07:38:09 +0000"
     },
     "done": true
   },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:gatling_gun": {
     "criteria": {
       "weapon": "2024-12-14 07:39:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
     },
     "done": true
   },
@@ -7702,6 +7750,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
     "criteria": {
       "has_item": "2024-12-14 07:38:09 +0000"
@@ -7723,6 +7777,12 @@
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2024-12-14 07:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-14 07:49:36 +0000"
     },
     "done": true
   },
