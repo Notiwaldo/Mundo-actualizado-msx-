@@ -1214,6 +1214,7 @@
       "minecraft:deep_cold_ocean": "2024-12-11 03:28:06 +0000",
       "minecraft:desert": "2024-12-14 00:04:24 +0000",
       "minecraft:ocean": "2024-12-11 03:27:34 +0000",
+      "minecraft:meadow": "2024-12-14 01:57:36 +0000",
       "minecraft:savanna": "2024-12-08 22:39:59 +0000",
       "minecraft:plains": "2024-12-11 03:36:31 +0000"
     },
@@ -7756,78 +7757,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-14 01:43:15 +0000",
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
+      "enchanted_item": "2024-12-13 23:27:13 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
+      "has_log": "2024-12-13 23:40:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
+      "has_cactus": "2024-12-14 00:05:22 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-14 01:42:53 +0000"
-    },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
@@ -7835,9 +7781,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_log": "2024-12-13 23:40:46 +0000"
+      "has_netherite_upgrade_smithing_template": "2024-12-14 00:55:21 +0000"
     },
     "done": true
   },
@@ -7883,12 +7829,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-14 00:55:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-14 00:57:16 +0000"
@@ -7898,18 +7838,6 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-14 00:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-13 23:27:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2024-12-14 00:05:22 +0000"
     },
     "done": true
   },
@@ -7952,6 +7880,18 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-14 00:57:16 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-14 02:01:51 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-14 02:01:51 +0000"
     },
     "done": true
   },
