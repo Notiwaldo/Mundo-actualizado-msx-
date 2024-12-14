@@ -2668,3 +2668,20 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 06:33:49.964] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
 [14Dec2024 06:35:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Not Today, Thank You]
 [14Dec2024 06:38:31.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[14Dec2024 06:41:58.871] [Server thread/WARN] [tombstone/]: The death event of the player Notiwaldo_35 was canceled by another mod
+[14Dec2024 06:41:58.921] [Server thread/INFO] [tombstone/]: The player Notiwaldo_35 has successfully been saved
+[14Dec2024 06:43:08.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 06:43:53.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 06:46:11.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[14Dec2024 06:49:52.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [The Desert Swimmers]
+[14Dec2024 06:50:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Eye Spy]
+[14Dec2024 06:51:01.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [The End?]
+[14Dec2024 06:51:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [The End?]
+[14Dec2024 06:51:07.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14321ms or 286 ticks behind
+[14Dec2024 06:51:07.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 moved too quickly! -828.8741598360722,60.39260454995134,1459.0437477199227
+[14Dec2024 06:51:09.181] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[14Dec2024 06:51:09.392] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[14Dec2024 06:51:10.179] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[14Dec2024 06:51:10.180] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[14Dec2024 06:51:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Eye Spy]
+[14Dec2024 06:51:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [The End?]
