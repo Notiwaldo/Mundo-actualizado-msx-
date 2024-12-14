@@ -2685,3 +2685,24 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 06:51:10.180] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
 [14Dec2024 06:51:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Eye Spy]
 [14Dec2024 06:51:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [The End?]
+[14Dec2024 06:52:02.643] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[14Dec2024 06:52:02.644] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[14Dec2024 06:52:32.798] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[14Dec2024 06:56:49.460] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 06:56:49.570] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 06:57:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Notiwaldo_35
+[14Dec2024 06:57:12.839] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 06:57:16.336] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:57:26.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
+[14Dec2024 06:58:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Free the End]
+[14Dec2024 06:58:01.848] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 06:58:01.861] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 06:58:11.244] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[14Dec2024 06:58:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Forged in Flames]
+[14Dec2024 06:58:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has completed the challenge [Steeped in Strength]
+[14Dec2024 07:00:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [The Next Generation]
+[14Dec2024 07:00:51.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [The Next Generation]
+[14Dec2024 07:01:08.798] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 07:01:08.808] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 07:01:28.501] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 07:01:28.509] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved

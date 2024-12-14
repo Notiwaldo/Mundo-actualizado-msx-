@@ -19648,3 +19648,76 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 06:51:14.221] [Worker-Main-389/DEBUG] [ModernFix/]: Structure mvs:other_decoration/end_scraps/end_scraps_1 is being run through DFU (hash 725c9d29f298044cc40adb42414f2e1e028572d6b28b3809453579863ef2baa6), this will cause launch time delays
 [14Dec2024 06:51:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Eye Spy]
 [14Dec2024 06:51:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [The End?]
+[14Dec2024 06:52:02.643] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[14Dec2024 06:52:02.644] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[14Dec2024 06:52:32.798] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[14Dec2024 06:55:47.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 06:55:47.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 06:56:49.460] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 06:56:49.570] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 06:57:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Notiwaldo_35
+[14Dec2024 06:57:12.653] [Server thread/DEBUG] [tombstone/]: A new grave of the player LilLeo8451 was created at position [x:41, y:61, z:10, dim:minecraft:the_end]
+[14Dec2024 06:57:12.839] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 06:57:16.336] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 06:57:16.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[14Dec2024 06:57:16.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[14Dec2024 06:57:18.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[14Dec2024 06:57:18.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[14Dec2024 06:57:18.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[14Dec2024 06:57:18.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[14Dec2024 06:57:18.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[14Dec2024 06:57:18.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[14Dec2024 06:57:18.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[14Dec2024 06:57:18.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[14Dec2024 06:57:18.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[14Dec2024 06:57:18.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[14Dec2024 06:57:18.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[14Dec2024 06:57:20.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[14Dec2024 06:57:22.703] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/end_scraps/end_scraps_3
+[14Dec2024 06:57:24.762] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[14Dec2024 06:57:25.009] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[14Dec2024 06:57:25.011] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[14Dec2024 06:57:25.014] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[14Dec2024 06:57:25.015] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[14Dec2024 06:57:25.024] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[14Dec2024 06:57:25.050] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[14Dec2024 06:57:25.318] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Dec2024 06:57:25.328] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[14Dec2024 06:57:25.330] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[14Dec2024 06:57:25.420] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[14Dec2024 06:57:25.439] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[14Dec2024 06:57:25.582] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[14Dec2024 06:57:25.761] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[14Dec2024 06:57:25.788] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[14Dec2024 06:57:25.793] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[14Dec2024 06:57:25.795] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[14Dec2024 06:57:25.798] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[14Dec2024 06:57:25.863] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[14Dec2024 06:57:26.030] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[14Dec2024 06:57:26.047] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[14Dec2024 06:57:26.054] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[14Dec2024 06:57:26.066] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[14Dec2024 06:57:26.083] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[14Dec2024 06:57:26.155] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[14Dec2024 06:57:26.263] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[14Dec2024 06:57:26.276] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[14Dec2024 06:57:26.280] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[14Dec2024 06:57:26.364] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[14Dec2024 06:57:26.383] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[14Dec2024 06:57:26.398] [Worker-Main-403/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/end_well
+[14Dec2024 06:57:26.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
+[14Dec2024 06:58:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Free the End]
+[14Dec2024 06:58:01.252] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[14Dec2024 06:58:01.848] [Server thread/WARN] [tombstone/]: The death event of the player ZEUS_PHASMA_ was canceled by another mod
+[14Dec2024 06:58:01.861] [Server thread/INFO] [tombstone/]: The player ZEUS_PHASMA_ has successfully been saved
+[14Dec2024 06:58:11.244] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=59, z=0}
+[14Dec2024 06:58:20.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Forged in Flames]
+[14Dec2024 06:58:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has completed the challenge [Steeped in Strength]
+[14Dec2024 07:00:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [The Next Generation]
+[14Dec2024 07:00:51.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has reached the goal [The Next Generation]
+[14Dec2024 07:00:52.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 07:00:52.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 07:01:08.798] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 07:01:08.808] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[14Dec2024 07:01:28.501] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[14Dec2024 07:01:28.509] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
