@@ -7661,6 +7661,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 08:07:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 07:49:36 +0000"
@@ -7684,6 +7690,18 @@
       "has_copper_ingot": "2024-12-14 07:49:36 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2024-12-14 08:15:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/brush": {
     "criteria": {
@@ -7712,6 +7730,18 @@
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 07:49:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 08:07:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 08:07:01 +0000"
     },
     "done": true
   },

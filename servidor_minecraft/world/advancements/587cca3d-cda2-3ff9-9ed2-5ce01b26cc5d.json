@@ -132,6 +132,7 @@
       "rocky_shrubland": "2024-12-10 00:44:47 +0000",
       "scrubland": "2024-12-08 22:25:01 +0000",
       "erupting_inferno": "2024-12-11 05:23:31 +0000",
+      "cold_desert": "2024-12-14 08:06:27 +0000",
       "old_growth_woodland": "2024-12-08 22:25:34 +0000",
       "withered_abyss": "2024-12-11 04:47:11 +0000",
       "orchard": "2024-12-10 00:43:53 +0000",
@@ -8283,6 +8284,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-12-14 08:10:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2024-12-14 07:48:26 +0000"
@@ -8292,6 +8299,18 @@
   "soulsweapons:recipes/combat/hunter_pistol": {
     "criteria": {
       "has_lost_soul": "2024-12-14 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 08:11:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 08:11:04 +0000"
     },
     "done": true
   },
@@ -8307,9 +8326,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 08:11:04 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
       "has_lost_soul": "2024-12-14 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-14 08:11:04 +0000"
     },
     "done": true
   },
@@ -8325,6 +8356,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 08:11:04 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2024-12-14 07:43:25 +0000"
@@ -8337,9 +8374,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2024-12-14 08:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-12-14 07:59:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-14 08:11:48 +0000"
     },
     "done": true
   },
@@ -8352,6 +8401,12 @@
   "soulsweapons:recipes/misc/soul_ingot": {
     "criteria": {
       "has_item": "2024-12-14 07:43:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-14 08:09:40 +0000"
     },
     "done": true
   },
