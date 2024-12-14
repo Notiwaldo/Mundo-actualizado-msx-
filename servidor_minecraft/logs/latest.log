@@ -739,3 +739,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:32:54.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ moved wrongly!
 [14Dec2024 07:32:56.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [14Dec2024 07:34:21.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[14Dec2024 07:39:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Bullets for Dinner]
+[14Dec2024 07:41:07.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6221, l='ServerLevel[world]', x=339.85, y=64.00, z=-851.43] died, message: 'Villager was slain by Decaying Zombie'
+[14Dec2024 07:42:04.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [A new Hunter in Town]
+[14Dec2024 07:43:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has reached the goal [Doomsday]
+[14Dec2024 07:43:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has reached the goal [Doomsday]
