@@ -2012,3 +2012,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "5AIUp8,0"
 ]
+[14Dec2024 04:24:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> como haces las herramientas de nederita?
+[14Dec2024 04:25:43.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Dec2024 04:25:43.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
