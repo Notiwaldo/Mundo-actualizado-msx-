@@ -12913,3 +12913,36 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 23:48:24.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Dec2024 23:49:46.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> XJAJAJAJA
 [13Dec2024 23:50:04.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LilLeo8451> muchas gracias
+[13Dec2024 23:53:24.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:53:24.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:53:52.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[13Dec2024 23:53:52.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[13Dec2024 23:53:52.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[13Dec2024 23:53:52.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[13Dec2024 23:54:53.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[13Dec2024 23:56:15.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[13Dec2024 23:56:15.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[13Dec2024 23:56:15.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[13Dec2024 23:56:15.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[13Dec2024 23:56:15.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[13Dec2024 23:56:15.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[13Dec2024 23:56:15.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[13Dec2024 23:56:15.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[13Dec2024 23:56:15.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[13Dec2024 23:56:15.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[13Dec2024 23:56:15.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[13Dec2024 23:56:15.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[13Dec2024 23:56:15.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[13Dec2024 23:56:15.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[13Dec2024 23:56:15.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[13Dec2024 23:56:15.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[13Dec2024 23:56:47.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[13Dec2024 23:56:55.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[13Dec2024 23:57:50.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Dec2024 23:58:24.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 23:58:24.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 23:58:54.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 23:58:58.616] [Worker-Main-182/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=-209, y=67, z=365} at Chest with:minecraft:chests/nether_bridge
+[13Dec2024 23:59:14.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:decaying_kingdom_altarnate
+[14Dec2024 00:00:03.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[14Dec2024 00:00:14.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
