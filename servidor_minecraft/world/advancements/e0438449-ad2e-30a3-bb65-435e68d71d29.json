@@ -391,6 +391,7 @@
       "minecraft:piglin": "2024-12-11 04:46:51 +0000",
       "minecraft:stray": "2024-12-09 21:34:07 +0000",
       "minecraft:enderman": "2024-12-10 04:54:36 +0000",
+      "minecraft:endermite": "2024-12-14 07:15:25 +0000",
       "minecraft:vex": "2024-12-09 21:39:48 +0000",
       "minecraft:zombie": "2024-12-09 05:19:37 +0000",
       "minecraft:drowned": "2024-12-09 21:26:42 +0000",
@@ -8379,6 +8380,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2024-12-14 05:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
@@ -8391,39 +8398,81 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_ingot_helmet": {
-    "criteria": {
-      "has_item": "2024-12-14 05:30:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "dragon_egg": "2024-12-14 07:00:51 +0000"
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/heavy": {
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-14 06:02:31 +0000"
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "has_end_stone": "2024-12-14 07:00:10 +0000"
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
-      "has_raw_gold": "2024-12-14 06:22:25 +0000"
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
     },
     "done": true
   },
@@ -8433,21 +8482,87 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/soul_robes_chestplate": {
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_ingot_helmet": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/guts_sword": {
+  "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
-      "has_item": "2024-12-14 06:02:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2024-12-14 07:00:10 +0000"
+      "has_item": "2024-12-14 05:30:48 +0000"
     },
     "done": true
   },
@@ -8469,45 +8584,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_robes_helmet": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-14 06:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-14 06:22:25 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet": {
-    "criteria": {
-      "has_lost_soul": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-12-14 07:08:28 +0000"
     },
     "done": true
   },
@@ -8517,63 +8596,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-14 06:02:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-14 07:00:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-14 06:51:29 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_robes_boots": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-14 06:12:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-14 05:47:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-12-14 06:51:46 +0000"
     },
     "done": true
   },
@@ -8589,129 +8614,33 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
-    "criteria": {
-      "has_lost_soul": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-12-14 07:00:10 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/soulfire_stain": {
-    "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/blunderbuss": {
-    "criteria": {
-      "has_lost_soul": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/iron_skull": {
-    "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/soul_ingot": {
-    "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_deepslate": "2024-12-14 05:07:55 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_ingot_chestplate": {
     "criteria": {
       "has_item": "2024-12-14 05:30:48 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
+      "fortress": "2024-12-14 05:47:03 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/hunter_cannon": {
+  "immersive_armors:recipes/misc/heavy": {
     "criteria": {
-      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+      "has_item": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+  "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+      "has_item": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/decorations/soul_lamp": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_item": "2024-12-14 05:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-12-14 06:51:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-12-14 06:12:10 +0000"
+      "has_iron_block": "2024-12-14 06:02:31 +0000"
     },
     "done": true
   },
@@ -8721,9 +8650,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-14 05:08:40 +0000"
+      "has_glowstone_dust": "2024-12-14 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 06:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 06:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 06:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 06:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-14 06:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-14 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-14 06:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-14 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2024-12-14 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-14 07:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-14 07:00:10 +0000"
     },
     "done": true
   },
@@ -8739,9 +8734,75 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/gatling_gun": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "has_lost_soul": "2024-12-14 05:24:37 +0000"
+      "dragon_egg": "2024-12-14 07:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-14 07:08:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-12-14 07:11:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-12-14 07:11:13 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2024-12-14 07:11:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-14 07:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-14 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-14 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-14 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-14 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-14 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-14 07:15:40 +0000"
     },
     "done": true
   },
