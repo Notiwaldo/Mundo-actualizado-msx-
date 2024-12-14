@@ -7632,6 +7632,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:hunter_pistol": {
     "criteria": {
       "weapon": "2024-12-14 07:42:04 +0000"
@@ -7643,6 +7649,12 @@
       "has_lost_soul": "2024-12-14 07:38:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
   },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
@@ -7674,6 +7686,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-12-14 08:46:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:blunderbuss": {
     "criteria": {
       "weapon": "2024-12-14 07:43:32 +0000"
@@ -7685,6 +7703,12 @@
       "has_item": "2024-12-14 07:38:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
@@ -7722,6 +7746,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-14 08:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2024-12-14 08:20:46 +0000"
@@ -7739,6 +7775,18 @@
       "has_item": "2024-12-14 07:49:36 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
   },
   "soulsweapons:gatling_gun": {
     "criteria": {
@@ -7770,6 +7818,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2024-12-14 08:07:01 +0000"
@@ -7794,17 +7848,41 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2024-12-14 07:38:09 +0000"
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/blunderbuss": {
     "criteria": {
       "has_lost_soul": "2024-12-14 07:38:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
@@ -7817,6 +7895,12 @@
       "has_item": "2024-12-14 07:38:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-14 08:56:55 +0000"
+    },
+    "done": false
   },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
