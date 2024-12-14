@@ -131,6 +131,7 @@
       "shrubland": "2024-12-09 04:27:39 +0000",
       "rocky_shrubland": "2024-12-10 04:41:12 +0000",
       "scrubland": "2024-12-09 04:25:38 +0000",
+      "erupting_inferno": "2024-12-14 04:45:49 +0000",
       "highland": "2024-12-10 05:31:10 +0000",
       "clover_patch": "2024-12-10 05:09:31 +0000",
       "cold_desert": "2024-12-10 06:19:18 +0000",
@@ -6865,6 +6866,24 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-14 01:08:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-14 04:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-14 04:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-14 04:53:52 +0000"
     },
     "done": true
   },
