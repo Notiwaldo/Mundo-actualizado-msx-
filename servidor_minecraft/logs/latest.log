@@ -956,3 +956,42 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [15Dec2024 05:09:36.890] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [15Dec2024 05:10:10.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has completed the challenge [Absolute Zero]
 [15Dec2024 05:10:36.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1464, l='ServerLevel[world]', x=-1386.30, y=121.00, z=2050.70] died, message: 'Villager was slain by Zombie Bruiser'
+[15Dec2024 05:11:29.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Dec2024 05:11:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Weird Fishes/Arpeggi]
+[15Dec2024 05:11:54.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9779ms or 195 ticks behind
+[15Dec2024 05:12:17.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[15Dec2024 05:12:47.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15403ms or 308 ticks behind
+[15Dec2024 05:13:11.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8328ms or 166 ticks behind
+[15Dec2024 05:13:30.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 has made the advancement [Not Too Hot to Handle]
+[15Dec2024 05:13:34.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8725ms or 174 ticks behind
+[15Dec2024 05:13:57.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7379ms or 147 ticks behind
+[15Dec2024 05:14:22.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10516ms or 210 ticks behind
+[15Dec2024 05:14:46.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8855ms or 177 ticks behind
+[15Dec2024 05:15:10.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8439ms or 168 ticks behind
+[15Dec2024 05:15:11.919] [Server thread/WARN] [tombstone/]: The death event of the player LilLeo8451 was canceled by another mod
+[15Dec2024 05:15:12.143] [Server thread/INFO] [tombstone/]: The player LilLeo8451 has successfully been saved
+[15Dec2024 05:15:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 was slain by Mimicube using [El MAMEITOR]
+[15Dec2024 05:15:19.856] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[15Dec2024 05:15:37.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12215ms or 244 ticks behind
+[15Dec2024 05:16:03.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11228ms or 224 ticks behind
+[15Dec2024 05:16:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 05:16:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 05:16:10.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 05:16:11.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Server closed
+[15Dec2024 05:16:11.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[15Dec2024 05:16:11.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LilLeo8451 lost connection: Server closed
+[15Dec2024 05:16:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LilLeo8451 left the game
+[15Dec2024 05:16:11.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 05:16:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Dec2024 05:16:14.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[15Dec2024 05:16:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Dec2024 05:16:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[15Dec2024 05:16:15.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Dec2024 05:16:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Dec2024 05:16:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[15Dec2024 05:16:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 05:16:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[15Dec2024 05:16:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 05:16:16.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Dec2024 05:16:16.700] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Dec2024 05:16:16.703] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
